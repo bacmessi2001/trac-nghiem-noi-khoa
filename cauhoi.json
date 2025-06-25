@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "tinhHuong": "Bệnh nhân nam, 58 tuổi, đến khám vì mệt mỏi ngày càng tăng, sụt khoảng 5kg trong 3 tháng và cảm giác đầy tức, khó chịu ở vùng bụng trên bên trái. Khám thực thể thấy lách to độ III. Xét nghiệm huyết đồ cho thấy: Bạch cầu (WBC) 150 G/L, Hồng cầu (RBC) 3.5 T/L, Hemoglobin (Hgb) 105 g/L, Tiểu cầu (PLT) 550 G/L. Phết máu ngoại vi thấy phổ bạch cầu chuyển trái với đủ các lứa tuổi của dòng hạt, đặc biệt tăng tỷ lệ bạch cầu ưa base (basophil) lên 15%.",
+    "cauHoi": "Dựa trên các triệu chứng và kết quả xét nghiệm, bệnh nhân này có khả năng cao mắc bệnh nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Bệnh bạch cầu tủy mạn (CML) giai đoạn mạn tính.",
+        "dung": true,
+        "giaiThich": "ĐÚNG. Bức tranh lâm sàng (tuổi trung niên, lách to, triệu chứng toàn thân không rầm rộ) và xét nghiệm (tăng bạch cầu rất cao, có đủ các lứa tuổi dòng hạt, tăng tiểu cầu, và đặc biệt tăng bạch cầu ưa base) là cực kỳ điển hình cho CML giai đoạn mạn tính."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Bệnh bạch cầu cấp dòng tủy (AML).",
+        "dung": false,
+        "giaiThich": "SAI. AML thường khởi phát cấp tính với triệu chứng suy tủy nặng (sốt, nhiễm trùng, xuất huyết). Quan trọng nhất, phết máu ngoại vi của AML có 'khoảng trống bạch cầu' - chủ yếu là tế bào blast và một ít bạch cầu trưởng thành, thiếu các dạng trung gian, khác với phổ đầy đủ các lứa tuổi ở bệnh nhân này."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Bệnh bạch cầu cấp dòng lympho (ALL).",
+        "dung": false,
+        "giaiThich": "SAI. Tương tự AML, ALL cũng là bệnh cảnh cấp tính với suy tủy và 'khoảng trống bạch cầu'. Ngoài ra, dòng tế bào ác tính là lymphoblast, không phải dòng hạt như trong trường hợp này."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Phản ứng giả Leucemia.",
+        "dung": false,
+        "giaiThich": "SAI. Đây là tình trạng tăng bạch cầu phản ứng (thường do nhiễm trùng nặng). Mặc dù bạch cầu có thể tăng nhưng thường không quá 100 G/L và quan trọng là không có tình trạng tăng bạch cầu ưa base và lách to độ III như trong CML."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tinhHuong": "Bệnh nhân nam 45 tuổi, được chẩn đoán xác định mắc bệnh bạch cầu tủy mạn (CML) giai đoạn mạn tính, xét nghiệm di truyền có nhiễm sắc thể Philadelphia (Ph+) dương tính, gen hợp nhất BCR::ABL1 dương tính. Điểm tiên lượng ELTS thuộc nhóm nguy cơ thấp. Bệnh nhân không có bệnh lý tim mạch hay bệnh phổi nền đáng kể.",
+    "cauHoi": "Lựa chọn điều trị tuyến đầu nào sau đây là phù hợp nhất cho bệnh nhân này?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Hóa trị liệu phác đồ \"7+3\" (Cytarabine và Daunorubicin).",
+        "dung": false,
+        "giaiThich": "SAI. Phác đồ \"7+3\" là hóa trị cường độ cao dành cho điều trị tấn công bệnh bạch cầu CẤP dòng tủy (AML). Liệu pháp nhắm trúng đích TKI là nền tảng cho CML giai đoạn mạn."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Imatinib 800 mg uống mỗi ngày.",
+        "dung": false,
+        "giaiThich": "SAI. Đây là liều cao gấp đôi liều tiêu chuẩn (400 mg/ngày) cho CML giai đoạn mạn. Việc tăng liều này không được chỉ định trong điều trị tuyến đầu và làm tăng nguy cơ tác dụng phụ không cần thiết."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Imatinib 400 mg uống mỗi ngày.",
+        "dung": true,
+        "giaiThich": "ĐÚNG. Đây là liều tiêu chuẩn của Imatinib (TKI thế hệ thứ nhất) cho điều trị tuyến đầu CML-CP. Với bệnh nhân nguy cơ thấp, đây là một lựa chọn hiệu quả, an toàn và kinh tế."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ponatinib 45 mg uống mỗi ngày.",
+        "dung": false,
+        "giaiThich": "SAI. Ponatinib là một TKI thế hệ thứ ba rất mạnh, nhưng có độc tính tim mạch đáng kể. Nó được dành riêng cho các tuyến điều trị sau hoặc khi có đột biến T315I kháng thuốc, không phải lựa chọn tuyến đầu."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tinhHuong": "Bệnh nhân nữ, 25 tuổi, nhập viện vì sốt cao, mệt lả và chảy máu chân răng nhiều ngày. Khám thấy da xanh xao, có nhiều mảng bầm tím tự nhiên trên da. Huyết đồ: WBC 3.0 G/L, Hgb 70 g/L, PLT 20 G/L. Phết máu ngoại vi ghi nhận 60% tế bào non (blast), các tế bào blast có bào tương rộng, nhân mịn, và đặc biệt quan sát thấy các cấu trúc hình que màu đỏ tím trong bào tương (thể Auer).",
+    "cauHoi": "Sự hiện diện của thể Auer gần như khẳng định chẩn đoán bệnh gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Bệnh bạch cầu cấp dòng lympho (ALL).",
+        "dung": false,
+        "giaiThich": "SAI. Thể Auer là các thể vùi chứa lysosome kết tinh, là dấu hiệu đặc trưng của sự biệt hóa dòng tủy. Chúng không bao giờ xuất hiện trong các tế bào lymphoblast của ALL."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Bệnh bạch cầu cấp dòng tủy (AML).",
+        "dung": true,
+        "giaiThich": "ĐÚNG. Thể Auer là dấu hiệu bệnh danh (pathognomonic) cho dòng tủy. Sự hiện diện của chúng trong các tế bào blast, cùng với bệnh cảnh suy tủy cấp tính, khẳng định chẩn đoán AML."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Bệnh bạch cầu tủy mạn (CML) giai đoạn chuyển cấp.",
+        "dung": false,
+        "giaiThich": "SAI. Mặc dù CML chuyển cấp sang dòng tủy cũng có blast dòng tủy, nhưng bệnh cảnh khởi phát đột ngột với suy tủy nặng ở một người trẻ tuổi khỏe mạnh trước đó làm cho chẩn đoán AML nguyên phát (de novo) phù hợp hơn nhiều."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Suy tủy xương.",
+        "dung": false,
+        "giaiThich": "SAI. Bệnh suy tủy xương (Aplastic Anemia) là tình trạng tủy xương trống rỗng, không sản xuất được tế bào. Do đó, huyết đồ sẽ thấy giảm cả 3 dòng nhưng không có sự hiện diện của tế bào blast ác tính hay thể Auer."
+      }
+    ]
+  }
+]
