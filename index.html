@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài Test Tình Huống Lâm Sàng Y Khoa</title>
+    <!-- Tải Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Tải font Inter từ Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- CSS tùy chỉnh -->
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            scroll-behavior: smooth;
+            background-color: #f8fafc;
+        }
+        /* Style cho đáp án được người dùng chọn */
+        .option.selected {
+            background-color: #c7d2fe; /* bg-indigo-200 */
+            border-color: #818cf8; /* border-indigo-400 */
+            border-width: 2px;
+        }
+        /* Style sau khi nộp bài */
+        .submitted .option.correct {
+            background-color: #10B981; /* bg-green-500 */
+            color: white;
+        }
+        .submitted .option.incorrect {
+            background-color: #fca5a5; /* bg-red-300 */
+        }
+        .submitted .option.selected.incorrect {
+             background-color: #EF4444; /* bg-red-500 */
+             color: white;
+        }
+        /* Hiệu ứng trượt xuống cho phần giải thích */
+        .explanation {
+            transition: max-height 0.5s ease-in-out;
+            max-height: 0;
+            overflow: hidden;
+        }
+        .explanation.show {
+            max-height: 1000px;
+        }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8 max-w-4xl">
+        <div class="text-center mb-10">
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-900">Bài Test Tình Huống Lâm Sàng</h1>
+            <p class="mt-2 text-lg text-gray-600">Các câu trả lời của bạn sẽ được tự động lưu. Hãy nộp bài ở cuối trang khi bạn sẵn sàng.</p>
+            <button id="reset-button" class="mt-4 px-4 py-2 bg-red-600 text-white text-sm font-semibold rounded-lg shadow-md hover:bg-red-700 transition-colors">Làm lại từ đầu</button>
+        </div>
+
+        <!-- Vùng hiển thị kết quả cuối cùng, ban đầu được ẩn -->
+        <div id="result-container" class="hidden text-center mb-10 p-6 bg-white rounded-xl shadow-lg">
+            <h2 id="score-text" class="text-2xl font-bold text-gray-800"></h2>
+            <p id="feedback-text" class="mt-2 text-gray-600"></p>
+            <!-- Nút làm lại bài kiểm tra sau khi kết thúc -->
+            <button id="retry-button" class="mt-6 px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">Làm lại bài kiểm tra</button>
+        </div>
+        
+        <!-- Vùng chứa các câu hỏi sẽ được tạo tự động -->
+        <div id="quiz-container" class="space-y-8">
+            <div id="loading" class="text-center text-gray-500">
+                <p>Đang tải câu hỏi...</p>
+            </div>
+        </div>
+        
+        <!-- Nút nộp bài, ban đầu được ẩn -->
+        <div id="submit-section" class="text-center mt-12 hidden">
+             <button id="submit-button" class="w-full md:w-auto px-12 py-4 bg-indigo-600 text-white font-bold text-lg rounded-lg shadow-md hover:bg-indigo-700 transition-colors">
+                Hoàn thành bài & Xem kết quả
+            </button>
+        </div>
+    </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const quizContainer = document.getElementById('quiz-container');
+        const loadingIndicator = document.getElementById('loading');
+        const submitButton = document.getElementById('submit-button');
+        const submitSection = document.getElementById('submit-section');
+        const resultContainer = document.getElementById('result-container');
+        const scoreText = document.getElementById('score-text');
+        const feedbackText = document.getElementById('feedback-text');
+        const resetButton = document.getElementById('reset-button');
+        const retryButton = document.getElementById('retry-button');
+        
+        const ANSWERS_KEY = 'quizUserAnswers';
+        const ORDER_KEY = 'quizQuestionOrder'; // Key mới để lưu thứ tự câu hỏi
+        let allQuestionsData = [];
+        let userAnswers = {};
+
+        // === CÁC HÀM LƯU/TẢI/XÁO TRỘN ===
+
+        function saveToStorage(key, value) {
+            localStorage.setItem(key, JSON.stringify(value));
+        }
+
+        function loadFromStorage(key) {
+            const data = localStorage.getItem(key);
+            return data ? JSON.parse(data) : null;
+        }
+        
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        function resetProgress() {
+            if (confirm('Bạn có chắc muốn xóa tất cả câu trả lời đã lưu và bắt đầu lại?')) {
+                localStorage.removeItem(ANSWERS_KEY);
+                localStorage.removeItem(ORDER_KEY); // Xóa cả thứ tự đã lưu
+                window.location.reload();
+            }
+        }
+
+        // === HÀM TẢI VÀ HIỂN THỊ CÂU HỎI ===
+        async function initializeQuiz() {
+            userAnswers = loadFromStorage(ANSWERS_KEY) || {};
+            let questionOrder = loadFromStorage(ORDER_KEY);
+
+            try {
+                const response = await fetch('cauhoi.json');
+                if (!response.ok) throw new Error(`Lỗi mạng: ${response.status}`);
+                
+                let fetchedQuestions = await response.json();
+
+                // YÊU CẦU 1: Xáo trộn nếu chưa có tiến trình
+                if (!questionOrder) {
+                    shuffleArray(fetchedQuestions);
+                    // Lưu lại thứ tự mới
+                    questionOrder = fetchedQuestions.map(q => q.id);
+                    saveToStorage(ORDER_KEY, questionOrder);
+                }
+                
+                // Sắp xếp các câu hỏi theo thứ tự đã lưu
+                allQuestionsData = questionOrder.map(id => fetchedQuestions.find(q => q.id === id));
+
+
+                loadingIndicator.style.display = 'none';
+                renderQuestions();
+                
+            } catch (error) {
+                loadingIndicator.textContent = 'Không thể tải được dữ liệu câu hỏi.';
+                console.error("Lỗi khi tải câu hỏi:", error);
+            }
+        }
+        
+        function renderQuestions() {
+            quizContainer.innerHTML = ''; // Xóa loading indicator
+            allQuestionsData.forEach((q, index) => {
+                if (!q) return; // Bỏ qua nếu không tìm thấy câu hỏi (phòng lỗi)
+                const questionWrapper = document.createElement('div');
+                questionWrapper.className = 'bg-white p-6 rounded-xl shadow-md border border-gray-200';
+                questionWrapper.setAttribute('data-id', q.id);
+
+                let optionsHTML = q.dapAn.map(ans => 
+                    `<button class="option w-full text-left p-4 bg-gray-100 hover:bg-indigo-100 rounded-lg transition-colors duration-200" data-letter="${ans.luaChon}">
+                        <span class="font-bold mr-2">${ans.luaChon}.</span> ${ans.noiDung}
+                     </button>`
+                ).join('');
+
+                questionWrapper.innerHTML = `
+                    <p class="text-lg font-semibold text-gray-700">Tình huống ${index + 1}</p>
+                    <p class="mt-2 text-gray-600">${q.tinhHuong}</p>
+                    <p class="mt-4 font-bold text-indigo-700">Câu hỏi: ${q.cauHoi}</p>
+                    <div class="mt-4 space-y-3 options-container">${optionsHTML}</div>
+                    <div class="explanation mt-4 rounded-lg"></div>
+                `;
+                
+                const savedAnswer = userAnswers[q.id];
+                if (savedAnswer) {
+                    const selectedButton = questionWrapper.querySelector(`.option[data-letter='${savedAnswer}']`);
+                    if (selectedButton) selectedButton.classList.add('selected');
+                }
+                
+                quizContainer.appendChild(questionWrapper);
+            });
+            
+            attachOptionListeners();
+            submitSection.style.display = 'block';
+        }
+
+        // === HÀM XỬ LÝ KHI NGƯỜI DÙNG CHỌN ĐÁP ÁN ===
+        function attachOptionListeners() {
+            quizContainer.querySelectorAll('.option').forEach(option => {
+                option.addEventListener('click', (e) => {
+                    const currentButton = e.currentTarget;
+                    const questionContainer = currentButton.closest('[data-id]');
+                    const questionId = questionContainer.getAttribute('data-id');
+                    const chosenLetter = currentButton.getAttribute('data-letter');
+                    
+                    userAnswers[questionId] = chosenLetter;
+                    saveToStorage(ANSWERS_KEY, userAnswers);
+                    
+                    questionContainer.querySelectorAll('.option').forEach(btn => btn.classList.remove('selected'));
+                    currentButton.classList.add('selected');
+                });
+            });
+        }
+        
+        // === HÀM XỬ LÝ KHI NỘP BÀI ===
+        function handleSubmit() {
+            if (Object.keys(userAnswers).length < allQuestionsData.length) {
+                if (!confirm(`Bạn chưa trả lời hết các câu hỏi. Bạn có chắc muốn nộp bài không?`)) {
+                    return;
+                }
+            }
+
+            let score = 0;
+            allQuestionsData.forEach(q => {
+                if (userAnswers[q.id] === q.dapAn.find(a => a.dung).luaChon) {
+                    score++;
+                }
+                
+                const questionContainer = quizContainer.querySelector(`[data-id='${q.id}']`);
+                questionContainer.classList.add('submitted');
+                const explanationContainer = questionContainer.querySelector('.explanation');
+                let explanationsHTML = q.dapAn.map(ans =>
+                    `<div class="p-4 rounded-md mt-2 ${ans.dung ? 'text-green-800 bg-green-50' : 'text-red-800 bg-red-50'}">
+                        <p><span class="font-bold">${ans.luaChon}. ${ans.noiDung}:</span> ${ans.giaiThich}</p>
+                    </div>`
+                ).join('');
+                explanationContainer.innerHTML = explanationsHTML;
+                explanationContainer.classList.add('show');
+
+                questionContainer.querySelectorAll('.option').forEach(opt => {
+                    opt.disabled = true;
+                    const isCorrect = q.dapAn.find(a => a.luaChon === opt.getAttribute('data-letter')).dung;
+                    if(isCorrect) opt.classList.add('correct');
+                    else opt.classList.add('incorrect');
+                });
+            });
+            
+            scoreText.textContent = `Kết quả: ${score} / ${allQuestionsData.length} câu đúng`;
+            if (score / allQuestionsData.length >= 0.8) {
+                feedbackText.textContent = "Tuyệt vời! Bạn có kiến thức rất vững chắc.";
+            } else if (score / allQuestionsData.length >= 0.5) {
+                feedbackText.textContent = "Khá tốt! Hãy xem lại các câu trả lời sai để củng cố kiến thức nhé.";
+            } else {
+                feedbackText.textContent = "Cần cố gắng hơn. Đây là cơ hội tốt để bạn học hỏi thêm nhiều điều!";
+            }
+            resultContainer.style.display = 'block';
+            
+            submitSection.style.display = 'none';
+            resetButton.style.display = 'none';
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // Gắn sự kiện cho các nút
+        submitButton.addEventListener('click', handleSubmit);
+        resetButton.addEventListener('click', resetProgress);
+        retryButton.addEventListener('click', resetProgress); // YÊU CẦU 2: Nút làm lại cũng gọi hàm reset
+        
+        // Bắt đầu chạy
+        initializeQuiz();
+    });
+    </script>
+
+</body>
+</html>
