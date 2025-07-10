@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bài Test Tình Huống Lâm Sàng Y Khoa</title>
+    <title>Các Bài Test Tình Huống Lâm Sàng Y Khoa</title>
     <!-- Tải Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Tải font Inter từ Google Fonts -->
@@ -48,38 +48,52 @@
 
     <div class="container mx-auto p-4 md:p-8 max-w-4xl">
         <div class="text-center mb-10">
-            <h1 class="text-3xl md:text-4xl font-bold text-gray-900">Bài Test Tình Huống Lâm Sàng</h1>
-            <p class="mt-2 text-lg text-gray-600">Các câu trả lời của bạn sẽ được tự động lưu. Hãy nộp bài ở cuối trang khi bạn sẵn sàng.</p>
-            <button id="reset-button" class="mt-4 px-4 py-2 bg-red-600 text-white text-sm font-semibold rounded-lg shadow-md hover:bg-red-700 transition-colors">Làm lại từ đầu</button>
-        </div>
-
-        <!-- Vùng hiển thị kết quả cuối cùng, ban đầu được ẩn -->
-        <div id="result-container" class="hidden text-center mb-10 p-6 bg-white rounded-xl shadow-lg">
-            <h2 id="score-text" class="text-2xl font-bold text-gray-800"></h2>
-            <p id="feedback-text" class="mt-2 text-gray-600"></p>
-            <!-- Nút làm lại bài kiểm tra sau khi kết thúc -->
-            <button id="retry-button" class="mt-6 px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">Làm lại bài kiểm tra</button>
-        </div>
-        
-        <!-- Vùng chứa các câu hỏi sẽ được tạo tự động -->
-        <div id="quiz-container" class="space-y-8">
-            <div id="loading" class="text-center text-gray-500">
-                <p>Đang tải câu hỏi...</p>
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-900">Các Bài Test Tình Huống Lâm Sàng Y Khoa</h1>
+            
+            <!-- YÊU CẦU MỚI: Dropdown chọn bài kiểm tra -->
+            <div id="quiz-selector-container" class="mt-8 max-w-md mx-auto">
+                <label for="quiz-selector" class="block text-lg font-medium text-gray-700 mb-2">Chọn một bài kiểm tra để bắt đầu:</label>
+                <select id="quiz-selector" class="w-full p-3 text-base rounded-lg border-2 border-gray-300 focus:border-indigo-500 focus:ring-indigo-500">
+                    <option value="">-- Vui lòng chọn --</option>
+                    <option value="cauhoi.json">Bài kiểm tra Nội khoa</option>
+                    <option value="cauhoi_2.json">Bài kiểm tra Nhi khoa</option>
+                    <option value="cauhoi_3.json">Bài kiểm tra Ngoại khoa</option>
+                    <option value="cauhoi_4.json">Bài kiểm tra Sản khoa</option>
+                </select>
             </div>
         </div>
-        
-        <!-- Nút nộp bài, ban đầu được ẩn -->
-        <div id="submit-section" class="text-center mt-12 hidden">
-             <button id="submit-button" class="w-full md:w-auto px-12 py-4 bg-indigo-600 text-white font-bold text-lg rounded-lg shadow-md hover:bg-indigo-700 transition-colors">
-                Hoàn thành bài & Xem kết quả
-            </button>
+
+        <!-- Vùng hiển thị các thành phần của bài test, ban đầu ẩn -->
+        <div id="quiz-main-content" class="hidden">
+            <div class="text-center mb-10">
+                <h2 id="quiz-title" class="text-2xl font-bold text-indigo-700"></h2>
+                <p class="mt-2 text-lg text-gray-600">Các câu trả lời của bạn sẽ được tự động lưu. Hãy nộp bài ở cuối trang khi bạn sẵn sàng.</p>
+                <button id="reset-button" class="mt-4 px-4 py-2 bg-red-600 text-white text-sm font-semibold rounded-lg shadow-md hover:bg-red-700 transition-colors">Làm lại bài này</button>
+            </div>
+
+            <div id="result-container" class="hidden text-center mb-10 p-6 bg-white rounded-xl shadow-lg">
+                <h2 id="score-text" class="text-2xl font-bold text-gray-800"></h2>
+                <p id="feedback-text" class="mt-2 text-gray-600"></p>
+                <button id="retry-button" class="mt-6 px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors">Làm lại bài kiểm tra</button>
+            </div>
+            
+            <div id="quiz-container" class="space-y-8"></div>
+            
+            <div id="submit-section" class="text-center mt-12 hidden">
+                 <button id="submit-button" class="w-full md:w-auto px-12 py-4 bg-indigo-600 text-white font-bold text-lg rounded-lg shadow-md hover:bg-indigo-700 transition-colors">
+                    Hoàn thành bài & Xem kết quả
+                </button>
+            </div>
         </div>
     </div>
 
     <script>
     document.addEventListener('DOMContentLoaded', () => {
+        // Lấy các element trên trang
+        const quizSelector = document.getElementById('quiz-selector');
+        const quizMainContent = document.getElementById('quiz-main-content');
+        const quizTitle = document.getElementById('quiz-title');
         const quizContainer = document.getElementById('quiz-container');
-        const loadingIndicator = document.getElementById('loading');
         const submitButton = document.getElementById('submit-button');
         const submitSection = document.getElementById('submit-section');
         const resultContainer = document.getElementById('result-container');
@@ -88,19 +102,26 @@
         const resetButton = document.getElementById('reset-button');
         const retryButton = document.getElementById('retry-button');
         
-        const ANSWERS_KEY = 'quizUserAnswers';
-        const ORDER_KEY = 'quizQuestionOrder'; // Key mới để lưu thứ tự câu hỏi
+        // Biến toàn cục để quản lý trạng thái
+        let currentQuizFile = '';
         let allQuestionsData = [];
         let userAnswers = {};
 
         // === CÁC HÀM LƯU/TẢI/XÁO TRỘN ===
+        function getStorageKey(baseKey) {
+            if (!currentQuizFile) return null;
+            return `${baseKey}_${currentQuizFile}`;
+        }
 
         function saveToStorage(key, value) {
-            localStorage.setItem(key, JSON.stringify(value));
+            const storageKey = getStorageKey(key);
+            if (storageKey) localStorage.setItem(storageKey, JSON.stringify(value));
         }
 
         function loadFromStorage(key) {
-            const data = localStorage.getItem(key);
+            const storageKey = getStorageKey(key);
+            if (!storageKey) return null;
+            const data = localStorage.getItem(storageKey);
             return data ? JSON.parse(data) : null;
         }
         
@@ -111,50 +132,59 @@
             }
         }
 
-        function resetProgress() {
-            if (confirm('Bạn có chắc muốn xóa tất cả câu trả lời đã lưu và bắt đầu lại?')) {
-                localStorage.removeItem(ANSWERS_KEY);
-                localStorage.removeItem(ORDER_KEY); // Xóa cả thứ tự đã lưu
-                window.location.reload();
+        function resetCurrentQuizProgress() {
+            if (confirm('Bạn có chắc muốn xóa tất cả câu trả lời đã lưu cho bài test này và bắt đầu lại?')) {
+                localStorage.removeItem(getStorageKey('quizUserAnswers'));
+                localStorage.removeItem(getStorageKey('quizQuestionOrder'));
+                initializeQuiz(currentQuizFile); // Tải lại bài test hiện tại
             }
         }
 
-        // === HÀM TẢI VÀ HIỂN THỊ CÂU HỎI ===
-        async function initializeQuiz() {
-            userAnswers = loadFromStorage(ANSWERS_KEY) || {};
-            let questionOrder = loadFromStorage(ORDER_KEY);
+        // === HÀM CHÍNH ĐỂ TẢI VÀ HIỂN THỊ BÀI TEST ===
+        async function initializeQuiz(fileName) {
+            if (!fileName) {
+                quizMainContent.classList.add('hidden');
+                return;
+            }
+            
+            currentQuizFile = fileName;
+            quizMainContent.classList.remove('hidden');
+            quizContainer.innerHTML = `<div class="text-center text-gray-500"><p>Đang tải bài kiểm tra...</p></div>`;
+            resultContainer.classList.add('hidden');
+            submitSection.classList.add('hidden');
+
+            // Cập nhật tiêu đề bài test
+            const selectedOption = quizSelector.querySelector(`option[value="${fileName}"]`);
+            quizTitle.textContent = selectedOption ? selectedOption.textContent : 'Bài kiểm tra';
+
+            userAnswers = loadFromStorage('quizUserAnswers') || {};
+            let questionOrder = loadFromStorage('quizQuestionOrder');
 
             try {
-                const response = await fetch('cauhoi.json');
-                if (!response.ok) throw new Error(`Lỗi mạng: ${response.status}`);
+                const response = await fetch(fileName);
+                if (!response.ok) throw new Error(`Không tìm thấy file: ${fileName}`);
                 
                 let fetchedQuestions = await response.json();
 
-                // YÊU CẦU 1: Xáo trộn nếu chưa có tiến trình
                 if (!questionOrder) {
                     shuffleArray(fetchedQuestions);
-                    // Lưu lại thứ tự mới
                     questionOrder = fetchedQuestions.map(q => q.id);
-                    saveToStorage(ORDER_KEY, questionOrder);
+                    saveToStorage('quizQuestionOrder', questionOrder);
                 }
                 
-                // Sắp xếp các câu hỏi theo thứ tự đã lưu
-                allQuestionsData = questionOrder.map(id => fetchedQuestions.find(q => q.id === id));
+                allQuestionsData = questionOrder.map(id => fetchedQuestions.find(q => q.id === id)).filter(Boolean);
 
-
-                loadingIndicator.style.display = 'none';
                 renderQuestions();
                 
             } catch (error) {
-                loadingIndicator.textContent = 'Không thể tải được dữ liệu câu hỏi.';
+                quizContainer.innerHTML = `<p class="text-center text-red-500">Lỗi: Không thể tải được dữ liệu. Vui lòng kiểm tra lại tên file JSON.</p>`;
                 console.error("Lỗi khi tải câu hỏi:", error);
             }
         }
         
         function renderQuestions() {
-            quizContainer.innerHTML = ''; // Xóa loading indicator
+            quizContainer.innerHTML = '';
             allQuestionsData.forEach((q, index) => {
-                if (!q) return; // Bỏ qua nếu không tìm thấy câu hỏi (phòng lỗi)
                 const questionWrapper = document.createElement('div');
                 questionWrapper.className = 'bg-white p-6 rounded-xl shadow-md border border-gray-200';
                 questionWrapper.setAttribute('data-id', q.id);
@@ -186,7 +216,7 @@
             submitSection.style.display = 'block';
         }
 
-        // === HÀM XỬ LÝ KHI NGƯỜI DÙNG CHỌN ĐÁP ÁN ===
+        // === CÁC HÀM XỬ LÝ SỰ KIỆN ===
         function attachOptionListeners() {
             quizContainer.querySelectorAll('.option').forEach(option => {
                 option.addEventListener('click', (e) => {
@@ -196,7 +226,7 @@
                     const chosenLetter = currentButton.getAttribute('data-letter');
                     
                     userAnswers[questionId] = chosenLetter;
-                    saveToStorage(ANSWERS_KEY, userAnswers);
+                    saveToStorage('quizUserAnswers', userAnswers);
                     
                     questionContainer.querySelectorAll('.option').forEach(btn => btn.classList.remove('selected'));
                     currentButton.classList.add('selected');
@@ -204,19 +234,14 @@
             });
         }
         
-        // === HÀM XỬ LÝ KHI NỘP BÀI ===
         function handleSubmit() {
             if (Object.keys(userAnswers).length < allQuestionsData.length) {
-                if (!confirm(`Bạn chưa trả lời hết các câu hỏi. Bạn có chắc muốn nộp bài không?`)) {
-                    return;
-                }
+                if (!confirm(`Bạn chưa trả lời hết các câu hỏi. Bạn có chắc muốn nộp bài không?`)) return;
             }
 
             let score = 0;
             allQuestionsData.forEach(q => {
-                if (userAnswers[q.id] === q.dapAn.find(a => a.dung).luaChon) {
-                    score++;
-                }
+                if (userAnswers[q.id] === q.dapAn.find(a => a.dung).luaChon) score++;
                 
                 const questionContainer = quizContainer.querySelector(`[data-id='${q.id}']`);
                 questionContainer.classList.add('submitted');
@@ -252,13 +277,11 @@
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
-        // Gắn sự kiện cho các nút
+        // Gắn sự kiện cho các nút và dropdown
+        quizSelector.addEventListener('change', (e) => initializeQuiz(e.target.value));
         submitButton.addEventListener('click', handleSubmit);
-        resetButton.addEventListener('click', resetProgress);
-        retryButton.addEventListener('click', resetProgress); // YÊU CẦU 2: Nút làm lại cũng gọi hàm reset
-        
-        // Bắt đầu chạy
-        initializeQuiz();
+        resetButton.addEventListener('click', resetCurrentQuizProgress);
+        retryButton.addEventListener('click', resetCurrentQuizProgress);
     });
     </script>
 
