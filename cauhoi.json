@@ -26669,32 +26669,32 @@
   },
   {
     "id": 859,
-    "tinhHuong": "Bạn đang chuẩn bị liều N-acetylcysteine (NAC) đường tĩnh mạch cho một bệnh nhân 60kg theo phác đồ 2 túi hiện đại.",
+    "tinhHuong": "Bạn đang chuẩn bị liều N-acetylcysteine (NAC) đường tĩnh mạch cho một bệnh nhân 60kg theo phác đồ 3 túi hiện đại.",
     "cauHoi": "Liều tải ban đầu chính xác cần được truyền là bao nhiêu?",
     "dapAn": [
       {
         "luaChon": "A",
         "noiDung": "9,000 mg (tương đương 150 mg/kg) truyền trong 1 giờ.",
-        "dung": false,
-        "giaiThich": "Đây là liều tải của phác đồ 3 túi cũ. Phác đồ 2 túi hiện đại sử dụng một liều tải khác và thời gian truyền dài hơn để cải thiện độ an toàn."
+        "dung": true,
+        "giaiThich": "Đây là liều tải của phác đồ 3 túi chính xác"
       },
       {
         "luaChon": "B",
         "noiDung": "12,000 mg (tương đương 200 mg/kg) truyền trong 4 giờ.",
-        "dung": true,
+        "dung": false,
         "giaiThich": "Đây là liều tải chính xác cho phác đồ 2 túi, cân bằng giữa việc cung cấp nhanh chóng thuốc giải độc và giảm thiểu các phản ứng liên quan đến tốc độ truyền."
       },
       {
         "luaChon": "C",
         "noiDung": "12,000 mg (tương đương 200 mg/kg) truyền trong 1 giờ.",
         "dung": false,
-        "giaiThich": "Mặc dù liều lượng trên mỗi kg là đúng, việc truyền liều tải này trong 1 giờ sẽ làm tăng đáng kể nguy cơ phản ứng dạng phản vệ và không phải là khuyến cáo của phác đồ 2 túi."
+        "giaiThich": "Liều lượng trên mỗi kg là sai theo phác đồ 3 túi, phác đồ 3 túi dùng Liều tải: 150 mg/kg NAC pha trong 200 mL dung dịch, truyền trong 1 giờ.Liều thứ hai: 50 mg/kg NAC pha trong 500 mL dung dịch, truyền trong 4 giờ.Liều thứ ba: 100 mg/kg NAC pha trong 1000 mL dung dịch, truyền trong 16 giờ."
       },
       {
         "luaChon": "D",
         "noiDung": "6,000 mg (tương đương 100 mg/kg) truyền trong 4 giờ.",
         "dung": false,
-        "giaiThich": "Đây là liều duy trì, không phải liều tải. Việc sử dụng liều này ban đầu sẽ không đủ để nhanh chóng bão hòa các con đường chuyển hóa độc hại."
+        "giaiThich": "Đây là liều duy trì của túi 3 trong 16 giờ. Việc sử dụng liều này ban đầu sẽ không đủ để nhanh chóng bão hòa các con đường chuyển hóa độc hại."
       }
     ]
   },
@@ -55003,7 +55003,7 @@
   },
   {
     "id": 1773,
-    "tinhHuong": "Bệnh nhân nam, 68 tuổi, được đưa vào viện trong tình trạng lú lẫn. Người nhà cho biết bệnh nhân có sốt và ho mấy ngày nay. Khám lâm sàng: nhịp thở 32 lần/phút, huyết áp 85/55 mmHg. Xét nghiệm Ure máu là 8.1 mmol/L.",
+    "tinhHuong": "Bệnh nhân nam, 60 tuổi, được đưa vào viện trong tình trạng lú lẫn. Người nhà cho biết bệnh nhân có sốt và ho mấy ngày nay. Khám lâm sàng: nhịp thở 32 lần/phút, huyết áp 85/55 mmHg. Xét nghiệm Ure máu là 8.1 mmol/L.",
     "cauHoi": "Tính điểm CURB-65 cho bệnh nhân này.",
     "dapAn": [
       {
