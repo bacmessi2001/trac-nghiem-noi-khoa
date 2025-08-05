@@ -1,0 +1,2916 @@
+[
+  {
+    "id": 1,
+    "tinhHuong": "Một loài vi khuẩn sống trong ruột người, không gây hại và cũng không mang lại lợi ích rõ ràng cho người. Tuy nhiên, nếu hệ miễn dịch của người suy giảm, vi khuẩn này có thể phát triển quá mức và gây bệnh.",
+    "cauHoi": "Dựa vào tài liệu, mối quan hệ này gần nhất với khái niệm nào khi vi khuẩn chưa gây bệnh?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tương sinh (Mutualism)",
+        "dung": false,
+        "giaiThich": "Tương sinh yêu cầu cả hai bên cùng có lợi và phụ thuộc lẫn nhau, điều này không được đề cập."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Hội sinh (Commensalism)",
+        "dung": true,
+        "giaiThich": "Mối quan hệ hội sinh được định nghĩa là \"ăn cùng bàn\", trong đó một sinh vật có lợi (vi khuẩn) và sinh vật còn lại (người) không có lợi cũng không bị hại. Đây là mô tả phù hợp nhất cho trạng thái ban đầu khi chưa có hại."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ký sinh (Parasitism)",
+        "dung": false,
+        "giaiThich": "Ký sinh yêu cầu ký sinh trùng phải gây hại cho vật chủ để hưởng lợi, điều này chỉ xảy ra khi hệ miễn dịch suy giảm. Ở trạng thái bình thường, nó không gây hại."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Hoại sinh (Phoresis)",
+        "dung": false,
+        "giaiThich": "Hoại sinh chỉ là \"mang theo\", không có sự chiếm đoạt thức ăn, trong khi vi khuẩn vẫn lấy dinh dưỡng từ ruột người."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tinhHuong": "Trong chu trình phát triển của sán lá gan nhỏ (Clonorchis sinensis), con người bị nhiễm bệnh khi ăn cá nước ngọt chứa ấu trùng. Sán trưởng thành và sinh sản trong đường mật của người.",
+    "cauHoi": "Dựa vào vai trò của các sinh vật, con người đóng vai trò gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vật chủ phụ",
+        "dung": false,
+        "giaiThich": "Vật chủ phụ mang ký sinh trùng ở giai đoạn chưa trưởng thành. Trong chu trình này, ốc và cá là các vật chủ phụ/trung gian."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vật chủ chính (vĩnh viễn)",
+        "dung": true,
+        "giaiThich": "Vật chủ chính (vĩnh viễn) được định nghĩa là vật chủ mang ký sinh trùng ở giai đoạn trưởng thành và đạt được sự hoàn chỉnh về cơ quan sinh dục. Trong trường hợp này, sán lá gan nhỏ trưởng thành và sinh sản trong cơ thể người."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vật chủ trung gian",
+        "dung": false,
+        "giaiThich": "Vật chủ trung gian là môi trường cần thiết cho sự phát triển của ký sinh trùng ở giai đoạn ấu trùng. Người là nơi sán trưởng thành."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sinh vật vận chuyển (môi giới)",
+        "dung": false,
+        "giaiThich": "Sinh vật vận chuyển chỉ mang mầm bệnh một cách cơ học mà không cần thiết cho sự phát triển của ký sinh trùng."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tinhHuong": "Amip Naegleria fowleri bình thường sống tự do trong môi trường nước ngọt ấm. Khi con người bơi ở những nơi này, amip có thể xâm nhập qua đường mũi lên não và gây bệnh viêm màng não - não cấp tính, thường gây tử vong.",
+    "cauHoi": "Naegleria fowleri là ví dụ điển hình cho loại ký sinh trùng nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ký sinh trùng lạc chủ",
+        "dung": false,
+        "giaiThich": "Ký sinh trùng lạc chủ là ký sinh trùng ký sinh trên vật chủ không thích hợp (ví dụ giun đũa chó ở người), nhưng bản chất nó vẫn là một ký sinh trùng, không phải sinh vật sống tự do."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ký sinh trùng vĩnh viễn",
+        "dung": false,
+        "giaiThich": "Ký sinh trùng vĩnh viễn sống toàn bộ hoặc phần lớn cuộc đời trên vật chủ, trái ngược với bản chất sống tự do của Naegleria."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ký sinh trùng đa ký",
+        "dung": false,
+        "giaiThich": "Ký sinh trùng đa ký có thể ký sinh trên nhiều loại vật chủ khác nhau, nhưng nó vẫn là một ký sinh trùng bắt buộc, không phải sinh vật tự do."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ký sinh trùng tình cờ (ngẫu nhiên)",
+        "dung": true,
+        "giaiThich": "Ký sinh trùng tình cờ hay ngẫu nhiên được định nghĩa là những sinh vật sống tự do ở ngoại cảnh và chỉ trở thành ký sinh trùng khi gặp điều kiện thuận lợi. Naegleria fowleri hoàn toàn phù hợp với mô tả này."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "tinhHuong": "Khi nhiễm sán lá gan Clonorchis sinensis, các tế bào biểu mô thành ống mật của vật chủ tăng sinh một cách nhanh chóng do sự kích thích của ký sinh trùng, làm cho thành ống mật bị dày lên.",
+    "cauHoi": "Hiện tượng này được gọi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Phì đại (Hypertrophy)",
+        "dung": false,
+        "giaiThich": "Phì đại là sự gia tăng về kích thước của tế bào, không phải số lượng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tăng sản (Hyperplasia)",
+        "dung": true,
+        "giaiThich": "Tăng sản được định nghĩa là sự gia tăng số lượng tế bào bằng cách tăng tốc độ phân chia tế bào, thường do hoạt động sửa chữa của cơ thể. Ví dụ trong tài liệu hoàn toàn khớp với mô tả."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tân sản (Neoplasia)",
+        "dung": false,
+        "giaiThich": "Tân sản là sự hình thành một tổ chức mới (khối u) do tế bào phát triển bất thường, có thể lành tính hoặc ác tính."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Hoại tử (Necrosis)",
+        "dung": false,
+        "giaiThich": "Hoại tử là tình trạng tế bào hoặc mô bị chết."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "tinhHuong": "Vòng đời của giun đũa (Ascaris lumbricoides) bắt đầu khi người nuốt phải trứng có phôi. Ấu trùng nở ra ở ruột non, chu du qua nhiều cơ quan rồi quay trở lại ruột non để trưởng thành. Trứng theo phân ra ngoài và cần một thời gian phát triển ở đất ẩm để có khả năng lây nhiễm.",
+    "cauHoi": "Vòng đời này thuộc kiểu nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Kiểu 2",
+        "dung": false,
+        "giaiThich": "Kiểu 2: Toàn bộ quá trình phát triển xảy ra trên cơ thể vật chủ (ví dụ: Trichomonas vaginalis)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Kiểu 3",
+        "dung": true,
+        "giaiThich": "Kiểu 3 được mô tả là ký sinh trùng trưởng thành trong cơ thể vật chủ, đào thải mầm bệnh ra ngoại cảnh, mầm bệnh cần thời gian phát triển ở ngoại cảnh đến giai đoạn lây nhiễm rồi mới xâm nhập lại vào vật chủ. Điều này hoàn toàn khớp với vòng đời của giun đũa."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Kiểu 4",
+        "dung": false,
+        "giaiThich": "Kiểu 4: Mầm bệnh sau khi ra ngoại cảnh phải xâm nhập vào một hoặc nhiều vật chủ trung gian trước khi lây cho người (ví dụ: sán lá)."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Kiểu 5",
+        "dung": false,
+        "giaiThich": "Kiểu 5: Mầm bệnh lây truyền trực tiếp từ người này sang người khác thông qua vật chủ trung gian (ví dụ: Plasmodium qua muỗi)."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "tinhHuong": "Ruồi nhà có thể truyền bào nang amip Entamoeba histolytica một cách cơ học. Trong khi đó, ký sinh trùng sốt rét Plasmodium phát triển và sinh sản bên trong cơ thể muỗi Anopheles trước khi được truyền cho người khác.",
+    "cauHoi": "Sự khác biệt cơ bản giữa vai trò của ruồi và muỗi trong hai trường hợp này là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ruồi là vector cơ học, muỗi là vector sinh học.",
+        "dung": true,
+        "giaiThich": "Vector cơ học chỉ vận chuyển mầm bệnh (ruồi). Vector sinh học là nơi ký sinh trùng trải qua một giai đoạn phát triển, thậm chí sinh sản (muỗi)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ruồi là sinh vật vận chuyển, muỗi là vật chủ chính.",
+        "dung": false,
+        "giaiThich": "Muỗi là vật chủ trung gian (vì mang giai đoạn sinh sản của Plasmodium), không phải vật chủ chính. Người mới là vật chủ chính."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Cả hai đều là vector sinh học nhưng mức độ phát triển của ký sinh trùng khác nhau.",
+        "dung": false,
+        "giaiThich": "Ruồi là vector cơ học, không phải sinh học vì amip không phát triển bên trong nó."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ruồi là vật chủ phụ, muỗi là vật chủ trung gian.",
+        "dung": false,
+        "giaiThich": "Ruồi không phải là vật chủ phụ vì amip không phát triển bên trong nó. Muỗi vừa là vector sinh học, vừa là vật chủ trung gian."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "tinhHuong": "Giun đũa chó (Toxocara canis) có vật chủ chính là chó. Khi người nuốt phải trứng giun này, ấu trùng nở ra nhưng không thể phát triển thành giun trưởng thành mà di chuyển khắp cơ thể và gây tổn thương.",
+    "cauHoi": "Trong trường hợp này, người được xem là gì và hiện tượng ký sinh này gọi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vật chủ chính, ký sinh trùng đơn ký.",
+        "dung": false,
+        "giaiThich": "Người không phải vật chủ chính vì giun không trưởng thành được."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vật chủ tình cờ, ký sinh trùng lạc chủ.",
+        "dung": false,
+        "giaiThich": "Người là vật chủ không thích hợp, không phải vật chủ tình cờ (vật chủ tình cờ áp dụng cho sinh vật tự do trở thành ký sinh trùng)."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vật chủ phụ, ký sinh trùng đa ký.",
+        "dung": false,
+        "giaiThich": "Người không phải vật chủ phụ theo đúng chu trình tự nhiên của giun. Hiện tượng này là lạc chủ, không phải đa ký."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vật chủ không thích hợp, ký sinh trùng lạc chủ.",
+        "dung": true,
+        "giaiThich": "Ký sinh trùng lạc chủ được định nghĩa là ký sinh trùng xâm nhập vào một vật chủ không thích hợp, không thể phát triển đến giai đoạn trưởng thành và thường gây bệnh ở vị trí bất thường. Người chính là vật chủ không thích hợp cho Toxocara canis."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "tinhHuong": "Dựa vào nguyên tắc danh pháp khoa học được nêu trong tài liệu.",
+    "cauHoi": "Cách viết nào sau đây là hoàn toàn chính xác?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ascaris Lumbricoides",
+        "dung": false,
+        "giaiThich": "Tên loài \"Lumbricoides\" viết hoa chữ cái đầu là sai."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Taenia Solium",
+        "dung": false,
+        "giaiThich": "Tên loài \"Solium\" viết hoa chữ cái đầu là sai."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Enterobius vermicularis",
+        "dung": true,
+        "giaiThich": "Theo nguyên tắc: tên chi đứng trước (viết hoa chữ cái đầu), tên loài đứng sau (viết thường toàn bộ), và toàn bộ tên phải được viết nghiêng hoặc gạch chân. Cách viết này tuân thủ đúng tất cả các quy tắc."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "anopheles spp.",
+        "dung": false,
+        "giaiThich": "Tên chi \"anopheles\" viết thường chữ cái đầu là sai và không được viết nghiêng/gạch chân."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "tinhHuong": "Khi ký sinh trùng sốt rét Plasmodium vivax xâm nhập và phát triển bên trong hồng cầu, nó làm cho tế bào hồng cầu này trương to lên một cách bất thường so với các hồng cầu không bị nhiễm.",
+    "cauHoi": "Hiện tượng tế bào hồng cầu tăng kích thước này được gọi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tăng sản",
+        "dung": false,
+        "giaiThich": "Tăng sản là tăng số lượng tế bào, không phải kích thước."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Thoái hóa mỡ",
+        "dung": false,
+        "giaiThich": "Thoái hóa mỡ là sự lắng đọng chất béo bất thường trong tế bào, thường gặp ở tế bào gan."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Phì đại",
+        "dung": true,
+        "giaiThich": "Phì đại được định nghĩa là sự gia tăng kích thước của tế bào. Ví dụ trong tài liệu nêu rõ: \"Plasmodium vivax làm kích thước các tế bào hồng cầu bị ký sinh... lớn hơn bình thường\"."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tân sản",
+        "dung": false,
+        "giaiThich": "Tân sản là sự hình thành khối u."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "tinhHuong": "Bệnh sán lá gan nhỏ phổ biến ở một số vùng nông thôn Việt Nam nơi người dân có thói quen ăn gỏi cá sống.",
+    "cauHoi": "Yếu tố nào sau đây được xem là yếu tố quyết định chính đến sự phân bố của bệnh theo đặc điểm sinh thái học được mô tả trong tài liệu?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Mật độ của ký sinh trùng trong môi trường.",
+        "dung": false,
+        "giaiThich": "Mật độ ký sinh trùng là một yếu tố, nhưng nó là hệ quả của chu trình lây nhiễm, mà chu trình này lại được duy trì bởi tập quán ăn uống."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Đặc điểm văn hóa (tập quán ăn uống) của vật chủ.",
+        "dung": true,
+        "giaiThich": "Tài liệu nhấn mạnh: \"sự phân bố bệnh ký sinh trùng còn phụ thuộc vào các đặc điểm của vật chủ như văn hóa...\". Thói quen ăn gỏi cá sống là một đặc điểm văn hóa, là con đường lây nhiễm trực tiếp và là yếu tố quyết định."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Khí hậu môi trường quyết định sự tồn tại của trứng sán.",
+        "dung": false,
+        "giaiThich": "Khí hậu ảnh hưởng đến các vật chủ trung gian (ốc, cá) nhưng không phải là yếu tố quyết định trực tiếp bằng thói quen ăn uống của con người."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự có mặt của các sinh vật vận chuyển như ruồi, nhặng.",
+        "dung": false,
+        "giaiThich": "Sán lá gan nhỏ không lây truyền qua sinh vật vận chuyển như ruồi."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "tinhHuong": "Ở một số loài sán lá, giai đoạn ấu trùng (chưa trưởng thành) ký sinh trong vật chủ trung gian đã có khả năng sinh sản để tạo ra các thế hệ ấu trùng mới trước khi phát triển thành con trưởng thành.",
+    "cauHoi": "Hình thức sinh sản đặc biệt này được gọi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sinh sản vô tính",
+        "dung": false,
+        "giaiThich": "Sinh sản vô tính là hình thức chung, nhưng \"phôi từ sinh\" là thuật ngữ cụ thể và chính xác hơn cho trường hợp này."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sinh sản hữu tính",
+        "dung": false,
+        "giaiThich": "Sinh sản hữu tính xảy ra ở giai đoạn trưởng thành."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Phôi từ sinh",
+        "dung": true,
+        "giaiThich": "Tài liệu định nghĩa \"Phôi từ sinh\" là hình thức sinh sản của ký sinh trùng ở giai đoạn ấu trùng, gặp ở các loại sán lá. Đây chính xác là mô tả của hiện tượng trong câu hỏi."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sinh sản đơn tính",
+        "dung": false,
+        "giaiThich": "Sinh sản đơn tính (parthenogenesis) không được đề cập trực tiếp với tên gọi này và \"phôi từ sinh\" là thuật ngữ được dùng trong tài liệu."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "tinhHuong": "Một con tôm nhỏ ăn phải ấu trùng của một loài giun sán. Sau đó, một con cá lớn ăn con tôm này. Ấu trùng giun sán không phát triển thêm bên trong cá mà chỉ tồn tại ở đó. Cuối cùng, một con chim biển ăn con cá và giun sán phát triển thành con trưởng thành trong ruột chim.",
+    "cauHoi": "Vai trò của con cá lớn là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vật chủ chính",
+        "dung": false,
+        "giaiThich": "Vật chủ chính là con chim, nơi giun sán trưởng thành."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vật chủ phụ",
+        "dung": false,
+        "giaiThich": "Vật chủ phụ/trung gian là môi trường cần thiết cho sự phát triển của ký sinh trùng qua các giai đoạn. Trong trường hợp này, ấu trùng không phát triển trong cá."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vật chủ trung gian",
+        "dung": false,
+        "giaiThich": "Vật chủ phụ/trung gian là môi trường cần thiết cho sự phát triển của ký sinh trùng qua các giai đoạn. Trong trường hợp này, ấu trùng không phát triển trong cá."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sinh vật vận chuyển (môi giới)",
+        "dung": true,
+        "giaiThich": "Sinh vật vận chuyển được định nghĩa là không cần thiết cho việc hoàn thành vòng đời, nhưng là nơi trú ẩn tạm thời và là phương tiện để ký sinh trùng tìm thấy vật chủ chính. Ấu trùng không phát triển thêm trong cơ thể cá, do đó cá chỉ đóng vai trò \"cầu nối\"."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "tinhHuong": "So sánh giữa giun đũa (Ascaris lumbricoides) sống liên tục trong ruột người và muỗi cái (Anopheles) chỉ đến hút máu người trong một thời gian ngắn.",
+    "cauHoi": "Dựa vào mối quan hệ với vật chủ, chúng lần lượt thuộc loại ký sinh trùng nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Cả hai đều là ký sinh trùng vĩnh viễn.",
+        "dung": false,
+        "giaiThich": "Phân loại sai, muỗi là ký sinh trùng tạm thời."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Giun đũa là ký sinh trùng vĩnh viễn, muỗi là ký sinh trùng tạm thời.",
+        "dung": true,
+        "giaiThich": "Ký sinh trùng vĩnh viễn sống thời gian dài hoặc toàn bộ cuộc đời trên vật chủ (giun đũa). Ký sinh trùng tạm thời chỉ sống trên vật chủ một thời gian ngắn khi cần thức ăn (muỗi cái)."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Giun đũa là nội ký sinh trùng, muỗi là ký sinh trùng lạc chủ.",
+        "dung": false,
+        "giaiThich": "Phân loại đúng (nội ký sinh/ngoại ký sinh) nhưng không trả lời câu hỏi về mối quan hệ \"vĩnh viễn/tạm thời\". Muỗi không phải là ký sinh trùng lạc chủ trong mối quan hệ với người."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Giun đũa là ký sinh trùng tạm thời, muỗi là ký sinh trùng vĩnh viễn.",
+        "dung": false,
+        "giaiThich": "Phân loại sai, giun đũa là ký sinh trùng vĩnh viễn."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "tinhHuong": "Nhiễm sán lá gan lớn Fasciola hepatica có thể dẫn đến việc các tế bào gan phát triển một cách bất thường, hình thành một tổ chức mới. Tổ chức này ban đầu có thể lành tính nhưng có nguy cơ trở thành ác tính và xâm lấn các mô xung quanh.",
+    "cauHoi": "Hiện tượng này được gọi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Phì đại",
+        "dung": false,
+        "giaiThich": "Phì đại là tăng kích thước tế bào."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tăng sản",
+        "dung": false,
+        "giaiThich": "Tăng sản là tăng số lượng tế bào."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tân sản (Loạn sản)",
+        "dung": true,
+        "giaiThich": "Tân sản (loạn sản) được định nghĩa là sự phát triển bất thường của tế bào hình thành một tổ chức mới như khối u, có thể lành tính hoặc ác tính. Ví dụ trong tài liệu về Fasciola hepatica gây khối u trong gan hoàn toàn khớp với mô tả."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Thoái hóa Albumin",
+        "dung": false,
+        "giaiThich": "Thoái hóa Albumin là tổn thương tế bào do đông vón protein."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "tinhHuong": "Một bệnh nhân bị nhiễm ký sinh trùng, kết quả xét nghiệm cho thấy các tế bào gan có màu vàng do sự lắng đọng bất thường của các giọt chất béo bên trong tế bào.",
+    "cauHoi": "Đây là biểu hiện của loại tổn thương tế bào nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Hoại tử tổ chức",
+        "dung": false,
+        "giaiThich": "Hoại tử là tế bào bị chết."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Thoái hóa Albumin",
+        "dung": false,
+        "giaiThich": "Thoái hóa Albumin làm tế bào bị sưng và nhợt nhạt, không có màu vàng đặc trưng của mỡ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Thoái hóa mỡ",
+        "dung": true,
+        "giaiThich": "Thoái hóa mỡ được định nghĩa là hậu quả của sự lắng đọng lượng chất béo bất thường trong tế bào, làm cho tế bào có màu vàng và thường gặp ở tế bào gan bị nhiễm ký sinh trùng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tăng sản",
+        "dung": false,
+        "giaiThich": "Tăng sản là sự gia tăng số lượng tế bào."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "tinhHuong": "Trong ký sinh trùng y học, việc nghiên cứu các yếu tố như tập quán ăn uống, điều kiện vệ sinh, khí hậu, sự phân bố của động vật...",
+    "cauHoi": "Tại sao việc nghiên cứu các đặc điểm sinh thái này lại quan trọng?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì nó giúp xác định hình thể của ký sinh trùng.",
+        "dung": false,
+        "giaiThich": "Hình thể là đặc điểm riêng của loài, không phụ thuộc vào sinh thái."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì nó giúp hiểu rõ cơ chế gây tổn thương mô của ký sinh trùng.",
+        "dung": false,
+        "giaiThich": "Cơ chế gây tổn thương là tương tác sinh học trực tiếp, không phải đặc điểm sinh thái."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì nó giúp tìm hiểu dịch tễ học và xây dựng chiến lược phòng chống bệnh hiệu quả.",
+        "dung": true,
+        "giaiThich": "Phần \"Đặc điểm sinh thái\" trong tài liệu nhấn mạnh rằng mô hình sinh thái rất quan trọng trong việc tìm hiểu dịch tễ học và sự kiểm soát ký sinh trùng, từ đó giúp đưa ra các biện pháp phòng chống phù hợp."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vì nó giúp phân loại ký sinh trùng vào các giới, ngành, lớp khác nhau.",
+        "dung": false,
+        "giaiThich": "Phân loại dựa trên đặc điểm di truyền và hình thái, không phải sinh thái."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "tinhHuong": "Ký sinh trùng Toxoplasma gondii có thể sinh sản hữu tính trong ruột của các loài họ Mèo (vật chủ chính), nhưng lại có khả năng ký sinh và sinh sản vô tính ở tất cả các loài động vật có xương sống, bao gồm cả con người.",
+    "cauHoi": "Đặc điểm này cho thấy Toxoplasma gondii là loại ký sinh trùng gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ký sinh trùng đơn ký",
+        "dung": false,
+        "giaiThich": "Đơn ký chỉ ký sinh trên một loại vật chủ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ký sinh trùng lạc chủ",
+        "dung": false,
+        "giaiThich": "Lạc chủ là ký sinh nhầm vật chủ không thích hợp và không hoàn thành chu trình. Con người là một vật chủ (dù không phải vật chủ chính) trong chu trình của Toxoplasma, không phải là \"lạc\"."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ký sinh trùng đa ký",
+        "dung": true,
+        "giaiThich": "Ký sinh trùng đa ký được định nghĩa là có khả năng ký sinh trên nhiều loại vật chủ khác nhau. Ví dụ trong tài liệu chỉ rõ Toxoplasma gondii có khả năng ký sinh và sinh sản vô tính trên tất cả động vật có xương sống."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ký sinh trùng tạm thời",
+        "dung": false,
+        "giaiThich": "Tạm thời chỉ mối quan hệ về thời gian, không phải về phổ vật chủ."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "tinhHuong": "Khi một ký sinh trùng xâm nhập vào cơ thể, vật chủ thường có phản ứng lại sự hiện diện của các kháng nguyên từ ký sinh trùng.",
+    "cauHoi": "Phản ứng này có ý nghĩa gì trong mối quan hệ ký sinh?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Luôn luôn tiêu diệt hoàn toàn ký sinh trùng.",
+        "dung": false,
+        "giaiThich": "Phản ứng miễn dịch không phải lúc nào cũng thành công trong việc tiêu diệt hoàn toàn ký sinh trùng; nhiều ký sinh trùng có cơ chế lẩn tránh miễn dịch."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Giúp ký sinh trùng phát triển nhanh hơn.",
+        "dung": false,
+        "giaiThich": "Phản ứng miễn dịch của vật chủ nhằm chống lại ký sinh trùng, không phải giúp nó phát triển."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Là một phần của hiện tượng ký sinh, thể hiện sự phụ thuộc vào đáp ứng miễn dịch của vật chủ.",
+        "dung": true,
+        "giaiThich": "Tài liệu nêu rõ: \"hiện tượng ký sinh, ngoài sự phụ thuộc vào các đặc điểm sinh lý, ký sinh trùng còn phụ thuộc vào đáp ứng miễn dịch của vật chủ\". Phản ứng của vật chủ là một phần của sự tương tác phức tạp này."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Chỉ xảy ra với ngoại ký sinh trùng.",
+        "dung": false,
+        "giaiThich": "Phản ứng miễn dịch xảy ra với cả nội và ngoại ký sinh trùng."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "tinhHuong": "Một người bị nhiễm một loại ký sinh trùng và các bác sĩ nhận thấy một loại mô trong cơ thể người này đã bị biến đổi thành một loại mô hoàn toàn khác để bao bọc lấy ký sinh trùng. Ví dụ, mô liên kết chuyển thành mô dạng biểu mô để tạo thành vỏ nang.",
+    "cauHoi": "Hiện tượng này gọi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tân sản (Neoplasia)",
+        "dung": false,
+        "giaiThich": "Tân sản (Neoplasia) là sự hình thành khối u."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tăng sản (Hyperplasia)",
+        "dung": false,
+        "giaiThich": "Tăng sản là tăng số lượng tế bào."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Phì đại (Hypertrophy)",
+        "dung": false,
+        "giaiThich": "Phì đại là tăng kích thước tế bào."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tân xản (Metaplasia)",
+        "dung": true,
+        "giaiThich": "Tài liệu định nghĩa \"Tân xản\" (Metaplasia) là hiện tượng một loại mô có thể được chuyển đổi thành loại mô hoàn toàn khác. Ví dụ về Paragonimus westermani được bao bọc bởi lớp vỏ hình thành từ các tế bào chuyển dạng của vật chủ là minh họa rõ ràng."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "tinhHuong": "Vòng đời của Trichomonas vaginalis diễn ra hoàn toàn trên cơ thể người, lây truyền chủ yếu qua đường quan hệ tình dục.",
+    "cauHoi": "Dựa vào cách phân loại vòng đời trong tài liệu, nó thuộc kiểu nào và tại sao việc này làm cho việc phòng bệnh phải tập trung vào hành vi của con người?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Kiểu 1, vì nó phát triển hoàn toàn ở ngoại cảnh.",
+        "dung": false,
+        "giaiThich": "Mô tả sai về vòng đời của Trichomonas vaginalis, nó không phát triển ở ngoại cảnh."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Kiểu 2, vì không có giai đoạn phát triển nào ở ngoại cảnh, lây truyền trực tiếp từ người sang người.",
+        "dung": true,
+        "giaiThich": "Kiểu 2 là toàn bộ các giai đoạn phát triển xảy ra trên cơ thể vật chủ. Vì không có giai đoạn nào ở môi trường bên ngoài và không cần vật chủ trung gian, việc lây truyền phụ thuộc hoàn toàn vào sự tiếp xúc trực tiếp giữa người với người."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Kiểu 3, vì mầm bệnh cần ra ngoại cảnh để phát triển.",
+        "dung": false,
+        "giaiThich": "Mô tả sai về vòng đời của Trichomonas vaginalis, nó không có giai đoạn phát triển ở ngoại cảnh."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Kiểu 5, vì cần có vật chủ trung gian là côn trùng để lây truyền.",
+        "dung": false,
+        "giaiThich": "Mô tả sai về vòng đời của Trichomonas vaginalis, nó không cần vật chủ trung gian."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "tinhHuong": "Một nhà khoa học quan sát một loại vi sinh vật dưới kính hiển vi và thấy chúng có hình que, đứng thành chuỗi và không có khả năng di động. Khi đưa vào môi trường sống khắc nghiệt (nhiệt độ cao, khô hạn), chúng hình thành một cấu trúc bền vững bên trong tế bào.",
+    "cauHoi": "Vi sinh vật này có khả năng thuộc nhóm nào nhất?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Trực khuẩn hiếu khí sinh nha bào.",
+        "dung": true,
+        "giaiThich": "Mô tả 'hình que' (trực khuẩn), 'đứng thành chuỗi' và quan trọng nhất là 'hình thành một cấu trúc bền vững bên trong tế bào' khi gặp điều kiện khắc nghiệt chính là đặc điểm của việc sinh nha bào. Do đó, đây là một loại trực khuẩn có khả năng sinh nha bào."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tụ cầu khuẩn.",
+        "dung": false,
+        "giaiThich": "Tụ cầu khuẩn có hình cầu và xếp thành đám như chùm nho, không phải hình que."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Xoắn khuẩn.",
+        "dung": false,
+        "giaiThich": "Xoắn khuẩn có hình sợi lượn sóng, khác với hình que được mô tả."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Trực khuẩn không sinh nha bào.",
+        "dung": false,
+        "giaiThich": "Trực khuẩn không sinh nha bào sẽ không thể tạo ra cấu trúc bền vững (nha bào) để tồn tại trong điều kiện khắc nghiệt."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "tinhHuong": "Trong quá trình điều trị một bệnh nhân nhiễm khuẩn, bác sĩ sử dụng một loại kháng sinh có cơ chế ức chế tổng hợp lớp peptidoglycan của vách tế bào.",
+    "cauHoi": "Loại kháng sinh này sẽ có tác dụng mạnh nhất đối với nhóm vi khuẩn nào dưới đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vi khuẩn Gram dương.",
+        "dung": true,
+        "giaiThich": "Vách của vi khuẩn Gram dương có thành phần chủ yếu là một lớp peptidoglycan rất dày. Do đó, kháng sinh tấn công vào quá trình tổng hợp peptidoglycan sẽ gây tổn thương nặng nề và hiệu quả nhất đối với nhóm này."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vi khuẩn Gram âm.",
+        "dung": false,
+        "giaiThich": "Vi khuẩn Gram âm có lớp peptidoglycan mỏng và được bao bọc bởi một lớp màng ngoài phức tạp, gây khó khăn cho kháng sinh trong việc tiếp cận và tác động."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Mycoplasma.",
+        "dung": false,
+        "giaiThich": "Mycoplasma là loại vi khuẩn không có vách tế bào, do đó kháng sinh nhắm vào vách sẽ hoàn toàn không có tác dụng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vi khuẩn đã hình thành nha bào.",
+        "dung": false,
+        "giaiThich": "Nha bào là một thể nghỉ có cấu trúc nhiều lớp vỏ và áo bảo vệ vững chắc, không ở trong trạng thái chuyển hóa và tổng hợp vách. Kháng sinh sẽ không tác động được lên nha bào."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "tinhHuong": "Một chủng E. coli bị đột biến gen làm mất khả năng tổng hợp pili chung.",
+    "cauHoi": "Hậu quả có khả năng xảy ra cao nhất đối với chủng vi khuẩn này là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Mất khả năng di động trong môi trường lỏng.",
+        "dung": false,
+        "giaiThich": "Khả năng di động là do lông (flagella) quyết định, không phải pili."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Không thể thực hiện quá trình tiếp hợp để trao đổi vật chất di truyền.",
+        "dung": false,
+        "giaiThich": "Quá trình tiếp hợp được thực hiện nhờ pili giới tính (pili F), không phải pili chung."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Giảm khả năng bám vào bề mặt tế bào niêm mạc của vật chủ.",
+        "dung": true,
+        "giaiThich": "Theo tài liệu, chức năng chính của pili chung (fimbriae) là giúp vi khuẩn bám vào bề mặt tế bào của vật chủ (niêm mạc đường hô hấp, tiêu hóa...). Mất pili chung sẽ làm giảm đáng kể khả năng này, từ đó giảm độc lực."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Không thể chống lại sự thực bào của các tế bào miễn dịch.",
+        "dung": false,
+        "giaiThich": "Khả năng chống thực bào chủ yếu liên quan đến vỏ (capsule) của vi khuẩn."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "tinhHuong": "",
+    "cauHoi": "Tại sao vi khuẩn Gram âm lại có khả năng kháng tự nhiên với một số loại kháng sinh và chất sát khuẩn mà vi khuẩn Gram dương dễ bị tiêu diệt hơn?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì vi khuẩn Gram âm có lớp peptidoglycan dày hơn.",
+        "dung": false,
+        "giaiThich": "Ngược lại, vi khuẩn Gram âm có lớp peptidoglycan mỏng hơn nhiều so với Gram dương."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì vi khuẩn Gram âm có lớp màng ngoài hoạt động như một hàng rào thấm chọn lọc.",
+        "dung": true,
+        "giaiThich": "Cấu trúc vách của vi khuẩn Gram âm có thêm lớp màng ngoài (outer membrane) bên ngoài lớp peptidoglycan mỏng. Lớp màng này chứa các kênh protein (porin) kiểm soát sự vận chuyển các chất đi vào tế bào, ngăn cản sự xâm nhập của nhiều loại kháng sinh, enzyme (như lysozyme) và chất sát khuẩn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì vi khuẩn Gram âm không có ribosom 70S.",
+        "dung": false,
+        "giaiThich": "Cả vi khuẩn Gram âm và Gram dương đều có ribosom 70S."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vì vi khuẩn Gram âm có thể sinh nha bào để chống chịu.",
+        "dung": false,
+        "giaiThich": "Khả năng sinh nha bào chỉ có ở một số trực khuẩn Gram dương, không phải là đặc điểm của vi khuẩn Gram âm."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "tinhHuong": "Nội độc tố (endotoxin) gây ra các triệu chứng như sốt, sốc nhiễm khuẩn ở người.",
+    "cauHoi": "Nó là một thành phần cấu trúc của bộ phận nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vỏ (capsule) của vi khuẩn phế cầu.",
+        "dung": false,
+        "giaiThich": "Vỏ của vi khuẩn phế cầu có bản chất là polysaccharid, có vai trò chống thực bào và là kháng nguyên đặc hiệu, không phải là nội độc tố."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Lớp peptidoglycan của vi khuẩn Gram dương.",
+        "dung": false,
+        "giaiThich": "Lớp peptidoglycan của vi khuẩn Gram dương không chứa nội độc tố."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Màng ngoài của vách tế bào vi khuẩn Gram âm.",
+        "dung": true,
+        "giaiThich": "Tài liệu mô tả rõ, trên lớp màng ngoài của vách vi khuẩn Gram âm có các phân tử Lipopolysaccharid (LPS). Phần lipid của LPS (còn gọi là Lipid A) chính là nội độc tố, chỉ được giải phóng khi tế bào vi khuẩn chết và bị ly giải."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Nha bào của trực khuẩn uốn ván.",
+        "dung": false,
+        "giaiThich": "Nha bào là cấu trúc giúp vi khuẩn tồn tại, không phải là nguồn chứa nội độc tố. Độc tố của trực khuẩn uốn ván là ngoại độc tố (exotoxin)."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "tinhHuong": "Một bệnh nhân bị nhiễm trùng đường tiết niệu do E. coli. Bác sĩ chỉ định cấy nước tiểu để làm kháng sinh đồ. Kết quả cho thấy vi khuẩn mọc thành khuẩn lạc dạng S (trơn, nhẵn).",
+    "cauHoi": "Điều này gợi ý điều gì về chủng E. coli này?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vi khuẩn đã bị suy yếu và mất độc lực.",
+        "dung": false,
+        "giaiThich": "Vi khuẩn mất độc lực hoặc nuôi cấy nhiều lần thường có xu hướng chuyển sang dạng R (xù xì)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vi khuẩn có khả năng đang ở giai đoạn phát triển mạnh và có độc lực.",
+        "dung": true,
+        "giaiThich": "Theo tài liệu, khuẩn lạc dạng S (smooth) thường là đặc trưng của các vi khuẩn đang có đầy đủ các cấu trúc bề mặt (như vỏ, kháng nguyên O) và thường có độc lực cao. Khuẩn lạc dạng R (rough) mới thường liên quan đến vi khuẩn mất độc lực."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vi khuẩn này là loại kỵ khí bắt buộc.",
+        "dung": false,
+        "giaiThich": "Dạng khuẩn lạc không cho biết vi khuẩn là hiếu khí hay kỵ khí. E. coli là vi khuẩn hiếu-kỵ khí tùy tiện."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vi khuẩn đã hình thành nha bào.",
+        "dung": false,
+        "giaiThich": "E. coli không có khả năng hình thành nha bào."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "tinhHuong": "Penicillin là một kháng sinh thuộc nhóm beta-lactam. Lysozyme là một enzyme có trong nước mắt, nước bọt có khả năng phá vỡ liên kết trong peptidoglycan. Cả hai đều tác động lên vách tế bào vi khuẩn.",
+    "cauHoi": "Điểm khác biệt cơ bản trong tác động của chúng là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Penicillin chỉ tác động lên vi khuẩn Gram âm, còn Lysozyme chỉ tác động lên vi khuẩn Gram dương.",
+        "dung": false,
+        "giaiThich": "Cả hai đều có tác dụng mạnh hơn trên Gram dương, nhưng cơ chế khác nhau. Lysozyme khó vượt qua màng ngoài của Gram âm."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Penicillin ngăn chặn sự hình thành vách mới, trong khi Lysozyme phá hủy vách đã tồn tại.",
+        "dung": true,
+        "giaiThich": "Penicillin và các kháng sinh beta-lactam khác ức chế các enzyme tham gia vào quá trình tổng hợp, tạo liên kết chéo cho lớp peptidoglycan. Do đó, nó chỉ có hiệu quả khi vi khuẩn đang phân chia và xây dựng vách tế bào mới. Ngược lại, Lysozyme là một enzyme thủy phân, nó trực tiếp cắt đứt các liên kết hóa học trong chuỗi peptidoglycan của vách tế bào đã có sẵn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Penicillin phá hủy màng tế bào chất, còn Lysozyme phá hủy vách.",
+        "dung": false,
+        "giaiThich": "Penicillin tác động lên vách, không phải màng tế bào chất."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Penicillin là độc tố, còn Lysozyme là kháng sinh.",
+        "dung": false,
+        "giaiThich": "Penicillin là kháng sinh, Lysozyme là một enzyme phòng vệ tự nhiên của cơ thể, không phải độc tố."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "tinhHuong": "Mạc thể (mesosome) có vai trò quan trọng trong quá trình phân bào của vi khuẩn.",
+    "cauHoi": "Cấu trúc này thực chất là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Một bào quan riêng biệt nằm trong tế bào chất.",
+        "dung": false,
+        "giaiThich": "Mạc thể không phải là một bào quan riêng biệt có màng bao bọc như ty thể hay lục lạp, mà là một phần của màng tế bào chất."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự gấp nếp và lõm vào trong của màng tế bào chất.",
+        "dung": true,
+        "giaiThich": "Tài liệu mô tả rõ: 'Màng tế bào chất có nơi lõm vào như những nếp gấp, gọi là mạc thể (mesosome)'. Nó tham gia vào quá trình phân bào bằng cách tiến sâu vào tế bào chất để tạo vách ngăn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Một phần của nhân vi khuẩn kéo dài ra.",
+        "dung": false,
+        "giaiThich": "Mạc thể không liên quan trực tiếp đến cấu trúc của nhân."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Một kênh vận chuyển xuyên qua vách tế bào.",
+        "dung": false,
+        "giaiThich": "Kênh vận chuyển xuyên vách là các protein porin (ở Gram âm), không phải mạc thể."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "tinhHuong": "Một vi khuẩn bị mất plasmid chứa gen kháng kháng sinh. Nếu đem vi khuẩn này nuôi cấy trong môi trường có chứa loại kháng sinh đó.",
+    "cauHoi": "Hiện tượng gì sẽ xảy ra?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vi khuẩn vẫn phát triển bình thường.",
+        "dung": false,
+        "giaiThich": "Vi khuẩn chỉ phát triển bình thường nếu không có kháng sinh hoặc nếu gen kháng thuốc nằm trên nhiễm sắc thể (ít phổ biến hơn)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vi khuẩn sẽ chết hoặc bị ức chế phát triển.",
+        "dung": true,
+        "giaiThich": "Plasmid là những phân tử ADN vòng, nhỏ, nằm ngoài nhiễm sắc thể và thường chứa các gen không thiết yếu cho sự sống cơ bản nhưng mang lại lợi thế trong những điều kiện nhất định, ví dụ như gen kháng kháng sinh. Khi mất plasmid này, vi khuẩn sẽ mất đi khả năng chống chọi và trở nên nhạy cảm với loại kháng sinh tương ứng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vi khuẩn sẽ hình thành nha bào để chống lại kháng sinh.",
+        "dung": false,
+        "giaiThich": "Việc hình thành nha bào không liên quan đến plasmid và không phải là phản ứng trực tiếp với kháng sinh."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vi khuẩn sẽ tăng cường tổng hợp pili để đào thải kháng sinh.",
+        "dung": false,
+        "giaiThich": "Pili không có chức năng đào thải kháng sinh."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "tinhHuong": "",
+    "cauHoi": "Tại sao việc khử khuẩn các dụng cụ phẫu thuật bằng phương pháp sấy khô ở 165°C cần tới 2 giờ, trong khi hấp ướt ở 120°C chỉ cần 15-30 phút?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì nhiệt khô khó xuyên qua lớp vỏ polysaccharid của vi khuẩn hơn nhiệt ẩm.",
+        "dung": false,
+        "giaiThich": "Vấn đề chính không phải là vỏ polysaccharid mà là cấu trúc bền vững của nha bào."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì nha bào vi khuẩn có khả năng chống chịu nhiệt khô tốt hơn nhiệt ẩm.",
+        "dung": false,
+        "giaiThich": "Đây là một phần của câu trả lời đúng, nhưng chưa đủ. Lý do chính còn nằm ở hiệu quả truyền nhiệt và gây biến tính protein của nhiệt ẩm."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì nhiệt ẩm làm biến tính protein và enzyme hiệu quả hơn ở nhiệt độ thấp hơn.",
+        "dung": false,
+        "giaiThich": "Đây cũng là một phần của câu trả lời đúng, nhưng chưa đủ. Cần kết hợp với khả năng chịu nhiệt khô của nha bào."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Cả B và C đều đúng.",
+        "dung": true,
+        "giaiThich": "Tài liệu nêu rõ, để diệt nha bào cần sấy khô ở 165°C trong 2 giờ hoặc hấp ướt ở 120°C trong 15-30 phút. Điều này cho thấy nha bào rất bền với nhiệt khô (B đúng). Hơn nữa, về mặt nguyên tắc, hơi nước nóng (nhiệt ẩm) truyền nhiệt và gây đông tụ, biến tính protein của vi khuẩn (kể cả nha bào) nhanh và hiệu quả hơn nhiều so với không khí nóng khô (nhiệt khô) ở cùng một khoảng thời gian (C đúng)."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "tinhHuong": "Một vi khuẩn được xác định là 'kỵ khí tuyệt đối'.",
+    "cauHoi": "Điều này có nghĩa là gì về mặt chuyển hóa và hô hấp của nó?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Nó có thể sử dụng oxy nếu có, nhưng cũng có thể lên men nếu không có oxy.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của vi khuẩn 'hiếu-kỵ khí tùy tiện'."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Nó bắt buộc phải có oxy để oxy hóa hoàn toàn glucose.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của vi khuẩn 'hiếu khí tuyệt đối'."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Nó không thể tồn tại hoặc phát triển khi có mặt oxy tự do.",
+        "dung": true,
+        "giaiThich": "Theo định nghĩa trong tài liệu, vi khuẩn kỵ khí tuyệt đối 'chỉ nuôi cấy được khi không có oxy'. Oxy là chất độc đối với chúng, vì chúng thiếu các enzyme như cytochrome oxidase để phân giải các sản phẩm độc của oxy."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Nó sử dụng CO2 làm nguồn năng lượng chính.",
+        "dung": false,
+        "giaiThich": "Vi khuẩn sử dụng CO2 làm nguồn carbon (tự dưỡng), không phải nguồn năng lượng. Hầu hết vi khuẩn gây bệnh là dị dưỡng."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "tinhHuong": "",
+    "cauHoi": "Trong giai đoạn 'tăng theo hàm số mũ' của quá trình phát triển, điều gì mô tả đúng nhất về quần thể vi khuẩn?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Số lượng vi khuẩn sinh ra bằng số lượng vi khuẩn chết đi.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của 'giai đoạn dừng tối đa'."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vi khuẩn đang thích nghi với môi trường mới, chưa phân chia.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của 'giai đoạn thích ứng'."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tốc độ phân chia của vi khuẩn đạt mức tối đa và diễn ra liên tục.",
+        "dung": true,
+        "giaiThich": "Giai đoạn tăng theo hàm số mũ (hay pha log) là giai đoạn vi khuẩn đã thích nghi hoàn toàn và bắt đầu sinh sản với tốc độ nhanh nhất có thể trong điều kiện môi trường đó. Số lượng vi khuẩn tăng lên theo cấp số nhân (1 -> 2 -> 4 -> 8...)."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Chất dinh dưỡng trong môi trường đã cạn kiệt, vi khuẩn bắt đầu chết.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của 'giai đoạn suy tàn'."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "tinhHuong": "Một loại kháng sinh có cơ chế gắn đặc hiệu vào tiểu phần 30S của ribosom vi khuẩn.",
+    "cauHoi": "Hậu quả trực tiếp của việc này là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ngăn cản quá trình sao chép ADN của vi khuẩn.",
+        "dung": false,
+        "giaiThich": "Sao chép ADN diễn ra ở nhân, không liên quan đến ribosom."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Phá vỡ cấu trúc vách tế bào vi khuẩn.",
+        "dung": false,
+        "giaiThich": "Tổng hợp vách tế bào liên quan đến các enzyme ở màng tế bào chất, không phải ribosom."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ức chế quá trình tổng hợp protein của vi khuẩn.",
+        "dung": true,
+        "giaiThich": "Tài liệu nêu rõ: 'Ribosom có chức năng tổng hợp protein cần thiết cho sự sống của vi khuẩn'. Ribosom 70S của vi khuẩn được cấu tạo từ hai tiểu phần 50S và 30S. Việc kháng sinh gắn vào một trong hai tiểu phần này sẽ làm gián đoạn hoặc sai lệch quá trình dịch mã, dẫn đến ức chế tổng hợp protein."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ngăn cản sự hình thành mạc thể (mesosome).",
+        "dung": false,
+        "giaiThich": "Mạc thể là cấu trúc của màng tế bào chất."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "tinhHuong": "",
+    "cauHoi": "Tại sao một số vi khuẩn như E. coli sống trong ruột người lại có lợi?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì chúng sinh ra các độc tố tiêu diệt vi khuẩn có hại.",
+        "dung": false,
+        "giaiThich": "E. coli có thể sinh độc tố gây bệnh, nhưng vai trò có lợi của nó không phải là sinh độc tố."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì chúng có khả năng tổng hợp một số loại vitamin cần thiết cho cơ thể.",
+        "dung": true,
+        "giaiThich": "Trong phần 'Tổng hợp các chất', tài liệu có đề cập: 'Vitamin: một số vi khuẩn, như E.coli có khả năng tổng hợp được vitamin B, K...'. Đây là một trong những vai trò có lợi của hệ vi khuẩn chí đường ruột."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì chúng giúp cơ thể tiêu hóa hoàn toàn chất béo.",
+        "dung": false,
+        "giaiThich": "Tiêu hóa chất béo là vai trò của muối mật và enzyme lipase của người, không phải vi khuẩn."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vì chúng cạnh tranh oxy với các vi khuẩn kỵ khí.",
+        "dung": false,
+        "giaiThich": "E. coli là vi khuẩn hiếu-kỵ khí tùy tiện, chúng có thể sống trong môi trường ít oxy của ruột và không có vai trò chính là cạnh tranh oxy."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "tinhHuong": "Một mẫu vi khuẩn sau khi nhuộm Gram có màu tím. Nếu bỏ qua bước tẩy màu bằng cồn trong quy trình nhuộm.",
+    "cauHoi": "Vi khuẩn Gram âm sẽ có màu gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Màu hồng.",
+        "dung": false,
+        "giaiThich": "Màu hồng (của thuốc nhuộm Fuchsin hoặc Safranin) chỉ được bắt sau khi vi khuẩn Gram âm đã bị tẩy màu tím."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Màu tím.",
+        "dung": true,
+        "giaiThich": "Cả vi khuẩn Gram dương và Gram âm ban đầu đều bắt màu thuốc nhuộm tím gentian (Crystal Violet). Bước tẩy cồn là bước quyết định sự khác biệt: cồn làm mất nước lớp peptidoglycan của Gram dương, co lại và giữ chặt màu tím; trong khi đó cồn hòa tan lớp màng ngoài và rửa trôi màu tím khỏi lớp peptidoglycan mỏng của Gram âm. Nếu bỏ qua bước này, cả hai loại vi khuẩn sẽ không bị tẩy màu và đều giữ lại màu tím ban đầu."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Không màu.",
+        "dung": false,
+        "giaiThich": "Không màu là trạng thái của vi khuẩn Gram âm sau khi bị tẩy cồn và trước khi nhuộm bổ sung."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Màu xanh.",
+        "dung": false,
+        "giaiThich": "Màu xanh không được sử dụng trong quy trình nhuộm Gram tiêu chuẩn."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "tinhHuong": "",
+    "cauHoi": "Để phân biệt các type huyết thanh khác nhau của vi khuẩn phế cầu (Streptococcus pneumoniae), các nhà khoa học dựa vào sự khác biệt trong cấu trúc của thành phần nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Kháng nguyên lông (H).",
+        "dung": false,
+        "giaiThich": "Phế cầu là cầu khuẩn và không có lông để di động, do đó không có kháng nguyên H."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Kháng nguyên vỏ (K).",
+        "dung": true,
+        "giaiThich": "Tài liệu ghi rất rõ: 'Vỏ có tính kháng nguyên đặc hiệu và rất khác nhau. Vi khuẩn phế cầu, dựa vào kháng nguyên vỏ, được chia thành nhiều type huyết thanh.'"
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Kháng nguyên thân (O).",
+        "dung": false,
+        "giaiThich": "Kháng nguyên thân (O) là đặc trưng của phần polysaccharid trong LPS của vách vi khuẩn Gram âm. Phế cầu là vi khuẩn Gram dương."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ribosom.",
+        "dung": false,
+        "giaiThich": "Ribosom là cấu trúc bên trong tế bào, không được dùng làm kháng nguyên bề mặt để phân loại type huyết thanh."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "tinhHuong": "",
+    "cauHoi": "Điều gì sẽ xảy ra với một tế bào vi khuẩn (không phải Mycoplasma) nếu nó được đặt vào môi trường nước cất (nhược trương)?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tế bào sẽ bị co lại do mất nước.",
+        "dung": false,
+        "giaiThich": "Tế bào co lại xảy ra khi đặt trong môi trường ưu trương (nồng độ chất tan cao)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tế bào sẽ không thay đổi hình dạng nhờ có vách tế bào vững chắc.",
+        "dung": true,
+        "giaiThich": "Chức năng quan trọng của vách tế bào là 'bảo vệ tế bào vi khuẩn đối với sự thay đổi của áp lực thẩm thấu' và 'giữ để màng tế bào chất không bị căng phồng, tan vỡ'. Trong môi trường nhược trương, nước sẽ có xu hướng đi vào tế bào, nhưng vách tế bào cứng rắn sẽ chịu được áp lực thẩm thấu từ bên trong, ngăn không cho tế bào bị vỡ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tế bào sẽ hình thành nha bào ngay lập tức.",
+        "dung": false,
+        "giaiThich": "Hình thành nha bào là một quá trình phức tạp để đối phó với điều kiện sống không thuận lợi (thiếu dinh dưỡng, nhiệt độ...), không phải là phản ứng tức thời với sự thay đổi áp lực thẩm thấu."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tế bào sẽ bị vỡ ra do nước thẩm thấu vào quá nhiều.",
+        "dung": false,
+        "giaiThich": "Tế bào sẽ bị vỡ nếu nó không có vách (như Mycoplasma hoặc tế bào động vật)."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "tinhHuong": "Vi khuẩn Listeria monocytogenes có thể gây ngộ độc thực phẩm từ các sản phẩm bảo quản lạnh (ví dụ: thịt nguội, sữa chua).",
+    "cauHoi": "Đặc điểm sinh lý nào của vi khuẩn này giải thích cho khả năng đó?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Có khả năng sinh nha bào chịu nhiệt.",
+        "dung": false,
+        "giaiThich": "Listeria không sinh nha bào. Khả năng chịu nhiệt của nha bào không giải thích được sự phát triển trong môi trường lạnh."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Có khả năng phát triển được ở nhiệt độ thấp, gần 0°C.",
+        "dung": true,
+        "giaiThich": "Tài liệu có đề cập: '...một số vi khuẩn (như Listeria) có thể nhân lên được ở nhiệt độ gần 0°C'. Đây là đặc điểm then chốt giúp chúng có thể phát triển và tích lũy đủ số lượng để gây bệnh trong thực phẩm được bảo quản trong tủ lạnh."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Là vi khuẩn kỵ khí tuyệt đối.",
+        "dung": false,
+        "giaiThich": "Listeria là vi khuẩn hiếu-kỵ khí tùy tiện."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Có khả năng lên men đường lactose trong sữa.",
+        "dung": false,
+        "giaiThich": "Khả năng lên men lactose là một đặc điểm sinh hóa, nhưng không phải là yếu tố quyết định khả năng phát triển trong môi trường lạnh."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "tinhHuong": "Quá trình tiếp hợp (conjugation) ở vi khuẩn là một cơ chế chuyển vật liệu di truyền.",
+    "cauHoi": "Cấu trúc nào đóng vai trò là 'cầu nối' trong quá trình này?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Lông (Flagella).",
+        "dung": false,
+        "giaiThich": "Lông dùng để di chuyển."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Pili giới tính (Pili F).",
+        "dung": true,
+        "giaiThich": "Tài liệu mô tả rất rõ về pili giới tính (pili F): 'có thể nối liền giữa hai vi khuẩn và làm cầu nối để vận chuyển chất liệu di truyền (ADN) từ vi khuẩn cho (vi khuẩn đực) sang vi khuẩn nhận (vi khuẩn cái)'."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vỏ (Capsule).",
+        "dung": false,
+        "giaiThich": "Vỏ dùng để bảo vệ và chống thực bào."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Mạc thể (Mesosome).",
+        "dung": false,
+        "giaiThich": "Mạc thể tham gia vào quá trình phân bào và hô hấp."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "tinhHuong": "Một chủng vi khuẩn gây bệnh được cấy trên môi trường đặc. Sau một thời gian, người ta quan sát thấy các khuẩn lạc có dạng R (xù xì, khô).",
+    "cauHoi": "Điều này thường cho thấy điều gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vi khuẩn đang ở đỉnh cao độc lực.",
+        "dung": false,
+        "giaiThich": "Độc lực cao thường liên quan đến khuẩn lạc dạng S (smooth) hoặc M (mucous)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vi khuẩn có thể đã mất đi một số cấu trúc bề mặt như vỏ.",
+        "dung": true,
+        "giaiThich": "Khuẩn lạc dạng R (rough) thường liên quan đến việc vi khuẩn mất khả năng sản xuất các polysaccharid bề mặt, chẳng hạn như vỏ (capsule). Điều này làm cho bề mặt khuẩn lạc trở nên khô và không đều. Việc mất vỏ thường đi kèm với việc giảm độc lực."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Đây là đặc điểm của tất cả các vi khuẩn Gram âm.",
+        "dung": false,
+        "giaiThich": "Dạng khuẩn lạc không phải là đặc điểm để phân biệt Gram âm hay Gram dương."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vi khuẩn đang trong giai đoạn tăng trưởng theo hàm số mũ.",
+        "dung": false,
+        "giaiThich": "Giai đoạn tăng trưởng không quyết định hình thái khuẩn lạc (S hay R), mà hình thái này do đặc tính di truyền của chủng quyết định."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "tinhHuong": "Ty thể trong tế bào Eukaryote được xem là 'nhà máy năng lượng'.",
+    "cauHoi": "Ở vi khuẩn Procaryote, chức năng tương đương này được thực hiện bởi cấu trúc nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ribosom.",
+        "dung": false,
+        "giaiThich": "Ribosom là nơi tổng hợp protein."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Nhân.",
+        "dung": false,
+        "giaiThich": "Nhân chứa thông tin di truyền."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Màng tế bào chất.",
+        "dung": true,
+        "giaiThich": "Tài liệu nêu rõ: 'Màng tế bào chất là nơi chứa các enzym của chuỗi hô hấp và coenzym, thực hiện các quá trình năng lượng chủ yếu của tế bào, tương đương với chức năng của ty lạp thể của tế bào có nhân điển hình.'"
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Lông.",
+        "dung": false,
+        "giaiThich": "Lông dùng để di chuyển."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "tinhHuong": "",
+    "cauHoi": "Sự hiện diện của calci dipicolinat (calcium dipicolinate) là đặc trưng cho cấu trúc nào của vi khuẩn?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vách tế bào Gram dương.",
+        "dung": false,
+        "giaiThich": "Cấu trúc này không chứa calci dipicolinat."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vỏ (capsule).",
+        "dung": false,
+        "giaiThich": "Cấu trúc này không chứa calci dipicolinat."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Pili giới tính.",
+        "dung": false,
+        "giaiThich": "Cấu trúc này không chứa calci dipicolinat."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Nha bào (spore).",
+        "dung": true,
+        "giaiThich": "Tài liệu nhấn mạnh rằng trong tế bào chất của nha bào 'đặc biệt có nhiều calci và dipicolinic dưới dạng muối calci dipicolinat'. Cấu trúc này cùng với lớp áo keratin và tỉ lệ nước thấp giúp nha bào có sức đề kháng phi thường."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "tinhHuong": "Khi một nha bào gặp điều kiện môi trường thuận lợi (đủ dinh dưỡng, nhiệt độ thích hợp).",
+    "cauHoi": "Nó sẽ trải qua quá trình gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Phân đôi.",
+        "dung": false,
+        "giaiThich": "Phân đôi là hình thức sinh sản của tế bào sinh dưỡng, sau khi nha bào đã nảy mầm."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Nảy mầm.",
+        "dung": true,
+        "giaiThich": "Tài liệu mô tả: 'Khi gặp điều kiện thuận lợi, nha bào nảy mầm và trở thành vi khuẩn dạng sinh dưỡng'. Đây là quá trình nha bào quay trở lại trạng thái hoạt động, chuyển hóa và sinh sản."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tiếp hợp.",
+        "dung": false,
+        "giaiThich": "Tiếp hợp là một hình thức trao đổi vật chất di truyền, không phải là quá trình phát triển từ nha bào."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Biến nạp.",
+        "dung": false,
+        "giaiThich": "Biến nạp là một hình thức trao đổi vật chất di truyền, không phải là quá trình phát triển từ nha bào."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "tinhHuong": "",
+    "cauHoi": "Tại sao phương pháp Tyndall (hấp gián đoạn: đun sôi - để nguội - đun sôi lại) có thể tiêu diệt được cả nha bào, dù nhiệt độ đun sôi (100°C) không đủ để giết nha bào ngay lập tức?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì việc lặp lại đun sôi nhiều lần làm nha bào mệt mỏi và chết.",
+        "dung": false,
+        "giaiThich": "'Mệt mỏi' không phải là một thuật ngữ khoa học để giải thích cơ chế này. Nha bào cực kỳ bền."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì trong khoảng thời gian để nguội, nha bào sẽ nảy mầm thành thể sinh dưỡng, và thể này sẽ bị tiêu diệt ở lần đun sôi tiếp theo.",
+        "dung": true,
+        "giaiThich": "Cơ chế của phương pháp Tyndall dựa trên chính chu trình sống của vi khuẩn sinh nha bào. Lần đun đầu tiên giết chết các tế bào sinh dưỡng. Khoảng thời gian ủ (để nguội) tạo điều kiện thuận lợi cho các nha bào còn sống sót nảy mầm. Lần đun sôi thứ hai sẽ tiêu diệt các tế bào sinh dưỡng mới nảy mầm này. Quá trình được lặp lại để đảm bảo tất cả nha bào đều bị tiêu diệt."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì việc thay đổi nhiệt độ đột ngột gây sốc nhiệt làm vỡ cấu trúc nha bào.",
+        "dung": false,
+        "giaiThich": "Sốc nhiệt có thể có tác dụng nhưng không phải là cơ chế chính. Nha bào rất bền với thay đổi nhiệt độ."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vì phương pháp này chỉ áp dụng cho vi khuẩn không sinh nha bào.",
+        "dung": false,
+        "giaiThich": "Ngược lại, phương pháp này được thiết kế đặc biệt để diệt các vi sinh vật có khả năng sinh nha bào."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "tinhHuong": "Một vi khuẩn có một plasmid. Sau 3 thế hệ phân chia trong điều kiện lý tưởng (Giả sử plasmid không nhân lên và được phân chia ngẫu nhiên cho 1 trong 2 tế bào con).",
+    "cauHoi": "Có khả năng sẽ có bao nhiêu tế bào con không chứa plasmid này?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "0",
+        "dung": false,
+        "giaiThich": "Con số này không phản ánh đúng quá trình phân chia ngẫu nhiên của một plasmid duy nhất qua 3 thế hệ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "1",
+        "dung": false,
+        "giaiThich": "Con số này không phản ánh đúng quá trình phân chia ngẫu nhiên của một plasmid duy nhất qua 3 thế hệ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "4",
+        "dung": false,
+        "giaiThich": "Con số này không phản ánh đúng quá trình phân chia ngẫu nhiên của một plasmid duy nhất qua 3 thế hệ."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "7",
+        "dung": true,
+        "giaiThich": "Thế hệ 0: 1 tế bào có plasmid. Thế hệ 1: 1 có, 1 không (tổng 2). Thế hệ 2: 1 có, 3 không (tổng 4). Thế hệ 3: 1 có, 7 không (tổng 8)."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "tinhHuong": "",
+    "cauHoi": "Dựa vào thành phần hóa học của vách, tại sao Lysozyme (có trong nước mắt, nước bọt) lại có tác dụng bảo vệ cơ thể chống lại sự xâm nhập của vi khuẩn?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì nó phá vỡ lớp màng ngoài của vi khuẩn Gram âm.",
+        "dung": false,
+        "giaiThich": "Lysozyme khó tác động lên vi khuẩn Gram âm vì lớp màng ngoài ngăn cản nó tiếp cận lớp peptidoglycan."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì nó thủy phân phức hợp peptidoglycan, thành phần cơ bản của vách vi khuẩn.",
+        "dung": true,
+        "giaiThich": "Vách tế bào vi khuẩn có thành phần khung sườn là peptidoglycan. Lysozyme là một enzyme có khả năng cắt đứt các liên kết hóa học trong chuỗi polymer này, làm cho vách tế bào bị yếu đi và dễ bị phá vỡ, dẫn đến tiêu diệt vi khuẩn. Đây là một cơ chế miễn dịch tự nhiên của cơ thể."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì nó ức chế quá trình tổng hợp protein của vi khuẩn.",
+        "dung": false,
+        "giaiThich": "Ức chế tổng hợp protein là cơ chế của một số kháng sinh, không phải của Lysozyme."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vì nó trung hòa nội độc tố của vi khuẩn.",
+        "dung": false,
+        "giaiThich": "Trung hòa độc tố là chức năng của kháng thể, không phải Lysozyme."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "tinhHuong": "Một số vi khuẩn có thể gây bệnh hoại thư sinh hơi là loại 'trực khuẩn kỵ khí sinh nha bào'.",
+    "cauHoi": "Dựa vào tên gọi này, hãy suy luận về môi trường sống và đặc điểm của chúng.",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Chúng phát triển mạnh ở nơi có nhiều oxy và tạo ra các thể bền vững khi gặp điều kiện bất lợi.",
+        "dung": false,
+        "giaiThich": "'Kỵ khí' mâu thuẫn với 'nơi có nhiều oxy'."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Chúng chỉ phát triển trong môi trường không có oxy và có thể tồn tại rất lâu ở ngoại cảnh dưới dạng nha bào.",
+        "dung": true,
+        "giaiThich": "Phân tích tên gọi: 'Trực khuẩn' -> hình que. 'Kỵ khí' -> chỉ sống trong môi trường không có oxy (ví dụ như các vết thương sâu, dập nát, thiếu máu nuôi). 'Sinh nha bào' -> có khả năng tạo nha bào để tồn tại khi ra ngoài môi trường."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Chúng cần oxy để sinh sản và có hình que.",
+        "dung": false,
+        "giaiThich": "'Kỵ khí' mâu thuẫn với 'cần oxy'."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Chúng không cần oxy nhưng không thể tạo ra nha bào.",
+        "dung": false,
+        "giaiThich": "'Sinh nha bào' mâu thuẫn với 'không thể tạo ra nha bào'."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "tinhHuong": "",
+    "cauHoi": "Tại sao việc thêm một lượng nhỏ CO2 vào khí trường nuôi cấy thường giúp các vi khuẩn dị dưỡng (như các vi khuẩn gây bệnh) phát triển tốt hơn, mặc dù chúng sử dụng nguồn carbon hữu cơ?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì CO2 là yếu tố phát triển bắt buộc cho mọi vi khuẩn.",
+        "dung": false,
+        "giaiThich": "CO2 không phải là yếu tố phát triển bắt buộc cho mọi vi khuẩn, đặc biệt là các vi khuẩn dị dưỡng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì CO2 cần thiết cho một số phản ứng sinh hóa trung gian trong quá trình tổng hợp các thành phần tế bào.",
+        "dung": true,
+        "giaiThich": "Tài liệu có ghi: 'Tuy nhiên cho thêm CO2 vào trong khí trường thường làm các vi khuẩn này phát triển tốt hơn'. Mặc dù vi khuẩn dị dưỡng lấy carbon chính từ các hợp chất hữu cơ (như đường), chúng vẫn cần CO2 cho các phản ứng carboxyl hóa, là những bước quan trọng trong việc tổng hợp các phân tử phức tạp như acid béo, acid amin và purine."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì CO2 giúp duy trì pH của môi trường ở mức kiềm.",
+        "dung": false,
+        "giaiThich": "CO2 khi hòa tan trong nước tạo acid carbonic (H2CO3), có xu hướng làm giảm pH (tăng tính acid), không phải làm tăng tính kiềm."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vì CO2 là chất nhận điện tử cuối cùng trong hô hấp kỵ khí.",
+        "dung": false,
+        "giaiThich": "Chất nhận điện tử cuối cùng trong hô hấp kỵ khí là nitrat, sulfat..., không phải CO2 (trừ một số vi khuẩn sinh metan đặc biệt không được đề cập)."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "tinhHuong": "Một loại vi khuẩn có thể sống trong nước biển.",
+    "cauHoi": "Đặc điểm nào của nó cho phép điều này?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Có khả năng sinh nha bào.",
+        "dung": false,
+        "giaiThich": "Sinh nha bào là để chống chọi với điều kiện khắc nghiệt nói chung, không phải là cơ chế hoạt động thường xuyên trong môi trường mặn."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Có vách tế bào chịu được áp lực thẩm thấu cao.",
+        "dung": true,
+        "giaiThich": "Nước biển là môi trường ưu trương (nồng độ muối cao). Một tế bào bình thường khi đặt vào đây sẽ bị mất nước và co lại. Tài liệu nêu rõ vách vi khuẩn 'bảo vệ tế bào vi khuẩn đối với sự thay đổi của áp lực thẩm thấu' và 'có thể đề kháng với áp lực thẩm thấu rất cao như nước biển'. Một số vi khuẩn còn được gọi là 'ưa mặn'."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Có khả năng quang hợp.",
+        "dung": false,
+        "giaiThich": "Quang hợp là phương thức dinh dưỡng, không liên quan trực tiếp đến việc chống chịu độ mặn."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Có pili để bám vào các hạt muối.",
+        "dung": false,
+        "giaiThich": "Pili dùng để bám vào tế bào chủ, không phải hạt muối."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "tinhHuong": "Trong điều trị bệnh nhiễm khuẩn.",
+    "cauHoi": "Tại sao bác sĩ thường khuyên bệnh nhân phải uống kháng sinh đủ liều, đủ thời gian ngay cả khi các triệu chứng đã thuyên giảm?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Để tiêu diệt cả những vi khuẩn đang ở giai đoạn thích ứng và giai đoạn dừng tối đa.",
+        "dung": false,
+        "giaiThich": "Đây là một phần lý do, nhưng chưa đủ. Lý do chính là ngăn chặn sự bùng phát trở lại và kháng thuốc."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Để đảm bảo tiêu diệt hết vi khuẩn, kể cả những con còn sót lại và ngăn chặn chúng bước vào giai đoạn tăng trưởng trở lại.",
+        "dung": false,
+        "giaiThich": "Đây là một phần lý do, nhưng chưa đủ. Cần kết hợp các yếu tố."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Để kháng sinh có thời gian phá hủy nha bào của vi khuẩn.",
+        "dung": false,
+        "giaiThich": "Hầu hết các kháng sinh thông thường không có tác dụng trên nha bào. Việc điều trị các bệnh do vi khuẩn sinh nha bào (như uốn ván) cần các biện pháp khác."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Cả A và B đều đúng.",
+        "dung": true,
+        "giaiThich": "Khi triệu chứng giảm, số lượng lớn vi khuẩn (chủ yếu ở pha log) đã bị tiêu diệt, nhưng vẫn còn một lượng vi khuẩn nhất định tồn tại, có thể đang ở pha dừng hoặc sắp bước vào pha log mới. Kháng sinh cần thời gian để tác động lên cả những vi khuẩn phân chia chậm hơn hoặc đang 'nghỉ'. Ngừng thuốc sớm sẽ tạo điều kiện cho số ít vi khuẩn còn sót lại này nhân lên, gây tái phát và nguy hiểm hơn là tạo điều kiện cho sự chọn lọc các chủng kháng thuốc."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "tinhHuong": "Dựa vào thang phân loại.",
+    "cauHoi": "Hai vi khuẩn thuộc cùng một 'Chi' (Genus) nhưng khác 'Loài' (Species) sẽ có đặc điểm gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Chúng hoàn toàn không có đặc điểm nào giống nhau.",
+        "dung": false,
+        "giaiThich": "Chúng phải có các đặc điểm giống nhau mới được xếp chung một chi."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Chúng có nhiều đặc điểm chung nhưng không đủ giống nhau để được coi là một loài.",
+        "dung": true,
+        "giaiThich": "Theo nguyên tắc phân loại sinh học, các đơn vị phân loại từ thấp đến cao (Loài -> Chi -> Họ...). Các loài trong cùng một chi sẽ chia sẻ một số đặc điểm hình thái, sinh hóa quan trọng, nhưng vẫn có những điểm khác biệt đủ để phân chia chúng thành các loài riêng biệt. Ví dụ: Staphylococcus aureus và Staphylococcus epidermidis đều thuộc chi Staphylococcus."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Chúng có tỷ lệ G+C trong ADN hoàn toàn khác biệt.",
+        "dung": false,
+        "giaiThich": "Tỷ lệ G+C của chúng thường khá gần nhau, không phải hoàn toàn khác biệt."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Chúng chắc chắn có hình thể khác nhau (một loại hình cầu, một loại hình que).",
+        "dung": false,
+        "giaiThich": "Không chắc chắn. Nhiều loài trong cùng một chi có hình thể giống hệt nhau (ví dụ đều là cầu khuẩn)."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "tinhHuong": "Phương pháp 'Lai ADN' (DNA hybridization) được sử dụng để xác định mối quan hệ họ hàng giữa hai loài vi khuẩn. Nếu độ tương đồng ADN giữa hai chủng là 85%.",
+    "cauHoi": "Kết luận nào là hợp lý nhất?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Hai chủng này thuộc hai Chi khác nhau.",
+        "dung": false,
+        "giaiThich": "Độ tương đồng 85% cho thấy một mối quan hệ rất gần gũi, chắc chắn không phải khác chi."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Hai chủng này thuộc cùng một Loài.",
+        "dung": true,
+        "giaiThich": "Tài liệu cung cấp một tiêu chuẩn định lượng quan trọng: 'nếu chúng có trên 70% tương đồng ADN thuộc cùng một loài'. Với độ tương đồng là 85% (>70%), hai chủng này được xem là thuộc cùng một loài."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Hai chủng này không có quan hệ họ hàng.",
+        "dung": false,
+        "giaiThich": "Độ tương đồng 85% cho thấy một mối quan hệ rất gần gũi, chắc chắn không phải không có họ hàng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Một chủng là Gram dương và một chủng là Gram âm.",
+        "dung": false,
+        "giaiThich": "Phương pháp này đo lường sự tương đồng về gen, không trực tiếp cho biết tính chất bắt màu Gram."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "tinhHuong": "",
+    "cauHoi": "Tại sao vi khuẩn có thể tiến hóa và kháng thuốc rất nhanh?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì chúng có kích thước rất lớn.",
+        "dung": false,
+        "giaiThich": "Chúng có kích thước rất nhỏ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì chu kỳ sinh sản của chúng rất dài.",
+        "dung": false,
+        "giaiThich": "Chu kỳ sinh sản của chúng rất ngắn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì chúng sinh sản theo kiểu phân đôi với tốc độ rất nhanh và có khả năng trao đổi vật chất di truyền (qua plasmid, tiếp hợp).",
+        "dung": true,
+        "giaiThich": "Tốc độ sinh sản cực nhanh tạo ra một số lượng lớn cá thể trong thời gian ngắn, làm tăng xác suất xuất hiện các đột biến ngẫu nhiên (kể cả đột biến kháng thuốc). Thêm vào đó, các cơ chế như tiếp hợp cho phép chúng lan truyền các gen kháng thuốc một cách 'nằm ngang', không cần qua sinh sản. Sự kết hợp này tạo ra khả năng thích ứng và tiến hóa vượt trội."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vì chúng luôn tạo ra nha bào để thay đổi bộ gen.",
+        "dung": false,
+        "giaiThich": "Nha bào là thể nghỉ để tồn tại, không phải cơ chế để thay đổi bộ gen."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "tinhHuong": "Một nhà nghiên cứu phân lập được một loại vi khuẩn từ một suối nước nóng có nhiệt độ 80°C.",
+    "cauHoi": "Vi khuẩn này sẽ được xếp vào nhóm nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vi khuẩn ưa lạnh.",
+        "dung": false,
+        "giaiThich": "Nhiệt độ 80°C sẽ giết chết các vi khuẩn ưa lạnh."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vi khuẩn ưa ấm (phát triển tối ưu ở 37°C).",
+        "dung": false,
+        "giaiThich": "Nhiệt độ 80°C sẽ giết chết các vi khuẩn ưa ấm."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vi khuẩn chịu nhiệt (ưa nhiệt).",
+        "dung": true,
+        "giaiThich": "Tài liệu có đề cập đến 'một số vi khuẩn chịu nhiệt có thể phát triển được ở nhiệt độ cao'. Việc phân lập được vi khuẩn từ môi trường 80°C cho thấy nó đã thích nghi và có khả năng phát triển ở nhiệt độ rất cao, đây là đặc điểm của nhóm vi khuẩn ưa nhiệt."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vi khuẩn kỵ khí tuyệt đối.",
+        "dung": false,
+        "giaiThich": "Mối quan hệ với oxy (kỵ khí) không liên quan đến khả năng chịu nhiệt độ."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "tinhHuong": "Enzyme beta-lactamase được tìm thấy trong 'khoảng chu chất' của vi khuẩn Gram âm.",
+    "cauHoi": "Dựa vào vị trí này, hãy suy luận về chức năng của nó.",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Giúp vi khuẩn tổng hợp protein.",
+        "dung": false,
+        "giaiThich": "Tổng hợp protein diễn ra ở ribosom trong tế bào chất."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Phá hủy kháng sinh nhóm beta-lactam trước khi chúng kịp tiếp cận và tác động vào màng tế bào chất.",
+        "dung": true,
+        "giaiThich": "Khoảng chu chất là không gian nằm giữa màng tế bào chất và màng ngoài ở vi khuẩn Gram âm. Việc enzyme beta-lactamase nằm ở đây cho phép nó 'đón lõng' và phá hủy cấu trúc của kháng sinh ngay tại không gian này, vô hiệu hóa chúng trước khi chúng kịp gây hại."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tham gia vào quá trình phân bào.",
+        "dung": false,
+        "giaiThich": "Phân bào liên quan đến mạc thể và sự tổng hợp vách ngăn."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Giúp vi khuẩn bám vào tế bào chủ.",
+        "dung": false,
+        "giaiThich": "Bám dính là chức năng của pili hoặc các protein trên bề mặt ngoài cùng."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "tinhHuong": "Một loại thuốc kháng sinh mới được phát triển có cơ chế phá vỡ cấu trúc của acid teichoic.",
+    "cauHoi": "Loại thuốc này sẽ có hiệu quả nhất chống lại bệnh nhiễm trùng do tác nhân nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "*Escherichia coli*",
+        "dung": false,
+        "giaiThich": "*Escherichia coli* là vi khuẩn Gram âm, vách của nó không chứa acid teichoic."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "*Staphylococcus aureus*",
+        "dung": true,
+        "giaiThich": "Acid teichoic và lipoteichoic là các thành phần đặc trưng, chỉ có trong vách tế bào của vi khuẩn Gram dương. *Staphylococcus aureus* là một vi khuẩn Gram dương điển hình. Do đó, kháng sinh nhắm vào acid teichoic sẽ tác động chọn lọc và hiệu quả lên nhóm này."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "*Mycoplasma pneumoniae*",
+        "dung": false,
+        "giaiThich": "*Mycoplasma pneumoniae* là vi khuẩn không có vách tế bào, do đó không có acid teichoic."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "*Treponema pallidum*",
+        "dung": false,
+        "giaiThich": "*Treponema pallidum* (xoắn khuẩn giang mai) có cấu trúc vách giống Gram âm và không có acid teichoic."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "tinhHuong": "Khi quan sát vi khuẩn dưới kính hiển vi, bạn thấy chúng có hình que hơi cong, giống dấu phẩy.",
+    "cauHoi": "Dựa vào tài liệu, cách phân loại hình thể chính xác nhất cho vi khuẩn này là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Xoắn khuẩn",
+        "dung": false,
+        "giaiThich": "Xoắn khuẩn có hình sợi lượn sóng nhiều vòng, không phải chỉ hơi cong."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Cầu trực khuẩn",
+        "dung": false,
+        "giaiThich": "Cầu trực khuẩn là dạng trung gian giữa hình cầu và hình que, có hình bầu dục ngắn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Phẩy khuẩn",
+        "dung": true,
+        "giaiThich": "Tài liệu mô tả rõ ràng: '...vi khuẩn còn có thể ở dạng... trung gian giữa trực khuẩn và xoắn khuẩn là phẩy khuẩn'. Hình que cong như dấu phẩy là mô tả kinh điển của phẩy khuẩn (Vibrio), ví dụ như phẩy khuẩn tả."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Trực khuẩn",
+        "dung": false,
+        "giaiThich": "Trực khuẩn có hình que thẳng."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "tinhHuong": "",
+    "cauHoi": "Lý do chính giải thích tại sao vi khuẩn Gram âm thường kháng lại enzyme Lysozyme tốt hơn vi khuẩn Gram dương là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Lớp peptidoglycan của chúng có cấu trúc hóa học khác biệt, không bị Lysozyme phân hủy.",
+        "dung": false,
+        "giaiThich": "Cấu trúc hóa học cơ bản của peptidoglycan ở cả hai nhóm là tương tự nhau và đều có thể bị Lysozyme tác động nếu tiếp cận được."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Lớp màng ngoài hoạt động như một rào cản vật lý, ngăn Lysozyme tiếp cận lớp peptidoglycan.",
+        "dung": true,
+        "giaiThich": "Đích tác động của Lysozyme là lớp peptidoglycan. Ở vi khuẩn Gram âm, lớp peptidoglycan mỏng này được bao bọc và bảo vệ bởi lớp màng ngoài. Lớp màng ngoài có kích thước lỗ (qua các kênh porin) nhỏ, ngăn không cho phân tử Lysozyme lớn đi qua để tiếp cận và phá hủy vách."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Chúng tiết ra một chất ức chế đặc hiệu làm bất hoạt Lysozyme.",
+        "dung": false,
+        "giaiThich": "Đây không phải là cơ chế kháng Lysozyme phổ biến của vi khuẩn Gram âm."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Chúng hoàn toàn không có lớp peptidoglycan.",
+        "dung": false,
+        "giaiThich": "Vi khuẩn Gram âm có lớp peptidoglycan, nhưng mỏng hơn Gram dương."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "tinhHuong": "Một mẫu bệnh phẩm cho thấy các cầu khuẩn sắp xếp thành từng đám không đều, giống như chùm nho.",
+    "cauHoi": "Cách sắp xếp này là đặc trưng của chi vi khuẩn nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "*Streptococcus*",
+        "dung": false,
+        "giaiThich": "*Streptococcus* (liên cầu) xếp thành chuỗi. 'Strepto-' có nghĩa là chuỗi."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "*Neisseria*",
+        "dung": false,
+        "giaiThich": "*Neisseria* (lậu cầu, màng não cầu) là song cầu, thường xếp thành từng đôi một."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "*Staphylococcus*",
+        "dung": true,
+        "giaiThich": "Tài liệu định nghĩa rất rõ: 'Tụ cầu (Staphylococci): là những câu khuẩn sắp xếp thành từng đám như chùm nho'. 'Staphylo-' trong tiếng Hy Lạp có nghĩa là chùm nho."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "*Bacillus*",
+        "dung": false,
+        "giaiThich": "*Bacillus* là trực khuẩn (hình que), không phải cầu khuẩn."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "tinhHuong": "Khoảng chu chất (periplasmic space) là một vị trí có hoạt tính enzyme quan trọng (như beta-lactamase).",
+    "cauHoi": "Nó là một đặc điểm cấu trúc của nhóm vi khuẩn nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Khoảng không gian giữa vách tế bào và vỏ ở vi khuẩn Gram dương.",
+        "dung": false,
+        "giaiThich": "Vi khuẩn Gram dương không có khoảng chu chất theo đúng định nghĩa."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Khu vực bên trong lớp peptidoglycan dày của vi khuẩn Gram dương.",
+        "dung": false,
+        "giaiThich": "Vi khuẩn Gram dương không có khoảng chu chất theo đúng định nghĩa."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Khoảng không gian giữa màng tế bào chất và màng ngoài của vi khuẩn Gram âm.",
+        "dung": true,
+        "giaiThich": "Đây là định nghĩa chính xác về vị trí của khoảng chu chất. Nó chỉ tồn tại ở vi khuẩn Gram âm, là nơi chứa nhiều loại enzyme và protein tham gia vào vận chuyển chất dinh dưỡng và kháng thuốc."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Chỉ được tìm thấy ở những vi khuẩn có khả năng tạo nha bào.",
+        "dung": false,
+        "giaiThich": "Khả năng tạo nha bào không liên quan đến sự hiện diện của khoảng chu chất."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "tinhHuong": "",
+    "cauHoi": "Hình dạng đặc trưng (cầu, que, xoắn) của một tế bào vi khuẩn được quyết định chủ yếu bởi thành phần cấu trúc nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Màng tế bào chất",
+        "dung": false,
+        "giaiThich": "Màng tế bào chất mềm dẻo và nằm bên trong vách, nó không quyết định hình dạng tổng thể."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vách tế bào",
+        "dung": true,
+        "giaiThich": "Dòng đầu tiên trong phần 1 của tài liệu đã nêu: 'Mỗi loại vi khuẩn có hình thể và kích thước khác nhau do vách của tế bào vi khuẩn quyết định'. Vách peptidoglycan cứng rắn tạo nên bộ khung định hình cho vi khuẩn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ribosom",
+        "dung": false,
+        "giaiThich": "Ribosom là thành phần bên trong tế bào chất, không có vai trò định hình tế bào."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Nhân",
+        "dung": false,
+        "giaiThich": "Nhân là thành phần bên trong tế bào chất, không có vai trò định hình tế bào."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "tinhHuong": "",
+    "cauHoi": "Yếu tố khác biệt chính về cấu trúc giải thích tại sao cồn có thể tẩy màu vi khuẩn Gram âm mà không tẩy được màu vi khuẩn Gram dương trong kỹ thuật nhuộm Gram là:",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự hiện diện của một lớp lipid dày dạng sáp ở vi khuẩn Gram dương.",
+        "dung": false,
+        "giaiThich": "Lớp lipid sáp dày là đặc trưng của vi khuẩn kháng acid (như vi khuẩn lao), không phải của vi khuẩn Gram dương nói chung."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Nồng độ cao của lipopolysaccharide (LPS) trong vách vi khuẩn Gram dương.",
+        "dung": false,
+        "giaiThich": "LPS là thành phần của vi khuẩn Gram âm, không phải Gram dương."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Lớp peptidoglycan mỏng và sự hiện diện của màng ngoài ở vi khuẩn Gram âm.",
+        "dung": true,
+        "giaiThich": "Khi xử lý bằng cồn, cồn sẽ hòa tan lớp màng ngoài của vi khuẩn Gram âm, để lộ ra lớp peptidoglycan mỏng. Lớp mỏng này không đủ khả năng giữ lại phức hợp thuốc nhuộm tím-iod, do đó vi khuẩn bị tẩy màu. Ngược lại, ở vi khuẩn Gram dương, cồn làm mất nước và co lớp peptidoglycan dày lại, khiến phức hợp thuốc nhuộm bị giữ chặt bên trong."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự hiện diện của pili trên vi khuẩn Gram âm giúp thuốc nhuộm thoát ra ngoài.",
+        "dung": false,
+        "giaiThich": "Pili không liên quan đến quá trình giữ hay mất màu thuốc nhuộm."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "tinhHuong": "Leptospira, tác nhân gây bệnh xoắn khuẩn vàng da, được mô tả là một xoắn khuẩn.",
+    "cauHoi": "Đặc điểm hình thái đặc trưng nào được nêu trong tài liệu giúp phân biệt nó với các xoắn khuẩn khác như Treponema?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Nó có móc ở hai đầu.",
+        "dung": true,
+        "giaiThich": "Tài liệu mô tả rất cụ thể các loại xoắn khuẩn: '...lượn sóng đều nhau (xoắn khuẩn giang mai), không đều nhau (xoắn khuẩn hồi quy) hoặc có móc ở hai đầu (xoắn khuẩn Leptospira)'. Đây là đặc điểm nhận dạng quan trọng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Các vòng xoắn của nó đều đặn.",
+        "dung": false,
+        "giaiThich": "Vòng xoắn đều đặn là đặc điểm của Treponema (xoắn khuẩn giang mai)."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Các vòng xoắn của nó không đều.",
+        "dung": false,
+        "giaiThich": "Vòng xoắn không đều là đặc điểm của xoắn khuẩn hồi quy."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Nó là một cầu trực khuẩn.",
+        "dung": false,
+        "giaiThich": "Nó là xoắn khuẩn, không phải cầu trực khuẩn."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "tinhHuong": "Lipopolysaccharide (LPS) là thành phần chính của màng ngoài vi khuẩn Gram âm.",
+    "cauHoi": "Phần nào của phân tử LPS chịu trách nhiệm cho độc tính của nó (hoạt tính nội độc tố)?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Chuỗi polysaccharide kháng nguyên O.",
+        "dung": false,
+        "giaiThich": "Kháng nguyên O là phần polysaccharid quy định tính đặc hiệu kháng nguyên, dùng để phân type huyết thanh."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Phần lõi polysaccharide.",
+        "dung": false,
+        "giaiThich": "Phần lõi nối Lipid A với kháng nguyên O."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Phần Lipid A.",
+        "dung": true,
+        "giaiThich": "Tài liệu ghi rõ: 'Lipopolysaccharid gồm phần lipid, có đặc tính của nội độc tố...'. Phần lipid này chính là Lipid A, được neo vào lớp màng ngoài và chỉ được giải phóng khi vi khuẩn chết, gây ra các phản ứng viêm mạnh mẽ như sốt, sốc."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Protein tích hợp (porin).",
+        "dung": false,
+        "giaiThich": "Porin là các kênh protein, không phải là nội độc tố."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "tinhHuong": "",
+    "cauHoi": "Phát biểu nào sau đây liên kết đúng một hình thể vi khuẩn với kết quả nhuộm Gram điển hình và một đặc điểm cấu trúc chính?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tụ cầu (Staphylococci) thường là Gram âm và có vách peptidoglycan dày.",
+        "dung": false,
+        "giaiThich": "Tụ cầu là Gram dương. Phát biểu 'có vách peptidoglycan dày' đúng với Gram dương nhưng 'Gram âm' là sai."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Phẩy khuẩn tả (Vibrio cholerae) là vi khuẩn Gram âm và sở hữu màng ngoài chứa LPS.",
+        "dung": true,
+        "giaiThich": "Đây là phát biểu hoàn toàn chính xác. Phẩy khuẩn tả có hình que cong, là một vi khuẩn Gram âm. Tất cả vi khuẩn Gram âm đều có cấu trúc vách với lớp màng ngoài chứa Lipopolysaccharide (LPS)."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Liên cầu (Streptococci) thường là Gram âm và sở hữu khoảng chu chất.",
+        "dung": false,
+        "giaiThich": "Liên cầu là Gram dương, do đó chúng không có khoảng chu chất và không phải Gram âm."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Trực khuẩn than (Bacillus anthracis) là vi khuẩn Gram âm có khả năng tạo nha bào.",
+        "dung": false,
+        "giaiThich": "Trực khuẩn than là vi khuẩn Gram dương."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "tinhHuong": "Một loại thuốc kháng virus mới có cơ chế ngăn chặn sự hợp nhất giữa bao ngoài của virus và màng tế bào chủ. Thuốc này sẽ có hiệu quả chống lại loại virus nào sau đây nhất?",
+    "cauHoi": "Một loại thuốc kháng virus mới có cơ chế ngăn chặn sự hợp nhất giữa bao ngoài của virus và màng tế bào chủ. Thuốc này sẽ có hiệu quả chống lại loại virus nào sau đây nhất?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Phage",
+        "dung": false,
+        "giaiThich": "Phage (thực khuẩn thể) xâm nhập vào tế bào vi khuẩn bằng cách co bóp và bơm acid nucleic qua vách tế bào, không có bao ngoài và không dùng cơ chế hợp nhất màng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Adenovirus",
+        "dung": false,
+        "giaiThich": "Adenovirus là virus không có bao ngoài. Nó xâm nhập vào tế bào theo kiểu thực bào (endocytosis), không phải hợp nhất màng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Virus cúm",
+        "dung": true,
+        "giaiThich": "Virus cúm là một virus có bao ngoài (envelop). Quá trình xâm nhập của nó vào tế bào chủ diễn ra theo kiểu hợp nhất bao ngoài của virus với màng tế bào chủ. Do đó, một loại thuốc ức chế quá trình này sẽ có hiệu quả trực tiếp lên virus cúm."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Virus đốm thuốc lá",
+        "dung": false,
+        "giaiThich": "Virus đốm thuốc lá là một loại virus thực vật, có cấu trúc và cách xâm nhập khác, không liên quan đến cơ chế hợp nhất màng ở tế bào động vật."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "tinhHuong": "Nếu một virus có genom là ARN sợi âm (ARN-), bước nào sau đây là bắt buộc phải xảy ra ngay sau khi virus cởi bỏ lớp vỏ capsid trong tế bào chủ?",
+    "cauHoi": "Nếu một virus có genom là ARN sợi âm (ARN-), bước nào sau đây là bắt buộc phải xảy ra ngay sau khi virus cởi bỏ lớp vỏ capsid trong tế bào chủ?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Genom ARN của virus tích hợp vào ADN của tế bào chủ.",
+        "dung": false,
+        "giaiThich": "Tích hợp genom vào ADN tế bào chủ là đặc điểm của một số virus ADN hoặc Retrovirus sau khi đã sao chép ngược, không phải của virus ARN-."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Genom ARN của virus hoạt động ngay như một ARN thông tin (mARN) để tổng hợp protein.",
+        "dung": false,
+        "giaiThich": "Chỉ có ARN sợi dương (ARN+) mới có thể hoạt động ngay như mARN. ARN- thì không thể."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Genom ARN của virus phải được phiên mã thành ARN sợi dương (ARN+) nhờ enzym của virus.",
+        "dung": true,
+        "giaiThich": "ARN sợi âm không thể trực tiếp làm khuôn để tổng hợp protein. Nó phải được dùng làm khuôn để tổng hợp ra một sợi bổ sung là ARN sợi dương (ARN+) nhờ enzym ARN polymerase phụ thuộc ARN (do virus mang vào). Sợi ARN+ mới này sau đó sẽ đóng vai trò là ARN thông tin (mARN)."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Genom ARN của virus được sao chép ngược thành ADN trung gian.",
+        "dung": false,
+        "giaiThich": "Sao chép ngược thành ADN là cơ chế đặc trưng của Retrovirus (ví dụ: HIV), không phải của virus ARN- thông thường như virus cúm."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "tinhHuong": "Một bệnh nhân bị nhiễm virus và các tế bào bị nhiễm của người này cho thấy sự xuất hiện của các \"tiểu thể Negri\" trong bào tương. Dựa vào thông tin này, khả năng cao nhất là bệnh nhân đã nhiễm loại virus nào?",
+    "cauHoi": "Một bệnh nhân bị nhiễm virus và các tế bào bị nhiễm của người này cho thấy sự xuất hiện của các \"tiểu thể Negri\" trong bào tương. Dựa vào thông tin này, khả năng cao nhất là bệnh nhân đã nhiễm loại virus nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Virus dại",
+        "dung": true,
+        "giaiThich": "Tài liệu nêu rõ: \"Bệnh dại có tiểu thể Negri trong tế bào thần kinh\". Các tiểu thể là các đám hạt virus không được giải phóng mà tụ lại trong nhân hoặc tế bào chất. Việc phát hiện tiểu thể Negri là một dấu hiệu đặc trưng để chẩn đoán bệnh dại."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Virus cúm",
+        "dung": false,
+        "giaiThich": "Virus cúm giải phóng ra ngoài theo kiểu nảy chồi và thường không tạo ra các tiểu thể đặc trưng có tên riêng như Negri."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Adenovirus",
+        "dung": false,
+        "giaiThich": "Adenovirus nhân lên trong nhân tế bào nhưng không tạo ra tiểu thể Negri."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "HIV",
+        "dung": false,
+        "giaiThich": "HIV là một retrovirus, có cơ chế nhân lên và gây bệnh khác, không liên quan đến tiểu thể Negri."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "tinhHuong": "Tại sao vaccine phòng cúm phải được cập nhật và tiêm nhắc lại hằng năm, trong khi vaccine phòng sởi có thể tạo miễn dịch bền vững suốt đời?",
+    "cauHoi": "Tại sao vaccine phòng cúm phải được cập nhật và tiêm nhắc lại hằng năm, trong khi vaccine phòng sởi có thể tạo miễn dịch bền vững suốt đời?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Virus cúm có cấu trúc capsid đối xứng xoắn, còn virus sởi có cấu trúc đối xứng khối.",
+        "dung": false,
+        "giaiThich": "Cấu trúc đối xứng của capsid không phải là yếu tố chính quyết định sự thay đổi kháng nguyên và tính bền vững của miễn dịch."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Virus cúm có các kháng nguyên bề mặt (H và N) dễ bị đột biến và thay đổi, còn virus sởi có kháng nguyên ổn định hơn.",
+        "dung": true,
+        "giaiThich": "Tài liệu đề cập đến kháng nguyên Hemagglutinin (H) và Neuraminidase (N) trên bao ngoài của virus cúm. Các kháng nguyên này có tỷ lệ đột biến cao, tạo ra các chủng virus mới mỗi năm (hiện tượng trôi dạt kháng nguyên). Điều này khiến cho hệ miễn dịch đã tạo ra từ vaccine của năm trước không còn hiệu quả, do đó cần cập nhật vaccine hằng năm. Virus sởi có kháng nguyên ít thay đổi hơn nhiều."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Virus cúm là virus ARN, còn virus sởi là virus ADN.",
+        "dung": false,
+        "giaiThich": "Cả virus cúm và sởi đều là virus ARN. Vấn đề không nằm ở loại acid nucleic mà ở sự ổn định của các gen mã hóa cho kháng nguyên bề mặt."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Virus cúm có kích thước lớn hơn virus sởi nên hệ miễn dịch khó nhận diện hơn.",
+        "dung": false,
+        "giaiThich": "Kích thước không quyết định khả năng thay đổi kháng nguyên. Cả hai đều nằm trong tầm nhận diện của hệ miễn dịch."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "tinhHuong": "Một nhà khoa học tạo ra một \"hạt virus không hoàn chỉnh\" (DIP) của virus bại liệt trong phòng thí nghiệm. Hạt này có đặc điểm gì?",
+    "cauHoi": "Một nhà khoa học tạo ra một \"hạt virus không hoàn chỉnh\" (DIP) của virus bại liệt trong phòng thí nghiệm. Hạt này có đặc điểm gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Chứa acid nucleic nhưng thiếu capsid.",
+        "dung": false,
+        "giaiThich": "Acid nucleic không có capsid bảo vệ sẽ nhanh chóng bị phân hủy và không được gọi là hạt virus."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Chứa capsid nhưng không có acid nucleic.",
+        "dung": true,
+        "giaiThich": "Theo định nghĩa trong tài liệu, \"hạt virus không hoàn chỉnh (DIP: Defective interfering particle) là các hạt virus không có acid nucleic, chỉ có thành phần capsid\". Do đó, chúng không có khả năng gây nhiễm trùng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Có cả capsid và acid nucleic nhưng thiếu bao ngoài.",
+        "dung": false,
+        "giaiThich": "Virus bại liệt vốn là virus không có bao ngoài. Một hạt virus hoàn chỉnh của nó cũng chỉ có capsid và acid nucleic."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Có bộ gen là ADN thay vì ARN.",
+        "dung": false,
+        "giaiThich": "Virus bại liệt là virus ARN. Việc thay đổi bộ gen sẽ tạo ra một thực thể khác, không phải là DIP theo định nghĩa."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "tinhHuong": "Điều gì sẽ xảy ra nếu một virus có bao ngoài (ví dụ: HIV) cố gắng xâm nhập vào một tế bào không có thụ thể đặc hiệu (ví dụ: CD4) trên bề mặt?",
+    "cauHoi": "Điều gì sẽ xảy ra nếu một virus có bao ngoài (ví dụ: HIV) cố gắng xâm nhập vào một tế bào không có thụ thể đặc hiệu (ví dụ: CD4) trên bề mặt?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Virus vẫn xâm nhập được bằng cách thực bào.",
+        "dung": false,
+        "giaiThich": "Thực bào có thể xảy ra nhưng quá trình hấp phụ đặc hiệu vẫn là điều kiện tiên quyết để khởi động lây nhiễm."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Virus sẽ hợp nhất bao ngoài với màng tế bào và đi vào bên trong.",
+        "dung": false,
+        "giaiThich": "Sự hợp nhất màng chỉ xảy ra sau khi đã có sự hấp phụ đặc hiệu thành công."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Virus không thể thực hiện được giai đoạn hấp phụ và do đó không thể xâm nhập.",
+        "dung": true,
+        "giaiThich": "Giai đoạn hấp phụ là bước đầu tiên và mang tính đặc hiệu cao. Virus có bao ngoài sử dụng các glycoprotein (ví dụ: gp120 của HIV) để gắn vào các thụ thể đặc hiệu (ví dụ: CD4) trên màng tế bào chủ. Nếu không có thụ thể phù hợp, sự gắn kết này không thể xảy ra, và toàn bộ quá trình nhân lên sẽ bị chặn ngay từ đầu."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Virus sẽ bơm acid nucleic của nó vào tế bào.",
+        "dung": false,
+        "giaiThich": "Bơm acid nucleic là cơ chế của phage, không phải của HIV."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "tinhHuong": "Một virus có bộ gen là ADN sợi đôi. Quá trình tổng hợp các thành phần của nó chủ yếu diễn ra ở đâu trong tế bào chủ?",
+    "cauHoi": "Một virus có bộ gen là ADN sợi đôi. Quá trình tổng hợp các thành phần của nó chủ yếu diễn ra ở đâu trong tế bào chủ?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ribosom",
+        "dung": false,
+        "giaiThich": "Ribosom là nơi tổng hợp protein (capsid), nhưng quá trình sao chép genom ADN diễn ra ở trong nhân."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tế bào chất",
+        "dung": false,
+        "giaiThich": "Tế bào chất là nơi tổng hợp protein và là nơi nhân lên của hầu hết các virus ARN, nhưng không phải là nơi chính cho virus ADN."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Nhân tế bào",
+        "dung": true,
+        "giaiThich": "Tài liệu ghi rõ: \"Sao chép của virus có acid nucleic là ADN thường được thực hiện ở nhân tế bào nhờ enzym ADN polymerase\". Nhân tế bào là nơi chứa bộ máy sao chép ADN của tế bào chủ, virus ADN tận dụng bộ máy này để nhân lên genom của chúng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Màng tế bào",
+        "dung": false,
+        "giaiThich": "Màng tế bào là nơi virus có bao ngoài nảy chồi để giải phóng, không phải nơi tổng hợp."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "tinhHuong": "Tại sao virus bắt buộc phải ký sinh nội bào?",
+    "cauHoi": "Tại sao virus bắt buộc phải ký sinh nội bào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì chúng cần được bảo vệ khỏi môi trường bên ngoài bởi màng tế bào.",
+        "dung": false,
+        "giaiThich": "Mặc dù tế bào cung cấp sự bảo vệ, đây không phải là lý do chính. Nhiều virus có thể tồn tại khá bền vững ở môi trường ngoài trong một thời gian."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì chúng không có capsid để tự bảo vệ acid nucleic.",
+        "dung": false,
+        "giaiThich": "Hầu hết virus đều có capsid để bảo vệ acid nucleic."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì chúng có kích thước quá nhỏ để tồn tại độc lập.",
+        "dung": false,
+        "giaiThich": "Kích thước nhỏ không phải là lý do chúng không thể tồn tại độc lập, mà là sự thiếu hụt bộ máy sinh tổng hợp."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vì chúng thiếu các enzym chuyển hóa và hô hấp, phải sử dụng bộ máy của tế bào chủ.",
+        "dung": true,
+        "giaiThich": "Định nghĩa trong tài liệu đã nêu: \"virus... không có enzym hô hấp và enzym chuyển hóa, vì vậy virus bắt buộc phải ký sinh trong tế bào sống và sử dụng cơ chế hoạt động của tế bào để chỉ huy tổng hợp các thành phần cấu trúc của các hạt virus mới\". Đây là lý do cốt lõi cho đời sống ký sinh của chúng."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "tinhHuong": "Một phụ nữ mang thai 3 tháng đầu bị nhiễm virus Rubella có nguy cơ cao nhất đối với thai nhi là gì?",
+    "cauHoi": "Một phụ nữ mang thai 3 tháng đầu bị nhiễm virus Rubella có nguy cơ cao nhất đối với thai nhi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Thai nhi sẽ sản xuất interferon để chống lại virus.",
+        "dung": false,
+        "giaiThich": "Hệ miễn dịch của thai nhi chưa hoàn thiện, khả năng sản xuất interferon còn hạn chế và không phải là hậu quả chính được nhấn mạnh."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Gây ra tình trạng chuyển thể tế bào, dẫn đến ung thư cho thai nhi.",
+        "dung": false,
+        "giaiThich": "Chuyển thể tế bào gây ung thư là một hậu quả có thể xảy ra nhưng ít phổ biến hơn và không phải là nguy cơ điển hình nhất của Rubella trong thai kỳ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Gây tổn thương nhiễm sắc thể của tế bào phôi, dẫn đến dị tật bẩm sinh.",
+        "dung": true,
+        "giaiThich": "Tài liệu nêu rõ hậu quả của việc nhân lên của virus: \"Đối với tế bào phôi, có thể gây sảy thai, thai chết lưu, dị tật bẩm sinh, thường gặp ở phụ nữ có thai 3 tháng đầu bị nhiễm virus như rubella, cúm...\". Giai đoạn 3 tháng đầu là thời kỳ hình thành các cơ quan quan trọng, nên tế bào phôi rất nhạy cảm với các tác nhân gây tổn thương NST."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tạo ra các hạt virus không hoàn chỉnh trong cơ thể thai nhi.",
+        "dung": false,
+        "giaiThich": "Tạo DIP là một hiện tượng ở cấp độ tế bào, không phải là hậu quả lâm sàng chính đối với thai nhi."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "tinhHuong": "Chức năng nào sau đây KHÔNG phải của thành phần capsid?",
+    "cauHoi": "Chức năng nào sau đây KHÔNG phải của thành phần capsid?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Giúp virus hấp phụ lên tế bào chủ đối với virus không có bao ngoài.",
+        "dung": false,
+        "giaiThich": "Tài liệu ghi rõ capsid \"Giúp cho virus hấp phụ đặc hiệu lên bề mặt của tế bào cảm thụ (với những virus không có bao ngoài)\"."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Bảo vệ acid nucleic khỏi các enzym nuclease.",
+        "dung": false,
+        "giaiThich": "Chức năng cơ bản của capsid là \"Bảo vệ acid nucleic của virus không chịu sự tác động của các enzym nuclease\"."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Quyết định khả năng gây bệnh của virus.",
+        "dung": true,
+        "giaiThich": "Theo tài liệu, thành phần quyết định khả năng gây bệnh của virus là **acid nucleic**, không phải capsid. Acid nucleic chứa thông tin di truyền mã hóa cho các yếu tố độc lực. Capsid chỉ đóng vai trò bảo vệ và hỗ trợ các bước đầu của sự lây nhiễm."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Mang tính kháng nguyên đặc hiệu của virus.",
+        "dung": false,
+        "giaiThich": "Capsid có bản chất là protein, do đó nó \"Mang tính kháng nguyên đặc hiệu của virus\"."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "tinhHuong": "So sánh quá trình xâm nhập của virus Herpes và Adenovirus, điểm khác biệt cơ bản là gì?",
+    "cauHoi": "So sánh quá trình xâm nhập của virus Herpes và Adenovirus, điểm khác biệt cơ bản là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Virus Herpes xâm nhập bằng cách hợp nhất màng, Adenovirus xâm nhập bằng thực bào.",
+        "dung": true,
+        "giaiThich": "Tài liệu phân biệt rõ hai cơ chế xâm nhập: \"Các virus xâm nhập vào trong tế bào theo kiểu thực bào đối với virus không có bao ngoài và theo kiểu hợp nhất bao ngoài virus và màng tế bào chủ... đối với virus có bao ngoài\". Virus Herpes có bao ngoài, còn Adenovirus không có bao ngoài, do đó chúng tuân theo hai cơ chế này."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Virus Herpes xâm nhập bằng thực bào, Adenovirus xâm nhập bằng cách hợp nhất màng.",
+        "dung": false,
+        "giaiThich": "Mô tả ngược lại với cơ chế thực tế."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Virus Herpes bơm acid nucleic vào tế bào, Adenovirus đi vào nguyên vẹn.",
+        "dung": false,
+        "giaiThich": "Bơm acid nucleic là cơ chế của phage."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Cả hai đều xâm nhập bằng cách hợp nhất màng.",
+        "dung": false,
+        "giaiThich": "Chỉ virus có bao ngoài mới có thể hợp nhất màng."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "tinhHuong": "Interferon (INF) do tế bào chủ sản xuất ra để chống lại virus bằng cách nào?",
+    "cauHoi": "Interferon (INF) do tế bào chủ sản xuất ra để chống lại virus bằng cách nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Phá hủy trực tiếp các hạt virus đang lưu hành trong máu.",
+        "dung": false,
+        "giaiThich": "Interferon không tác động trực tiếp lên hạt virus bên ngoài tế bào. Nó hoạt động như một tín hiệu báo động cho các tế bào lân cận."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ngăn chặn virus hấp phụ lên bề mặt tế bào.",
+        "dung": false,
+        "giaiThich": "Interferon không ngăn chặn giai đoạn hấp phụ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Kích thích tế bào sản xuất protein kháng virus (AVP) để ức chế tổng hợp protein của virus.",
+        "dung": true,
+        "giaiThich": "Tài liệu mô tả cơ chế của Interferon: \"INF có tác dụng ngăn cản sự nhân lên của các virus khác nhau bằng cách kích thích tế bào sản xuất protein kháng virus (AVP: antiviral protein). AVP ngăn cản tổng hợp protein capsid và các enzym polymerase cần thiết cho tổng hợp acid nucleic của virus.\""
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Gắn vào acid nucleic của virus và làm nó bất hoạt.",
+        "dung": false,
+        "giaiThich": "Interferon không tương tác trực tiếp với acid nucleic của virus."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "tinhHuong": "Một virus được xác định có cấu trúc capsid đối xứng hình khối, chứa ADN sợi đôi và có bao ngoài. Dựa vào bảng phân loại, virus này thuộc họ nào?",
+    "cauHoi": "Một virus được xác định có cấu trúc capsid đối xứng hình khối, chứa ADN sợi đôi và có bao ngoài. Dựa vào bảng phân loại, virus này thuộc họ nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Adenoviridae",
+        "dung": false,
+        "giaiThich": "Adenoviridae có capsid khối, ADN 2 sợi nhưng không có bao ngoài (-)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Parvoviridae",
+        "dung": false,
+        "giaiThich": "Parvoviridae có capsid khối, không có bao ngoài (-) và acid nucleic là ADN 1 sợi."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Herpesviridae",
+        "dung": true,
+        "giaiThich": "Tra cứu Bảng 1.2 \"Virus có acid nucleic là ADN\", ta thấy họ Herpesviridae có các đặc điểm: Acid nucleic là ADN 2 sợi, Capsid đối xứng khối (Khối), và có bao ngoài (+)."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Poxviridae",
+        "dung": false,
+        "giaiThich": "Poxviridae có cấu trúc phức hợp (Không đối xứng), không phải đối xứng khối."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "tinhHuong": "Giai đoạn \"cởi áo\" (uncoating) trong chu trình nhân lên của virus có mục đích chính là gì?",
+    "cauHoi": "Giai đoạn \"cởi áo\" (uncoating) trong chu trình nhân lên của virus có mục đích chính là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Để giải phóng các hạt virus mới ra khỏi tế bào.",
+        "dung": false,
+        "giaiThich": "Giải phóng virus mới là giai đoạn cuối cùng, sau khi lắp ráp."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Để bao ngoài của virus hợp nhất với màng tế bào.",
+        "dung": false,
+        "giaiThich": "Hợp nhất màng là một phần của giai đoạn xâm nhập, xảy ra trước khi cởi áo."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Để giải phóng acid nucleic của virus vào trong tế bào chất hoặc nhân.",
+        "dung": true,
+        "giaiThich": "Sau khi xâm nhập vào tế bào, virus cần phải loại bỏ lớp vỏ capsid bảo vệ để lộ ra bộ gen (acid nucleic). Chỉ khi acid nucleic được giải phóng, nó mới có thể tiếp cận và chiếm quyền điều khiển bộ máy di truyền và sinh tổng hợp của tế bào chủ để bắt đầu quá trình sao chép và phiên mã."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Để lắp ráp các thành phần capsid và acid nucleic lại với nhau.",
+        "dung": false,
+        "giaiThich": "Lắp ráp là giai đoạn gần cuối, xảy ra sau khi các thành phần mới đã được tổng hợp."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "tinhHuong": "Một virus có enzym sao chép ngược (Reverse Transcriptase). Điều này cho phép virus thực hiện quá trình nào sau đây?",
+    "cauHoi": "Một virus có enzym sao chép ngược (Reverse Transcriptase). Điều này cho phép virus thực hiện quá trình nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tổng hợp ARN từ khuôn mẫu ADN.",
+        "dung": false,
+        "giaiThich": "Tổng hợp ARN từ ADN là phiên mã thông thường, sử dụng ARN polymerase."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tổng hợp ADN từ khuôn mẫu ARN.",
+        "dung": true,
+        "giaiThich": "Sao chép ngược (Reverse Transcription) là quá trình đi ngược lại với quy trình phiên mã thông thường (ADN -> ARN). Enzym sao chép ngược (RT) sử dụng genom ARN của virus làm khuôn để tổng hợp ra một phân tử ADN trung gian. Đây là đặc điểm nhận dạng của các Retrovirus như HIV."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tổng hợp Protein từ khuôn mẫu ARN.",
+        "dung": false,
+        "giaiThich": "Tổng hợp Protein từ ARN là dịch mã, diễn ra ở ribosom."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tổng hợp ARN từ khuôn mẫu ARN.",
+        "dung": false,
+        "giaiThich": "Tổng hợp ARN từ ARN sử dụng ARN polymerase phụ thuộc ARN, có ở các virus ARN khác."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "tinhHuong": "Bao ngoài (envelop) của virus có nguồn gốc từ đâu?",
+    "cauHoi": "Bao ngoài (envelop) của virus có nguồn gốc từ đâu?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Do virus tự tổng hợp hoàn toàn trong tế bào chất.",
+        "dung": false,
+        "giaiThich": "Virus không thể tự tổng hợp lớp lipid kép của bao ngoài, nó phải \"mượn\" từ tế bào chủ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Từ màng tế bào hoặc màng nhân của tế bào chủ.",
+        "dung": true,
+        "giaiThich": "Tài liệu ghi: \"Bao ngoài được hình thành từ màng tế bào hoặc màng nhân của tế bào chủ...\". Khi virus nảy chồi ra khỏi tế bào, nó \"khoác\" lên mình một mảnh màng của tế bào chủ. Tuy nhiên, các protein gai (glycoprotein) trên bao ngoài là do virus tổng hợp và cài vào màng tế bào trước đó."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Từ thành phần capsid của các virus thế hệ trước.",
+        "dung": false,
+        "giaiThich": "Capsid và bao ngoài là hai thành phần cấu trúc riêng biệt."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Từ môi trường dinh dưỡng bên ngoài tế bào.",
+        "dung": false,
+        "giaiThich": "Virus không lấy bất kỳ thành phần cấu trúc nào từ môi trường dinh dưỡng."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "tinhHuong": "Hiện tượng \"chuyển thể tế bào\" do virus gây ra có thể dẫn đến hậu quả nghiêm trọng nào?",
+    "cauHoi": "Hiện tượng \"chuyển thể tế bào\" do virus gây ra có thể dẫn đến hậu quả nghiêm trọng nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tế bào bị ly giải và chết ngay lập tức.",
+        "dung": false,
+        "giaiThich": "Ly giải tế bào là một hậu quả khác, thường là của chu trình tan, đối lập với sự chuyển thể."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tế bào sản xuất ra một lượng lớn interferon.",
+        "dung": false,
+        "giaiThich": "Sản xuất interferon là một phản ứng của tế bào, không phải là bản chất của sự chuyển thể."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tế bào trở nên bất tử và phân chia không kiểm soát, gây ra khối u.",
+        "dung": true,
+        "giaiThich": "\"Chuyển thể tế bào\" là hậu quả của việc genom virus tích hợp vào ADN tế bào chủ, làm thay đổi các đặc tính của tế bào. Tài liệu nêu: \"ADN của chúng tích hợp vào ADN tế bào chủ dẫn tới tế bào có tính chất mới, có thể gây nên khối u hoặc ung thư\". Sự thay đổi này thường liên quan đến việc làm hỏng các gen kiểm soát chu kỳ tế bào."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tế bào trở thành tế bào tiềm tan, không gây hại.",
+        "dung": false,
+        "giaiThich": "Tế bào tiềm tan vẫn chứa genom virus nhưng không phải lúc nào cũng dẫn đến sự phân chia không kiểm soát. Chuyển thể là một dạng đặc biệt của nhiễm trùng mạn tính có khả năng sinh ung thư."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "tinhHuong": "Một virus được mô tả có genom là ARN sợi đơn, đối xứng capsid hình khối, không có bao ngoài và kích thước khoảng 20-30 nm. Virus này có khả năng cao thuộc họ nào?",
+    "cauHoi": "Một virus được mô tả có genom là ARN sợi đơn, đối xứng capsid hình khối, không có bao ngoài và kích thước khoảng 20-30 nm. Virus này có khả năng cao thuộc họ nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Retroviridae",
+        "dung": false,
+        "giaiThich": "Retroviridae (HIV) có bao ngoài (+)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Orthomyxoviridae",
+        "dung": false,
+        "giaiThich": "Orthomyxoviridae (Cúm) có bao ngoài (+) và capsid đối xứng xoắn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Picornaviridae",
+        "dung": true,
+        "giaiThich": "Dựa vào Bảng 1.3 \"Virus có acid nucleic là ARN\", họ Picornaviridae (ví dụ: Poliovirus, Enterovirus) có các đặc điểm: ARN 1 sợi, capsid đối xứng khối, không có bao ngoài (-), và kích thước 20-30 nm, hoàn toàn trùng khớp với mô tả."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Rhabdoviridae",
+        "dung": false,
+        "giaiThich": "Rhabdoviridae (Dại) có bao ngoài (+) và capsid đối xứng xoắn."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "tinhHuong": "Chức năng của glycoprotein Hemagglutinin (H) trên bề mặt virus cúm là gì?",
+    "cauHoi": "Chức năng của glycoprotein Hemagglutinin (H) trên bề mặt virus cúm là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Phá hủy màng tế bào để giải phóng hàng loạt virus.",
+        "dung": false,
+        "giaiThich": "Phá hủy màng tế bào không phải là chức năng của H."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Giúp virus bám vào thụ thể acid sialic trên bề mặt tế bào chủ.",
+        "dung": true,
+        "giaiThich": "Hemagglutinin (H) là kháng nguyên chịu trách nhiệm cho giai đoạn đầu tiên của sự lây nhiễm: hấp phụ. \"Hem-\" (máu) và \"agglutinin\" (gây ngưng kết) ám chỉ khả năng của nó làm ngưng kết hồng cầu bằng cách bám vào các thụ thể trên bề mặt tế bào, chức năng chính là giúp virus gắn vào tế bào chủ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sao chép bộ gen ARN của virus.",
+        "dung": false,
+        "giaiThich": "Sao chép bộ gen là chức năng của enzym polymerase."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Cắt đứt liên kết giữa virus và tế bào để virus mới được giải phóng.",
+        "dung": false,
+        "giaiThich": "Cắt đứt liên kết để giải phóng virus là chức năng của một glycoprotein khác, Neuraminidase (N)."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "tinhHuong": "Nếu một virus ADN tích hợp genom của nó vào nhiễm sắc thể của tế bào chủ và tồn tại ở trạng thái im lặng, không nhân lên, đây được gọi là hiện tượng gì?",
+    "cauHoi": "Nếu một virus ADN tích hợp genom của nó vào nhiễm sắc thể của tế bào chủ và tồn tại ở trạng thái im lặng, không nhân lên, đây được gọi là hiện tượng gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Chu trình tan (Lytic cycle)",
+        "dung": false,
+        "giaiThich": "Chu trình tan là quá trình virus nhân lên ồ ạt và phá vỡ tế bào để giải phóng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tế bào tiềm tan (Lysogeny)",
+        "dung": true,
+        "giaiThich": "Tài liệu mô tả: \"Tế bào trở thành tế bào tiềm tan: genom của virus ôn hoà tích hợp vào nhiễm sắc thể của tế bào, cũng phân chia với tế bào. Khi gặp điều kiện thuận lợi, các genom của virus ôn hoà trở thành virus độc lực có thể gây ly giải tế bào.\" Trạng thái im lặng, nhân lên cùng tế bào chủ chính là bản chất của chu trình tiềm tan."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Chuyển thể tế bào (Transformation)",
+        "dung": false,
+        "giaiThich": "Chuyển thể tế bào cũng có sự tích hợp genom nhưng dẫn đến sự thay đổi ác tính của tế bào."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Nhiễm trùng cấp tính (Acute infection)",
+        "dung": false,
+        "giaiThich": "Nhiễm trùng cấp tính thường liên quan đến chu trình tan và sự phá hủy tế bào nhanh chóng."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "tinhHuong": "Virus nào sau đây có cấu trúc acid nucleic khác biệt nhất so với các virus còn lại?",
+    "cauHoi": "Virus nào sau đây có cấu trúc acid nucleic khác biệt nhất so với các virus còn lại?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Virus Cúm (Influenza virus)",
+        "dung": false,
+        "giaiThich": "Virus Cúm là virus ARN."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Virus Sởi (Measles virus)",
+        "dung": false,
+        "giaiThich": "Virus Sởi là virus ARN."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Virus Bại liệt (Poliovirus)",
+        "dung": false,
+        "giaiThich": "Virus Bại liệt là virus ARN."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Virus Viêm gan B (HBV)",
+        "dung": true,
+        "giaiThich": "Dựa vào bảng phân loại, virus Cúm, Sởi, và Bại liệt đều là các virus có acid nucleic là ARN. Trong khi đó, virus Viêm gan B (HBV) là virus có acid nucleic là ADN. Đây là sự khác biệt cơ bản nhất về bộ gen."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "tinhHuong": "Một loại thuốc kháng virus hoạt động bằng cách ức chế enzym neuraminidase. Thuốc này sẽ can thiệp vào giai đoạn nào trong chu trình nhân lên của virus cúm?",
+    "cauHoi": "Một loại thuốc kháng virus hoạt động bằng cách ức chế enzym neuraminidase. Thuốc này sẽ can thiệp vào giai đoạn nào trong chu trình nhân lên của virus cúm?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Hấp phụ",
+        "dung": false,
+        "giaiThich": "Hấp phụ là chức năng của Hemagglutinin (H)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Xâm nhập",
+        "dung": false,
+        "giaiThich": "Xâm nhập xảy ra sau khi hấp phụ thành công."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Lắp ráp",
+        "dung": false,
+        "giaiThich": "Lắp ráp là quá trình các thành phần của virus được tạo ra và kết hợp lại bên trong tế bào."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Giải phóng",
+        "dung": true,
+        "giaiThich": "Neuraminidase (N) là enzym trên bề mặt virus cúm có chức năng cắt đứt liên kết giữa glycoprotein Hemagglutinin (H) của virus và thụ thể acid sialic của tế bào chủ. Việc này rất quan trọng để các hạt virus mới sau khi nảy chồi có thể thoát ra hoàn toàn khỏi tế bào đã nhiễm và không bị dính lại trên bề mặt của nó. Ức chế N sẽ làm virus bị \"mắc kẹt\", không lây lan được."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "tinhHuong": "Tại sao không thể nuôi cấy virus trên môi trường dinh dưỡng nhân tạo như nuôi cấy vi khuẩn?",
+    "cauHoi": "Tại sao không thể nuôi cấy virus trên môi trường dinh dưỡng nhân tạo như nuôi cấy vi khuẩn?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì virus không có thành tế bào.",
+        "dung": false,
+        "giaiThich": "Việc không có thành tế bào không liên quan đến khả năng sử dụng môi trường dinh dưỡng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì virus cần nhiệt độ của cơ thể sống để phát triển.",
+        "dung": false,
+        "giaiThich": "Nhiều vi khuẩn cũng cần nhiệt độ cơ thể sống, nhưng vẫn có thể mọc trên môi trường nhân tạo nếu được ủ ở nhiệt độ thích hợp."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì virus không có bộ máy sinh tổng hợp riêng và phải dựa vào tế bào sống.",
+        "dung": true,
+        "giaiThich": "Đây là câu hỏi vận dụng từ định nghĩa cốt lõi của virus. Môi trường dinh dưỡng nhân tạo (như thạch, canh thang) chỉ cung cấp các chất dinh dưỡng (đường, acid amin, vitamin...). Virus không thể sử dụng trực tiếp các chất này vì chúng không có ribosome, không có enzym chuyển hóa năng lượng. Chúng phải \"vay mượn\" toàn bộ bộ máy này từ một tế bào sống (tế bào chủ)."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vì virus quá nhỏ nên không thể phát triển thành khuẩn lạc có thể quan sát được.",
+        "dung": false,
+        "giaiThich": "Kích thước nhỏ và không tạo khuẩn lạc là hệ quả của việc không thể tự nhân lên, không phải là nguyên nhân."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "tinhHuong": "Sự khác biệt cơ bản trong quá trình tổng hợp protein capsid giữa virus có ARN sợi dương (ARN+) và ARN sợi âm (ARN-) là gì?",
+    "cauHoi": "Sự khác biệt cơ bản trong quá trình tổng hợp protein capsid giữa virus có ARN sợi dương (ARN+) và ARN sợi âm (ARN-) là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Virus ARN+ dùng enzym của tế bào chủ, virus ARN- dùng enzym của chính nó.",
+        "dung": false,
+        "giaiThich": "Cả hai đều cần enzym polymerase của riêng mình để sao chép bộ gen ARN, nhưng đều sử dụng bộ máy dịch mã (ribosome, tARN...) của tế bào chủ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "ARN của virus ARN+ có thể làm khuôn dịch mã ngay, ARN của virus ARN- thì không.",
+        "dung": true,
+        "giaiThich": "ARN sợi dương (ARN+) có trình tự giống hệt ARN thông tin (mARN), do đó ngay sau khi vào tế bào chất, nó có thể gắn ngay vào ribosome để tiến hành dịch mã tổng hợp protein. Ngược lại, ARN sợi âm (ARN-) là sợi bổ sung, nó phải được phiên mã thành sợi ARN+ trước khi có thể dịch mã."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Virus ARN+ tổng hợp protein ở nhân, virus ARN- tổng hợp ở tế bào chất.",
+        "dung": false,
+        "giaiThich": "Hầu hết virus ARN đều thực hiện chu trình sống của mình trong tế bào chất."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Virus ARN+ không cần ribosome, virus ARN- cần ribosome của tế bào chủ.",
+        "dung": false,
+        "giaiThich": "Mọi quá trình tổng hợp protein đều cần ribosome. Cả hai loại virus đều phải dùng ribosome của tế bào chủ."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "tinhHuong": "Việc một virus có thể gây ung thư (ví dụ: HPV) liên quan chặt chẽ nhất đến khả năng nào của virus?",
+    "cauHoi": "Việc một virus có thể gây ung thư (ví dụ: HPV) liên quan chặt chẽ nhất đến khả năng nào của virus?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Phá hủy tế bào chủ một cách nhanh chóng.",
+        "dung": false,
+        "giaiThich": "Phá hủy tế bào là chu trình tan, đối lập với khả năng gây ung thư vốn đòi hỏi tế bào phải sống và phân chia mất kiểm soát."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tích hợp genom của nó vào genom của tế bào chủ và làm rối loạn gen điều hòa phân bào.",
+        "dung": true,
+        "giaiThich": "Cơ chế gây ung thư của virus là thông qua việc can thiệp vào bộ máy di truyền của tế bào. Tài liệu giải thích: \"Cơ chế có thể do virus đã tác động vào gen ở nhiễm sắc thể của tế bào, gen này chỉ phối sự tiếp xúc giữa 2 tế bào khi phân chia, dẫn tới tế bào phân chia không bình thường\". Việc tích hợp genom có thể làm bất hoạt các gen ức chế khối u hoặc hoạt hóa các gen tiền ung thư của tế bào chủ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tạo ra các tiểu thể trong tế bào chất.",
+        "dung": false,
+        "giaiThich": "Tạo tiểu thể là một hậu quả khác, không trực tiếp gây ung thư."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Kích thích tế bào sản xuất một lượng lớn kháng thể.",
+        "dung": false,
+        "giaiThich": "Sản xuất kháng thể là phản ứng của hệ miễn dịch, không phải là cơ chế gây bệnh của virus."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "tinhHuong": "Một virus có genom là ADN, nhưng trong quá trình nhân lên lại cần đến enzym sao chép ngược. Đây là đặc điểm của virus nào?",
+    "cauHoi": "Một virus có genom là ADN, nhưng trong quá trình nhân lên lại cần đến enzym sao chép ngược. Đây là đặc điểm của virus nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Adenovirus",
+        "dung": false,
+        "giaiThich": "Adenovirus sao chép genom ADN của mình bằng enzym ADN polymerase theo cách thông thường, không cần sao chép ngược."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Herpesvirus",
+        "dung": false,
+        "giaiThich": "Herpesvirus sao chép genom ADN của mình bằng enzym ADN polymerase theo cách thông thường, không cần sao chép ngược."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Virus viêm gan B (HBV)",
+        "dung": true,
+        "giaiThich": "Đây là một câu hỏi vận dụng cao, đòi hỏi sự liên kết thông tin. Mặc dù HBV là một virus ADN, chu trình nhân lên của nó rất đặc biệt. Nó phiên mã ADN thành một mARN tiền genom, sau đó mARN này được **sao chép ngược** trở lại thành ADN để tạo ra genom cho các hạt virus mới. Do đó, nó cũng cần enzym sao chép ngược, một đặc điểm thường được biết đến ở Retrovirus (virus ARN)."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Parvovirus",
+        "dung": false,
+        "giaiThich": "Parvovirus sao chép genom ADN của mình bằng enzym ADN polymerase theo cách thông thường, không cần sao chép ngược."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "tinhHuong": "Nếu so sánh một phage và một virus động vật có bao ngoài, điểm khác biệt lớn nhất trong giai đoạn xâm nhập là gì?",
+    "cauHoi": "Nếu so sánh một phage và một virus động vật có bao ngoài, điểm khác biệt lớn nhất trong giai đoạn xâm nhập là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Phage xâm nhập toàn bộ cấu trúc vào vi khuẩn, virus động vật chỉ đưa acid nucleic vào.",
+        "dung": false,
+        "giaiThich": "Mô tả ngược lại với thực tế."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Phage chỉ bơm acid nucleic vào vi khuẩn, virus động vật đi vào toàn bộ (hoặc hợp nhất màng).",
+        "dung": true,
+        "giaiThich": "Tài liệu mô tả cơ chế xâm nhập của phage: \"...nhờ thành phần capsid co bóp, bơm acid nucleic qua vách tế bào vi khuẩn đối với phage\". Trong khi đó, virus động vật xâm nhập bằng thực bào (đi cả hạt virus vào) hoặc hợp nhất màng (capsid và acid nucleic đi vào). Lớp vỏ capsid của phage bị bỏ lại bên ngoài."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Phage cần thụ thể, virus động vật không cần.",
+        "dung": false,
+        "giaiThich": "Cả hai đều cần thụ thể đặc hiệu để hấp phụ."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Phage xâm nhập bằng thực bào, virus động vật xâm nhập bằng cách bơm acid nucleic.",
+        "dung": false,
+        "giaiThich": "Mô tả ngược lại với thực tế."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "tinhHuong": "Acid nucleic của virus chỉ chiếm 1-2% trọng lượng hạt virus nhưng lại có vai trò quyết định vì sao?",
+    "cauHoi": "Acid nucleic của virus chỉ chiếm 1-2% trọng lượng hạt virus nhưng lại có vai trò quyết định vì sao?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì nó quyết định hình dạng của virus.",
+        "dung": false,
+        "giaiThich": "Hình dạng của virus được quyết định bởi cấu trúc và cách sắp xếp của capsid."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì nó chứa toàn bộ thông tin di truyền để tạo ra một virus hoàn chỉnh.",
+        "dung": true,
+        "giaiThich": "Tài liệu nhấn mạnh vai trò của acid nucleic dù chiếm tỷ lệ nhỏ: \"Mang toàn bộ mật mã thông tin di truyền của virus\", \"Quyết định khả năng gây bệnh của virus\", \"Chi phối mọi hoạt động của tế bào khi nó thực hiện quá trình nhân lên\". Đây chính là \"bộ não\" điều khiển toàn bộ chu trình sống của virus."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì nó là thành phần mang tính kháng nguyên mạnh nhất.",
+        "dung": false,
+        "giaiThich": "Protein (capsid, glycoprotein) mới là thành phần mang tính kháng nguyên chính và mạnh nhất."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vì nó trực tiếp tham gia vào việc lắp ráp các hạt virus mới.",
+        "dung": false,
+        "giaiThich": "Acid nucleic là \"bản thiết kế\", còn việc lắp ráp được thực hiện bởi các enzym."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "tinhHuong": "Trong phân loại virus, yếu tố nào sau đây được coi là tiêu chuẩn cơ bản và quan trọng nhất?",
+    "cauHoi": "Trong phân loại virus, yếu tố nào sau đây được coi là tiêu chuẩn cơ bản và quan trọng nhất?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Hình thể của virus (cầu, que, khối).",
+        "dung": false,
+        "giaiThich": "Hình thể là một tiêu chí nhưng không cơ bản bằng bộ gen. Các virus có bộ gen khác nhau có thể có hình thể giống nhau."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Loại tế bào chủ mà virus ký sinh (động vật, thực vật, vi khuẩn).",
+        "dung": false,
+        "giaiThich": "Loại tế bào chủ là một cách phân loại nhưng không phản ánh mối quan hệ tiến hóa và sinh học phân tử như bộ gen."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Loại acid nucleic (ADN hay ARN) và cấu trúc của nó (sợi đơn/kép).",
+        "dung": true,
+        "giaiThich": "Tài liệu liệt kê các tiêu chuẩn phân loại, trong đó \"Loại acid nucleic (ADN hoặc ARN) và cấu trúc của chúng\" được đặt lên hàng đầu. Đây là cơ sở cho hệ thống phân loại Baltimore, hệ thống phân loại virus hiện đại và phổ biến nhất, vì nó phản ánh chiến lược nhân lên cốt lõi của virus. Các bảng phân loại trong tài liệu cũng được chia thành hai nhóm chính: virus ADN và virus ARN."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Bệnh mà virus gây ra (viêm gan, cúm, dại).",
+        "dung": false,
+        "giaiThich": "Phân loại theo bệnh gây ra là cách tiếp cận cổ điển và không chính xác về mặt khoa học, vì nhiều virus khác nhau có thể gây ra triệu chứng giống nhau, và một virus có thể gây ra nhiều bệnh cảnh khác nhau."
+      }
+    ]
+  }
+]
