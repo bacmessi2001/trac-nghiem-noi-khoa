@@ -1,0 +1,3164 @@
+[
+  {
+    "id": 1,
+    "tinhHuong": "Một bệnh nhân bị tổn thương khu trú ở sừng trước chất xám tủy sống.",
+    "cauHoi": "Hậu quả chức năng nào có khả năng xảy ra cao nhất?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Mất cảm giác đau và nhiệt độ ở vùng da tương ứng.",
+        "dung": false,
+        "giaiThich": "Cảm giác đau và nhiệt độ được tiếp nhận bởi các nơron ở sừng sau tủy sống."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Yếu hoặc liệt vận động ở các cơ do đoạn tủy đó chi phối.",
+        "dung": true,
+        "giaiThich": "Theo tài liệu (trang 2), sừng trước chất xám tủy sống chứa các nơron rễ vận động. Thân của các nơron này sẽ cho sợi trục tạo thành rễ trước của dây thần kinh tủy sống, trực tiếp chi phối sự co cơ của các cơ vân (cơ xương). Do đó, tổn thương tại đây sẽ làm gián đoạn con đường vận động cuối cùng đến cơ, gây ra yếu hoặc liệt vận động."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Rối loạn chức năng của các cơ quan nội tạng như tim, ruột.",
+        "dung": false,
+        "giaiThich": "Chức năng của các cơ quan nội tạng được chi phối bởi hệ thần kinh thực vật, mà các nơron của hệ này nằm ở sừng bên (đối với hệ giao cảm) chứ không phải sừng trước."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Mất khả năng truyền tín hiệu vận động từ vỏ não xuống tủy sống.",
+        "dung": false,
+        "giaiThich": "Việc truyền tín hiệu từ vỏ não xuống là chức năng của các bó sợi thần kinh trong chất trắng của tủy sống (ví dụ: bó tháp), không phải chất xám ở sừng trước."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tinhHuong": "Dựa vào cấu trúc cực kỳ phức tạp và phân nhánh rộng khắp của cây sợi nhánh tế bào Purkinje trong lớp phân tử của tiểu não,",
+    "cauHoi": "có thể suy luận vai trò chính của nó là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tạo ra một lớp cách điện để ngăn chặn nhiễu tín hiệu.",
+        "dung": false,
+        "giaiThich": "Chức năng cách điện là của bao myelin trên sợi trục, không phải của cây sợi nhánh."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tích hợp thông tin từ một số lượng rất lớn các nguồn tín hiệu đầu vào.",
+        "dung": true,
+        "giaiThich": "Tài liệu mô tả (trang 2) cây sợi nhánh của tế bào Purkinje 'chia nhiều nhánh nhỏ nhiều tầng, toả vào lớp phân tử'. Cấu trúc tỏa rộng như một chiếc quạt này cho phép mỗi tế bào Purkinje nhận tín hiệu từ hàng trăm nghìn sợi song song (xuất phát từ tế bào hạt) và các sợi leo. Điều này cho thấy vai trò của nó là một trung tâm hội tụ và tích hợp thông tin khổng lồ, cần thiết cho việc điều phối vận động một cách chính xác."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Trực tiếp tạo ra dịch não tủy để nuôi dưỡng tiểu não.",
+        "dung": false,
+        "giaiThich": "Dịch não tủy được tạo ra bởi đám rối màng mạch ở các não thất."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Dự trữ năng lượng cho các hoạt động của tiểu não.",
+        "dung": false,
+        "giaiThich": "Dự trữ năng lượng là chức năng của các tế bào thần kinh đệm (ví dụ: dự trữ glycogen) chứ không phải là vai trò chính của cấu trúc sợi nhánh."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tinhHuong": "",
+    "cauHoi": "Tại sao chất trắng của não và tủy sống lại có màu trắng?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Do có mật độ thân nơron rất cao.",
+        "dung": false,
+        "giaiThich": "Mật độ thân nơron cao là đặc điểm của chất xám, làm cho nó có màu xám."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Do sự hiện diện của một lượng lớn bao myelin giàu lipid bao bọc các sợi trục.",
+        "dung": true,
+        "giaiThich": "Tài liệu nêu rõ (trang 1 và 2) rằng chất trắng 'không có thân nơron, chỉ có những sợi thần kinh có myelin'. Bao myelin được cấu tạo chủ yếu từ lipid (chất béo), có màu trắng. Sự hiện diện dày đặc của các sợi trục được bọc myelin này làm cho toàn bộ khu vực có màu trắng đặc trưng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Do chứa nhiều mạch máu hơn so với chất xám.",
+        "dung": false,
+        "giaiThich": "Chất xám thực tế lại chứa nhiều mao mạch hơn chất trắng để đáp ứng nhu cầu chuyển hóa cao của thân nơron."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Do được cấu tạo chủ yếu từ các tế bào thần kinh đệm.",
+        "dung": false,
+        "giaiThich": "Tế bào thần kinh đệm có ở cả chất xám và chất trắng, chúng không phải là yếu tố quyết định màu sắc."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "tinhHuong": "Một loại thuốc khi tiêm vào máu không thể đi vào mô thần kinh của đại não nhưng lại được tìm thấy trong dịch não tủy.",
+    "cauHoi": "Điều này có thể được giải thích bởi cơ chế nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Thuốc đi qua được hàng rào máu-não nhưng không qua được màng não thất.",
+        "dung": false,
+        "giaiThich": "Nếu thuốc qua được hàng rào máu-não, nó đã đi vào được mô thần kinh."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Thuốc không qua được hàng rào máu-não nhưng được các tế bào của đám rối màng mạch vận chuyển tích cực vào dịch não tủy.",
+        "dung": true,
+        "giaiThich": "Tài liệu (trang 5) mô tả hàng rào máu-não ngăn cản các chất từ máu vào mô não. Tuy nhiên, đám rối màng mạch có chức năng 'tạo ra dịch não tủy' thông qua vận chuyển chọn lọc. Do đó, một chất có thể bị hàng rào máu-não chặn lại nhưng lại được đám rối màng mạch 'bơm' vào dịch não tủy."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Thuốc bị phá hủy bởi các tế bào nội mô mao mạch ở não.",
+        "dung": false,
+        "giaiThich": "Nếu bị phá hủy, nó sẽ không xuất hiện trong dịch não tủy."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Thuốc chỉ có thể đi vào qua khoang Virchow-Robin.",
+        "dung": false,
+        "giaiThich": "Khoang Virchow-Robin nằm 'bên ngoài' hàng rào máu-não. Một chất phải vào được dịch não tủy trước thì mới có thể có mặt trong khoang này."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "tinhHuong": "",
+    "cauHoi": "Sự sắp xếp của các lớp tế bào trong vỏ đại não (ví dụ: lớp tháp ngoài, lớp tháp trong) có ý nghĩa chức năng gì quan trọng nhất?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tạo thành một cấu trúc xử lý thông tin theo cột, có tổ chức cao.",
+        "dung": true,
+        "giaiThich": "Việc mô tả 6 lớp riêng biệt (trang 3-4) với các loại nơron và kết nối đặc trưng ngụ ý một sự tổ chức chặt chẽ. Cấu trúc này tạo thành các cột chức năng, nơi thông tin được xử lý tuần tự, là nền tảng cho các chức năng nhận thức phức tạp."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Giúp tăng diện tích bề mặt của đại não.",
+        "dung": false,
+        "giaiThich": "Việc tăng diện tích bề mặt là do sự hình thành các khe và rãnh (hồi não), không phải do cấu trúc lớp."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Chỉ đơn thuần là một cách sắp xếp ngẫu nhiên trong quá trình phát triển.",
+        "dung": false,
+        "giaiThich": "Đây là một cấu trúc có quy luật, được bảo tồn cao trong quá trình tiến hóa, không phải ngẫu nhiên."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Giúp bảo vệ các nơron quan trọng ở lớp sâu hơn.",
+        "dung": false,
+        "giaiThich": "Mặc dù có sự bảo vệ vật lý, nhưng ý nghĩa chức năng chính của việc phân lớp là để xử lý thông tin."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "tinhHuong": "Một bệnh nhân bị viêm màng não mủ, dẫn đến tắc nghẽn sự lưu thông của dịch não tủy tại các nhung mao màng nhện.",
+    "cauHoi": "Tình trạng này sẽ dẫn đến hậu quả trực tiếp nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tăng áp lực nội sọ do dịch não tủy không được tái hấp thu vào hệ tuần hoàn.",
+        "dung": true,
+        "giaiThich": "Tài liệu (trang 5) cho biết dịch não tủy 'liên tục được tạo ra' và các nhung mao màng nhện có vai trò tái hấp thu dịch này. Nếu quá trình tái hấp thu bị tắc nghẽn, dịch sẽ tích tụ lại, gây tăng áp lực bên trong hộp sọ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Giảm sản xuất dịch não tủy tại đám rối màng mạch.",
+        "dung": false,
+        "giaiThich": "Tắc nghẽn ở nơi hấp thu không ảnh hưởng trực tiếp đến quá trình sản xuất."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Teo mô thần kinh do không được nuôi dưỡng.",
+        "dung": false,
+        "giaiThich": "Teo mô thần kinh là hậu quả lâu dài của việc tăng áp lực nội sọ, không phải là hậu quả trực tiếp."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Phá vỡ hàng rào máu-não.",
+        "dung": false,
+        "giaiThich": "Viêm màng não có thể làm tổn thương hàng rào máu-não, nhưng hậu quả trực tiếp của việc tắc nghẽn lưu thông dịch là tăng áp lực."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "tinhHuong": "",
+    "cauHoi": "So với dây thần kinh não-tủy, dây thần kinh thực vật có đặc điểm cấu tạo nào khác biệt cơ bản, phản ánh chức năng chi phối các tạng của nó?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Được tạo thành chủ yếu bởi các sợi thần kinh không có myelin.",
+        "dung": true,
+        "giaiThich": "Tài liệu (trang 6-7) so sánh dây thần kinh não-tủy (có myelin) và dây thần kinh thực vật ('được tạo thành bởi những sợi không myelin'). Tốc độ dẫn truyền chậm hơn của sợi không myelin phù hợp với chức năng điều hòa từ từ của các cơ quan nội tạng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Có bao xơ (epineurium) dày hơn để bảo vệ.",
+        "dung": false,
+        "giaiThich": "Dây thần kinh thực vật thường nhỏ hơn và các bao liên kết của chúng không đặc trưng là dày hơn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Chỉ chứa các sợi vận động, không có sợi cảm giác.",
+        "dung": false,
+        "giaiThich": "Hệ thần kinh thực vật cũng có các sợi cảm giác (cảm giác tạng) để truyền thông tin về trung ương."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Luôn đi riêng lẻ, không tạo thành đám rối.",
+        "dung": false,
+        "giaiThich": "Tài liệu (trang 7) nêu rõ dây thần kinh thực vật 'tạo thành những đám rối thần kinh quanh các mạch máu'."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "tinhHuong": "Nếu một sợi trục của nơron trong chất trắng của tủy sống bị cắt đứt, khả năng tái sinh của nó rất kém so với một sợi trục trong dây thần kinh ngoại vi.",
+    "cauHoi": "Dựa vào cấu tạo mô học trong tài liệu, yếu tố nào góp phần giải thích sự khác biệt này?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Chất trắng tủy sống không có bao Schwann, trong khi dây thần kinh ngoại vi có.",
+        "dung": true,
+        "giaiThich": "Tài liệu (trang 6) mô tả sợi thần kinh ngoại vi có 'bao Schwann'. Bao Schwann đóng vai trò quan trọng trong việc dẫn đường cho sợi trục tái sinh, một khả năng mà tế bào ít nhánh trong hệ thần kinh trung ương không có."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Chất trắng tủy sống có quá nhiều mạch máu cản trở tái sinh.",
+        "dung": false,
+        "giaiThich": "Mạch máu không phải là yếu tố chính cản trở."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Nơron trong tủy sống không có khả năng tổng hợp protein để mọc lại sợi trục.",
+        "dung": false,
+        "giaiThich": "Thân nơron vẫn có khả năng tổng hợp protein, nhưng môi trường xung quanh không thuận lợi."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Chất trắng tủy sống không có mô liên kết nội thần kinh (endoneurium).",
+        "dung": false,
+        "giaiThich": "Cả hai đều có mô liên kết hỗ trợ, sự khác biệt về loại tế bào đệm mới là mấu chốt."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "tinhHuong": "",
+    "cauHoi": "Chức năng của các sợi mép (commissural fibers) trong chất trắng của đại não là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Nối các vùng khác nhau trong cùng một bán cầu đại não.",
+        "dung": false,
+        "giaiThich": "Đây là chức năng của sợi liên hiệp (association fibers)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Nối vỏ não với các cấu trúc bên dưới như đồi thị và thân não.",
+        "dung": false,
+        "giaiThich": "Đây là chức năng của sợi chiếu (projection fibers)."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Nối các vùng chức năng tương ứng của hai bán cầu đại não với nhau.",
+        "dung": true,
+        "giaiThich": "Tài liệu định nghĩa rất rõ ràng ở trang 4: 'Sợi mép: nối hai vùng đối xứng thuộc hai bán cầu đại não'. Ví dụ kinh điển nhất là thể chai (corpus callosum)."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Dẫn truyền tín hiệu cảm giác từ tủy sống lên vỏ não.",
+        "dung": false,
+        "giaiThich": "Đây là một loại của sợi chiếu, cụ thể là các bó cảm giác đi lên."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "tinhHuong": "Trong vỏ tiểu não, tế bào hạt nhỏ (tế bào hạt) nhận tín hiệu từ sợi rêu và sau đó sợi trục của nó đi lên lớp phân tử tạo thành các sợi song song.",
+    "cauHoi": "Con đường này có ý nghĩa gì trong việc xử lý thông tin?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Nó làm giảm số lượng tín hiệu truyền đến tế bào Purkinje.",
+        "dung": false,
+        "giaiThich": "Cấu trúc này làm tăng sự lan tỏa của tín hiệu, không phải làm giảm."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Nó khuếch đại và phân phối một tín hiệu đầu vào (từ sợi rêu) đến rất nhiều tế bào Purkinje.",
+        "dung": true,
+        "giaiThich": "Một sợi rêu tiếp xúc nhiều tế bào hạt, mỗi tế bào hạt lại cho sợi song song tiếp xúc hàng nghìn tế bào Purkinje. Cấu trúc này hoạt động như một bộ khuếch đại và phân phối, cho phép một thông tin đầu vào ảnh hưởng đến một vùng rộng lớn của vỏ tiểu não."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Nó đảo ngược tín hiệu từ kích thích thành ức chế.",
+        "dung": false,
+        "giaiThich": "Tế bào hạt thường là nơron kích thích."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Nó chỉ có vai trò nuôi dưỡng cho các tế bào Purkinje.",
+        "dung": false,
+        "giaiThich": "Vai trò nuôi dưỡng thuộc về tế bào thần kinh đệm."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "tinhHuong": "Một người bị chấn thương và rách màng cứng ở tủy sống.",
+    "cauHoi": "Nguy cơ tức thời và nghiêm trọng nhất là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Rò rỉ dịch não tủy và nhiễm trùng hệ thần kinh trung ương.",
+        "dung": true,
+        "giaiThich": "Tài liệu (trang 4-5) mô tả màng cứng là lớp bao bọc bên ngoài. Khi màng cứng bị rách, nó phá vỡ hàng rào bảo vệ, làm cho dịch não tủy có thể rò rỉ ra ngoài và tạo đường cho vi khuẩn xâm nhập, gây viêm màng não."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Mất hoàn toàn chức năng vận động của tủy sống.",
+        "dung": false,
+        "giaiThich": "Rách màng cứng không đồng nghĩa với tổn thương mô thần kinh bên trong."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tủy sống bị tách ra khỏi cột sống.",
+        "dung": false,
+        "giaiThich": "Tủy sống được cố định bởi các dây chằng và rễ thần kinh, không chỉ bởi màng cứng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Chảy máu ồ ạt từ các mạch máu của tủy sống.",
+        "dung": false,
+        "giaiThich": "Rách màng cứng không nhất thiết gây chảy máu ồ ạt vào mô thần kinh."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "tinhHuong": "Vùng dưới đồi (hypothalamus) được mô tả là chứa 'những nơron có hoạt động chế tiết'.",
+    "cauHoi": "Đặc điểm này liên quan đến chức năng nào của nó?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Điều khiển các cử động phức tạp.",
+        "dung": false,
+        "giaiThich": "Điều khiển cử động phức tạp là chức năng của vỏ não vận động, tiểu não và các hạch nền."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Liên kết hệ thần kinh với hệ nội tiết thông qua việc sản xuất các hormone.",
+        "dung": true,
+        "giaiThich": "'Hoạt động chế tiết' của nơron là quá trình các tế bào thần kinh giải phóng hormone. Đây chính là cơ chế mà vùng dưới đồi kiểm soát tuyến yên và qua đó điều khiển hệ thống nội tiết."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Xử lý thông tin thị giác và thính giác.",
+        "dung": false,
+        "giaiThich": "Xử lý thông tin thị giác và thính giác diễn ra ở các vùng khác của vỏ não."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tạo ra các cảm xúc như sợ hãi và giận dữ.",
+        "dung": false,
+        "giaiThich": "Đặc điểm 'chế tiết' liên quan trực tiếp nhất đến chức năng nội tiết."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "tinhHuong": "Dựa vào mô tả cấu tạo của một dây thần kinh não-tủy (trang 6), nếu một dây thần kinh bị chèn ép từ bên ngoài,",
+    "cauHoi": "lớp cấu trúc nào sẽ bị ảnh hưởng đầu tiên và có thể gây ra các triệu chứng ban đầu?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Trụ trục (axon) của từng sợi thần kinh.",
+        "dung": false,
+        "giaiThich": "Trụ trục và bao myelin nằm sâu bên trong, chúng sẽ bị tổn thương ở giai đoạn sau nếu chèn ép nghiêm trọng và kéo dài."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Bao myelin.",
+        "dung": false,
+        "giaiThich": "Trụ trục và bao myelin nằm sâu bên trong, chúng sẽ bị tổn thương ở giai đoạn sau nếu chèn ép nghiêm trọng và kéo dài."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Bao xơ (epineurium) và các mạch máu lớn chạy trong đó.",
+        "dung": true,
+        "giaiThich": "Bao xơ là lớp vỏ ngoài cùng và chứa các mạch máu lớn. Khi bị chèn ép, lưu lượng máu có thể giảm, gây thiếu máu cục bộ cho dây thần kinh và dẫn đến các triệu chứng ban đầu như tê bì, đau."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Mô nội thần kinh (endoneurium).",
+        "dung": false,
+        "giaiThich": "Mô nội thần kinh là mô liên kết thưa nằm xen giữa các sợi thần kinh, nó cũng nằm sâu bên trong."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "tinhHuong": "",
+    "cauHoi": "Tại sao lớp hạt trong (lớp 4) của vỏ đại não lại quan trọng đối với chức năng cảm giác?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì nó chứa các tế bào tháp lớn nhất để gửi tín hiệu vận động đi.",
+        "dung": false,
+        "giaiThich": "Tế bào tháp lớn nhất nằm ở lớp tháp trong (lớp 5) và có chức năng vận động."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì nó là nơi nhận chính các tín hiệu cảm giác đi lên từ đồi thị.",
+        "dung": true,
+        "giaiThich": "Trong cấu trúc chung của vỏ não, lớp 4 là đích đến chính của các sợi trục từ đồi thị - trạm chuyển tiếp quan trọng cho tất cả các thông tin cảm giác. Do đó, các vùng vỏ não chuyên về cảm giác thường có lớp 4 rất phát triển."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì nó không có nơron, chỉ có các tế bào thần kinh đệm.",
+        "dung": false,
+        "giaiThich": "Lớp hạt trong chứa rất nhiều nơron nhỏ (tế bào hạt)."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vì nó là lớp dày nhất của vỏ đại não.",
+        "dung": false,
+        "giaiThich": "Lớp tháp ngoài (lớp 3) mới là lớp dày nhất của vỏ đại não."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "tinhHuong": "Sự tồn tại của khoang Virchow-Robin, một khoang hẹp quanh mạch máu đi vào mô thần kinh và thông với khoang dưới nhện,",
+    "cauHoi": "có ý nghĩa sinh lý bệnh như thế nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Nó giúp tăng cường hàng rào máu-não, ngăn chặn mọi chất xâm nhập.",
+        "dung": false,
+        "giaiThich": "Nó nằm 'bên ngoài' hàng rào máu-não, do đó nó không tăng cường hàng rào bảo vệ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Nó là một con đường tiềm tàng cho các mầm bệnh (như virus, vi khuẩn) và các tế bào viêm từ dịch não tủy lan sâu vào trong nhu mô não.",
+        "dung": true,
+        "giaiThich": "Tài liệu (trang 5) mô tả khoang này 'thông với khoang dưới nhện'. Điều này có nghĩa là bất cứ thứ gì có trong dịch não tủy (kể cả tác nhân gây bệnh) đều có thể theo khoang này để đi sâu vào trong mô não, trở thành một 'cửa ngõ' cho bệnh tật lan rộng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Nó là nơi sản xuất chính của dịch não tủy.",
+        "dung": false,
+        "giaiThich": "Nơi sản xuất dịch não tủy là đám rối màng mạch."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Nó không có ý nghĩa chức năng nào và chỉ là một cấu trúc tồn dư.",
+        "dung": false,
+        "giaiThich": "Nó có vai trò quan trọng trong việc lưu thông dịch và hệ thống miễn dịch của não."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "tinhHuong": "Một trẻ sơ sinh nam được chẩn đoán bị thoát vị bẹn bẩm sinh và tinh hoàn ẩn trong ống bẹn.",
+    "cauHoi": "Hai tình trạng này thường đi kèm với nhau vì chúng có chung một nguyên nhân sâu xa là:",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự thất bại trong việc đóng lại của ống phúc tinh mạc.",
+        "dung": true,
+        "giaiThich": "Ống phúc tinh mạc không bít lại sẽ tạo ra một đường thông giữa ổ bụng và bìu, cho phép các tạng trong ổ bụng chui xuống gây thoát vị bẹn và cũng thường liên quan đến việc tinh hoàn không xuống được đến vị trí cuối cùng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Dây kéo tinh hoàn (gubernaculum) không phát triển.",
+        "dung": false,
+        "giaiThich": "Dây kéo tinh hoàn không phát triển sẽ gây ra tinh hoàn ẩn, nhưng không phải là nguyên nhân trực tiếp gây ra thoát vị bẹn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tế bào Leydig không sản xuất đủ testosterone.",
+        "dung": false,
+        "giaiThich": "Thiếu testosterone ảnh hưởng đến sự di cư của tinh hoàn nhưng không trực tiếp gây ra việc ống phúc tinh mạc không đóng lại."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Các nếp niệu đạo không sáp nhập hoàn toàn.",
+        "dung": false,
+        "giaiThich": "Sự sáp nhập không hoàn toàn của các nếp niệu đạo gây ra tật lỗ đái dưới, không liên quan đến thoát vị bẹn hay tinh hoàn ẩn."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "tinhHuong": "Một bệnh nhân nam 46,XY có kiểu hình bên ngoài là nữ, không có tử cung và vòi trứng, tinh hoàn nằm trong ống bẹn (Hội chứng không nhạy cảm với Androgen).",
+    "cauHoi": "Tại sao bệnh nhân này không có tử cung?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vì nồng độ estrogen trong phôi thai quá thấp.",
+        "dung": false,
+        "giaiThich": "Sự phát triển của ống Müller ở giai đoạn đầu không phụ thuộc vào estrogen."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vì testosterone đã được chuyển thành estrogen và ức chế ống Müller.",
+        "dung": false,
+        "giaiThich": "Sự chuyển đổi này không phải là cơ chế gây thoái triển ống Müller."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vì tế bào Sertoli vẫn sản xuất AMH gây thoái triển ống Müller.",
+        "dung": true,
+        "giaiThich": "Dù cơ thể không đáp ứng với testosterone, tế bào Sertoli vẫn hoạt động và tiết ra AMH, gây thoái triển ống cận trung thận (ống Müller), là cấu trúc tạo ra tử cung và vòi trứng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vì ống Wolff phát triển mạnh đã chèn ép làm ống Müller tiêu biến.",
+        "dung": false,
+        "giaiThich": "Ống Wolff (ống trung thận) cũng sẽ thoái triển do thiếu thụ thể androgen, nên nó không thể phát triển mạnh để chèn ép ống Müller."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "tinhHuong": "Tật lỗ đái trên (epispadias) thường đi kèm với tật lòi bàng quang.",
+    "cauHoi": "Dị tật này được cho là do sự phát triển bất thường của cấu trúc nào sau đây ở giai đoạn sớm?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự di chuyển của các nếp môi-bìu về đường giữa.",
+        "dung": false,
+        "giaiThich": "Sự di chuyển của nếp môi-bìu liên quan đến việc tạo bìu."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự phát triển của củ sinh dục ở vị trí quá thấp so với bình thường.",
+        "dung": true,
+        "giaiThich": "Cơ chế được cho là do củ sinh dục hình thành ở vị trí thấp hơn (về phía đuôi) so với bình thường, làm cho xoang niệu-sinh dục mở ra ở mặt trên của củ sinh dục. Bất thường này cũng thường đi kèm với khiếm khuyết thành bụng trước, dẫn đến tật lòi bàng quang."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự thất bại trong việc tạo lòng của tấm niệu đạo quy đầu.",
+        "dung": false,
+        "giaiThich": "Thất bại tạo lòng tấm niệu đạo quy đầu gây ra tật lỗ đái dưới ở quy đầu, không phải lỗ đái trên."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự phân chia của ổ nhớp bởi vách niệu-trực tràng.",
+        "dung": false,
+        "giaiThich": "Bất thường trong sự phân chia ổ nhớp gây ra các dị tật liên quan đến trực tràng và hậu môn."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "tinhHuong": "Hội chứng Klinefelter (47,XXY) dẫn đến tình trạng suy sinh dục ở nam giới.",
+    "cauHoi": "Cơ chế bệnh sinh chính dẫn đến tinh hoàn nhỏ và vô tinh ở những bệnh nhân này là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "NST X thừa gây ra sự xơ hóa các ống sinh tinh và suy giảm chức năng tế bào Leydig.",
+        "dung": true,
+        "giaiThich": "Sự hiện diện của một NST X thừa gây ra rối loạn nghiêm trọng làm các ống sinh tinh dần bị xơ hóa (hyalin hóa) và không thể sản xuất tinh trùng. Tế bào Leydig cũng bị suy giảm chức năng, dẫn đến nồng độ testosterone thấp."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Nồng độ AMH quá cao gây ức chế sự phát triển của chính tinh hoàn.",
+        "dung": false,
+        "giaiThich": "AMH chủ yếu tác động lên ống Müller trong thời kỳ phôi thai, không phải là nguyên nhân chính gây suy tinh hoàn sau này."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Thụ thể androgen bị bất hoạt do sự hiện diện của hai NST X.",
+        "dung": false,
+        "giaiThich": "Thụ thể androgen vẫn hoạt động bình thường trong hội chứng Klinefelter."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tế bào sinh dục nguyên thủy không thể di cư đến mào sinh dục.",
+        "dung": false,
+        "giaiThich": "Tế bào sinh dục nguyên thủy vẫn di cư bình thường, nhưng quá trình sinh tinh sau đó bị thất bại."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "tinhHuong": "Một trẻ sơ sinh 46,XY có đường sinh dục trong của nam phát triển bình thường nhưng cơ quan sinh dục ngoài không biệt hóa rõ ràng, có dương vật rất nhỏ và bìu chẻ đôi giống môi lớn.",
+    "cauHoi": "Tình trạng lưỡng tính giả nam này có khả năng cao nhất là do:",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Đột biến gen SRY.",
+        "dung": false,
+        "giaiThich": "Đột biến gen SRY sẽ làm tuyến sinh dục không phát triển thành tinh hoàn ngay từ đầu."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Thiếu hụt enzyme 5α-reductase.",
+        "dung": true,
+        "giaiThich": "Thiếu enzyme 5α-reductase, Testosterone không chuyển thành DHT được. Đường sinh dục trong (phụ thuộc Testosterone) vẫn phát triển, nhưng cơ quan sinh dục ngoài (phụ thuộc DHT) không được nam hóa hoàn toàn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tế bào Sertoli không sản xuất AMH.",
+        "dung": false,
+        "giaiThich": "Thiếu AMH sẽ dẫn đến tồn tại cấu trúc của nữ (tử cung) bên cạnh cấu trúc của nam, không giải thích được bất thường của cơ quan sinh dục ngoài."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ống cận trung thận không thoái triển.",
+        "dung": false,
+        "giaiThich": "Ống cận trung thận không thoái triển sẽ dẫn đến tồn tại cấu trúc của nữ (tử cung) bên cạnh cấu trúc của nam, không giải thích được bất thường của cơ quan sinh dục ngoài."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "tinhHuong": "Dương vật kép (diphallia) là một dị tật rất hiếm gặp.",
+    "cauHoi": "Dị tật này được cho là hậu quả của:",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự phân đôi của củ sinh dục ban đầu.",
+        "dung": true,
+        "giaiThich": "Dương vật phát triển từ một cấu trúc duy nhất là củ sinh dục. Nếu mầm củ sinh dục này bị phân đôi trong giai đoạn phát triển sớm, mỗi phần sẽ tiếp tục phát triển để tạo thành một dương vật riêng biệt."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự tồn tại của cả hai ống trung thận.",
+        "dung": false,
+        "giaiThich": "Hai ống trung thận tồn tại và phát triển bình thường ở nam giới để tạo đường dẫn tinh hai bên."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Nồng độ androgen quá cao trong thời kỳ phôi thai.",
+        "dung": false,
+        "giaiThich": "Nồng độ androgen quá cao có thể gây phì đại dương vật nhưng không gây nhân đôi."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự thất bại trong việc sáp nhập của hai gờ môi-bìu.",
+        "dung": false,
+        "giaiThich": "Thất bại sáp nhập của gờ môi-bìu gây ra bìu chẻ đôi, không phải dương vật kép."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "tinhHuong": "Tinh hoàn lạc chỗ là tình trạng tinh hoàn không nằm trong bìu mà ở một vị trí bất thường khác như ở đùi, đáy chậu hoặc thành bụng trước.",
+    "cauHoi": "Cơ chế nào giải thích cho dị tật này?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ống phúc tinh mạc quá ngắn, không cho phép tinh hoàn xuống hết.",
+        "dung": false,
+        "giaiThich": "Yếu tố này có thể gây ra tinh hoàn ẩn (không xuống được) chứ không giải thích tại sao tinh hoàn lại nằm ở một vị trí hoàn toàn khác ngoài đường đi bình thường."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Dây kéo tinh hoàn (gubernaculum) có một nhánh bất thường kéo tinh hoàn đi sai hướng.",
+        "dung": true,
+        "giaiThich": "Tinh hoàn lạc chỗ xảy ra khi tinh hoàn đã đi qua ống bẹn nhưng sau đó lại di chuyển đến một vị trí sai. Điều này được cho là do dây kéo tinh hoàn có một hoặc nhiều nhánh đuôi bất thường, đã 'kéo' tinh hoàn đi chệch hướng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Áp lực ổ bụng quá cao đẩy tinh hoàn ra khỏi đường đi bình thường.",
+        "dung": false,
+        "giaiThich": "Yếu tố này có thể gây ra tinh hoàn ẩn (không xuống được) chứ không giải thích tại sao tinh hoàn lại nằm ở một vị trí hoàn toàn khác ngoài đường đi bình thường."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tinh hoàn quá lớn không thể đi qua được ống bẹn.",
+        "dung": false,
+        "giaiThich": "Yếu tố này có thể gây ra tinh hoàn ẩn (không xuống được) chứ không giải thích tại sao tinh hoàn lại nằm ở một vị trí hoàn toàn khác ngoài đường đi bình thường."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "tinhHuong": "Một số trẻ nam sinh ra với tình trạng tràn dịch tinh mạc (hydrocele), tức là có sự tích tụ dịch bất thường quanh tinh hoàn.",
+    "cauHoi": "Nguyên nhân của tình trạng này là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tinh hoàn sản xuất quá nhiều dịch.",
+        "dung": false,
+        "giaiThich": "Đây không phải là cơ chế gây ra tràn dịch tinh mạc bẩm sinh."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Hệ thống bạch huyết của bìu bị tắc nghẽn.",
+        "dung": false,
+        "giaiThich": "Đây không phải là cơ chế gây ra tràn dịch tinh mạc bẩm sinh."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Một phần của ống phúc tinh mạc không bít lại, cho phép dịch phúc mạc chảy xuống.",
+        "dung": true,
+        "giaiThich": "Tràn dịch tinh mạc bẩm sinh xảy ra khi ống phúc tinh mạc không đóng lại hoàn toàn, tạo ra một đường thông nhỏ cho phép dịch từ khoang phúc mạc chảy xuống và tích tụ trong khoang của màng tinh."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Màng trắng (tunica albuginea) bị rò rỉ.",
+        "dung": false,
+        "giaiThich": "Đây không phải là cơ chế gây ra tràn dịch tinh mạc bẩm sinh."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "tinhHuong": "Di tích Paradidyme nằm ở phần dưới của thừng tinh, gần đuôi mào tinh.",
+    "cauHoi": "Di tích này có nguồn gốc từ cấu trúc nào của trung thận?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Các ống trung thận ngang ở đoạn trên mức tinh hoàn (tiểu quản lạc chỗ).",
+        "dung": false,
+        "giaiThich": "Các ống trung thận ngang ở đoạn trên mức tinh hoàn tạo ra di tích tiểu quản lạc chỗ (superior aberrant ductules)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Các ống trung thận ngang ở đoạn dưới mức tinh hoàn.",
+        "dung": true,
+        "giaiThich": "Các ống trung thận ngang ở dưới mức tinh hoàn thoái triển và tạo thành di tích Paradidyme."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Các ống trung thận ngang ngang mức tinh hoàn (ống ra).",
+        "dung": false,
+        "giaiThich": "Các ống trung thận ngang ngang mức tinh hoàn phát triển thành ống ra (efferent ductules), là một phần chức năng của đường sinh dục."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Đoạn cuối của ống trung thận dọc.",
+        "dung": false,
+        "giaiThich": "Đoạn cuối của ống trung thận dọc phát triển thành ống dẫn tinh và ống phóng tinh."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "tinhHuong": "Tật lỗ đái dưới thể nặng (lỗ tiểu ở tầng sinh môn) thường làm cho cơ quan sinh dục ngoài của trẻ nam trông giống của trẻ nữ.",
+    "cauHoi": "Dấu hiệu nào sau đây giúp phân biệt chắc chắn nhất đây là một trẻ nam bị dị tật nặng?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sờ thấy hai khối ở vùng bẹn hoặc môi lớn.",
+        "dung": false,
+        "giaiThich": "Hai khối sờ thấy có thể là tinh hoàn, nhưng cũng có thể là buồng trứng lạc chỗ trong thoát vị bẹn ở trẻ nữ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Kích thước của củ sinh dục (dương vật/âm vật) lớn hơn bình thường.",
+        "dung": false,
+        "giaiThich": "Kích thước củ sinh dục có thể thay đổi và không phải là dấu hiệu chắc chắn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Trẻ không có âm đạo khi thăm khám.",
+        "dung": false,
+        "giaiThich": "Việc thăm khám để xác định có âm đạo hay không ở trẻ sơ sinh là rất khó khăn và không đáng tin cậy."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Xét nghiệm nhiễm sắc thể đồ là 46,XY.",
+        "dung": true,
+        "giaiThich": "Trong các trường hợp cơ quan sinh dục ngoài không rõ ràng, việc xác định giới tính di truyền qua nhiễm sắc thể đồ là tiêu chuẩn vàng và chắc chắn nhất. Kiểu nhân 46,XY khẳng định đây là một cá thể nam về mặt di truyền."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "tinhHuong": "Hội chứng Mayer-Rokitansky-Kuster-Hauser (MRKH) là tình trạng một phụ nữ 46,XX không có tử cung và phần trên âm đạo, nhưng có buồng trứng và cơ quan sinh dục ngoài bình thường.",
+    "cauHoi": "Dị tật này là do sự thất bại trong quá trình phát triển của cấu trúc nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ống trung thận (Wolff)",
+        "dung": false,
+        "giaiThich": "Ống trung thận thoái triển ở nữ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ống cận trung thận (Müller)",
+        "dung": true,
+        "giaiThich": "Tử cung, vòi trứng và 1/3 trên của âm đạo đều phát triển từ ống cận trung thận (ống Müller). Trong hội chứng MRKH, ống này bị bất sản (không phát triển) hoặc phát triển không hoàn toàn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Xoang niệu-sinh dục",
+        "dung": false,
+        "giaiThich": "Xoang niệu-sinh dục tạo ra phần dưới âm đạo, nên bệnh nhân vẫn có một âm đạo ngắn."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tế bào sinh dục nguyên thủy",
+        "dung": false,
+        "giaiThich": "Tế bào sinh dục nguyên thủy di cư đến buồng trứng, nên buồng trứng vẫn có nang noãn."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "tinhHuong": "Một phụ nữ được chẩn đoán có tử cung hai sừng.",
+    "cauHoi": "Dị tật này xảy ra do sự sáp nhập không hoàn toàn ở đoạn nào của hai ống cận trung thận?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Đoạn trên (đoạn sẽ tạo thành vòi trứng).",
+        "dung": false,
+        "giaiThich": "Đoạn trên của ống cận trung thận không sáp nhập để tạo thành hai vòi trứng riêng biệt, đây là quá trình phát triển bình thường."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Toàn bộ chiều dài của hai ống.",
+        "dung": false,
+        "giaiThich": "Nếu toàn bộ chiều dài không sáp nhập, sẽ dẫn đến tử cung đôi (uterus didelphys)."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Đoạn dưới (đoạn sẽ tạo thành thân và cổ tử cung).",
+        "dung": true,
+        "giaiThich": "Nếu sự sáp nhập của hai ống cận trung thận chỉ xảy ra ở phần thấp nhất nhưng không hoàn toàn ở phần trên (phần thân tử cung), kết quả sẽ là một tử cung có hai 'sừng' riêng biệt ở phía trên."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Chỉ ở đoạn thấp nhất, nơi tiếp xúc với xoang niệu-sinh dục.",
+        "dung": false,
+        "giaiThich": "Sáp nhập chỉ ở đoạn thấp nhất mà không sáp nhập ở trên sẽ dẫn đến tử cung hai sừng, nhưng đáp án C mô tả chính xác hơn vị trí bất thường là ở phần thân tử cung."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "tinhHuong": "Một trẻ sơ sinh nữ 46,XX có cơ quan sinh dục ngoài bị nam hóa (âm vật phì đại, hai môi lớn dính nhau). Siêu âm cho thấy có tử cung và buồng trứng bình thường.",
+    "cauHoi": "Tình trạng lưỡng tính giả nữ này có khả năng cao nhất là do phôi thai đã tiếp xúc với nồng độ cao của chất nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Estrogen",
+        "dung": false,
+        "giaiThich": "Estrogen không gây nam hóa."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Progesterone",
+        "dung": false,
+        "giaiThich": "Progesterone không gây nam hóa."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Androgen",
+        "dung": true,
+        "giaiThich": "Ở một phôi nữ 46,XX, nếu có một nguồn androgen bất thường (ví dụ từ hội chứng thượng thận sinh dục), androgen này sẽ gây nam hóa các cấu trúc sinh dục ngoài. Tuy nhiên, ống Müller vẫn phát triển bình thường thành tử cung do không có AMH."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Hormone chống ống Müller (AMH)",
+        "dung": false,
+        "giaiThich": "AMH gây thoái triển tử cung, trái với kết quả siêu âm."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "tinhHuong": "Sự khác biệt cơ bản giữa tử cung có vách ngăn (septate uterus) và tử cung hai sừng (bicornuate uterus) về mặt phôi thai học là gì?",
+    "cauHoi": "Sự khác biệt cơ bản giữa tử cung có vách ngăn (septate uterus) và tử cung hai sừng (bicornuate uterus) về mặt phôi thai học là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tử cung có vách ngăn do sáp nhập thất bại, tử cung hai sừng do thoái triển thất bại.",
+        "dung": false,
+        "giaiThich": "Ngược lại với cơ chế đúng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tử cung có vách ngăn do thoái triển vách ngăn thất bại, tử cung hai sừng do sáp nhập thất bại.",
+        "dung": true,
+        "giaiThich": "Tử cung hai sừng: Hai ống Müller sáp nhập không hoàn toàn. Tử cung có vách ngăn: Hai ống Müller đã sáp nhập hoàn toàn, nhưng vách ngăn ở giữa sau đó lại không tiêu biến đi."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tử cung có vách ngăn có nguồn gốc từ ống trung thận, tử cung hai sừng từ ống cận trung thận.",
+        "dung": false,
+        "giaiThich": "Cả hai đều có nguồn gốc từ ống cận trung thận."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tử cung có vách ngăn có hình dạng bên ngoài bình thường, tử cung hai sừng có một vết lõm ở đáy.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm hình thái để chẩn đoán, không phải là cơ chế phôi thai học."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "tinhHuong": "Hội chứng Turner (45,X) làm cho bệnh nhân có kiểu hình nữ nhưng buồng trứng bị thoái triển thành 'dải xơ' (streak gonads) và không có khả năng sinh sản.",
+    "cauHoi": "Nguyên nhân là do:",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tế bào sinh dục nguyên thủy không di cư đến mào sinh dục.",
+        "dung": false,
+        "giaiThich": "Tế bào sinh dục nguyên thủy vẫn di cư bình thường."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Cần có hai NST X để duy trì sự sống và phát triển của các noãn bào trong buồng trứng.",
+        "dung": true,
+        "giaiThich": "Sự tồn tại và phát triển của các tế bào mầm (noãn bào) đòi hỏi sự có mặt của cả hai NST X. Khi chỉ có một, các noãn bào sẽ bị chết theo chương trình, làm buồng trứng thoái triển thành dải xơ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Nồng độ FSH và LH quá thấp không đủ để kích thích buồng trứng.",
+        "dung": false,
+        "giaiThich": "Nồng độ FSH và LH thực tế lại rất cao sau tuổi dậy thì do không có estrogen từ buồng trứng để phản hồi âm tính lên tuyến yên."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ống cận trung thận không phát triển do thiếu một NST X.",
+        "dung": false,
+        "giaiThich": "Sự phát triển của ống cận trung thận không phụ thuộc vào NST giới tính."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "tinhHuong": "Một phụ nữ đi khám vì có một khối u nang nhỏ, không đau ở thành bên âm đạo. Bác sĩ chẩn đoán đây là u nang ống Gartner.",
+    "cauHoi": "U nang này là di tích của cấu trúc nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ống cận trung thận (Müller)",
+        "dung": false,
+        "giaiThich": "Ống cận trung thận phát triển thành tử cung và âm đạo, không phải là nguồn gốc của u nang này."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ống trung thận (Wolff)",
+        "dung": true,
+        "giaiThich": "Ở phôi nữ, ống trung thận (ống Wolff) bình thường sẽ thoái triển. Tuy nhiên, các di tích của nó có thể còn sót lại và khi tích dịch, chúng sẽ tạo thành u nang Gartner."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Xoang niệu-sinh dục",
+        "dung": false,
+        "giaiThich": "Xoang niệu-sinh dục tạo ra phần dưới âm đạo."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Dây sinh dục vỏ",
+        "dung": false,
+        "giaiThich": "Dây sinh dục vỏ tạo ra các tế bào nang trong buồng trứng."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "tinhHuong": "Tịt âm đạo (vaginal atresia) là tình trạng âm đạo bị bít tắc hoặc không có. Nếu tình trạng này chỉ xảy ra ở 2/3 dưới của âm đạo, trong khi tử cung và 1/3 trên âm đạo bình thường.",
+    "cauHoi": "Đây là do sự thất bại trong quá trình nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự sáp nhập của hai ống cận trung thận.",
+        "dung": false,
+        "giaiThich": "Liên quan đến các dị tật của tử cung."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự thoái triển của vách ngăn tử cung.",
+        "dung": false,
+        "giaiThich": "Liên quan đến các dị tật của tử cung."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự tạo lòng của các hành xoang-âm đạo.",
+        "dung": true,
+        "giaiThich": "Phần dưới âm đạo hình thành từ tấm âm đạo (từ hành xoang-âm đạo). Nếu quá trình tạo lòng (canalization) của tấm này thất bại, nó sẽ dẫn đến tịt hoặc hẹp phần dưới âm đạo."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự di cư của tế bào sinh dục nguyên thủy.",
+        "dung": false,
+        "giaiThich": "Liên quan đến sự phát triển của buồng trứng."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "tinhHuong": "Một bé gái sơ sinh có một lỗ dò duy nhất ở tầng sinh môn, nơi cả nước tiểu và phân cùng thoát ra.",
+    "cauHoi": "Dị tật này (lỗ chung hay tồn tại ổ nhớp) là do sự thất bại của cấu trúc nào trong việc phân chia ổ nhớp?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vách niệu-trực tràng",
+        "dung": true,
+        "giaiThich": "Bình thường, vách niệu-trực tràng sẽ phát triển xuống để phân chia ổ nhớp thành xoang niệu-sinh dục ở phía trước và ống hậu môn-trực tràng ở phía sau. Nếu vách này không phát triển, sự phân chia sẽ thất bại, dẫn đến tồn tại một lỗ thoát chung."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Màng nhớp",
+        "dung": false,
+        "giaiThich": "Cấu trúc này tham gia vào việc hình thành cơ quan sinh dục ngoài, sau khi ổ nhớp đã được phân chia."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Củ sinh dục",
+        "dung": false,
+        "giaiThich": "Cấu trúc này tham gia vào việc hình thành cơ quan sinh dục ngoài, sau khi ổ nhớp đã được phân chia."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Nếp sinh dục",
+        "dung": false,
+        "giaiThich": "Cấu trúc này tham gia vào việc hình thành cơ quan sinh dục ngoài, sau khi ổ nhớp đã được phân chia."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "tinhHuong": "Tử cung một sừng (unicornuate uterus) là một dị tật trong đó tử cung chỉ có một nửa và nối với một vòi trứng duy nhất.",
+    "cauHoi": "Dị tật này xảy ra do:",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Một bên buồng trứng không phát triển.",
+        "dung": false,
+        "giaiThich": "Sự phát triển của tử cung không phụ thuộc vào buồng trứng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Một trong hai ống cận trung thận không phát triển hoặc phát triển rất kém.",
+        "dung": true,
+        "giaiThich": "Nếu một trong hai ống Müller bị bất sản (không phát triển) ngay từ đầu, thì chỉ có ống còn lại phát triển để tạo thành một 'nửa' tử cung và một vòi trứng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự sáp nhập quá mức của hai ống cận trung thận.",
+        "dung": false,
+        "giaiThich": "Sáp nhập quá mức không phải là cơ chế gây ra dị tật này."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vách ngăn tử cung không thoái triển ở một bên.",
+        "dung": false,
+        "giaiThich": "Đây là cơ chế của tử cung có vách ngăn."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "tinhHuong": "Một phụ nữ 46,XX bị vô kinh nguyên phát. Khám thấy có tử cung, vòi trứng và buồng trứng bình thường, nhưng màng trinh bịt kín hoàn toàn (imperforate hymen).",
+    "cauHoi": "Cơ chế phôi thai của dị tật này là:",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự thất bại trong việc tạo lòng của phần thấp nhất của tấm âm đạo.",
+        "dung": true,
+        "giaiThich": "Màng trinh là di tích của phần dưới cùng của tấm âm đạo. Nếu quá trình tạo lòng không diễn ra ở điểm cuối cùng này, màng trinh sẽ không có lỗ thông, gây ra tình trạng màng trinh bịt kín."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự dính lại của hai môi nhỏ ở đường giữa.",
+        "dung": false,
+        "giaiThich": "Sự dính lại của hai môi nhỏ là một dị tật khác, không phải màng trinh bịt kín."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự thất bại trong việc sáp nhập của hai ống cận trung thận.",
+        "dung": false,
+        "giaiThich": "Gây ra dị tật tử cung đôi hoặc hai sừng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự thoái triển không hoàn toàn của ống trung thận.",
+        "dung": false,
+        "giaiThich": "Gây ra u nang Gartner."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "tinhHuong": "Tình huống câu hỏi 1",
+    "cauHoi": "Trước khi thụ tinh xảy ra, noãn bào của người phụ nữ bị bắt giữ ở giai đoạn nào của quá trình giảm phân?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Kỳ đầu I (Prophase I)",
+        "dung": false,
+        "giaiThich": "Đây là giai đoạn tạm dừng đầu tiên, xảy ra từ khi còn là bào thai cho đến tuổi dậy thì, nhưng không phải là giai đoạn ngay trước khi thụ tinh."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Kỳ giữa II (Metaphase II)",
+        "dung": true,
+        "giaiThich": "Sau khi hoàn thành giảm phân I ngay trước khi rụng trứng, noãn bào bậc II ngay lập tức bị bắt giữ ở giai đoạn này, chờ đợi tín hiệu từ tinh trùng để hoàn thành quá trình."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Kỳ cuối I (Telophase I)",
+        "dung": false,
+        "giaiThich": "Kỳ cuối I là giai đoạn kết thúc phân bào giảm phân I, dẫn đến sự hình thành noãn bào bậc II, chứ không phải là một giai đoạn tạm dừng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Kỳ giữa của nguyên phân (Metaphase of Mitosis)",
+        "dung": false,
+        "giaiThich": "Nguyên phân là quá trình tăng sinh của các noãn nguyên bào trong giai đoạn bào thai, không phải là quá trình phân chia trưởng thành của noãn bào."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "tinhHuong": "Tình huống câu hỏi 2",
+    "cauHoi": "Sự kiện nào sau đây là cơ chế chính, lâu dài để ngăn chặn hiện tượng đa thụ tinh (polyspermy) sau khi một tinh trùng đã hợp nhất với trứng?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Phản ứng Acrosome (cực đầu)",
+        "dung": false,
+        "giaiThich": "Phản ứng acrosome giúp tinh trùng xâm nhập vào trứng, chứ không phải là cơ chế của trứng để ngăn chặn các tinh trùng khác."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Phản ứng Vỏ (Cortical Reaction)",
+        "dung": true,
+        "giaiThich": "Phản ứng này giải phóng các enzyme làm biến đổi và cứng lại màng trong suốt (zona pellucida), tạo ra một rào cản vật lý không thể xuyên thủng đối với các tinh trùng khác."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Thụ tinh năng hóa (Capacitation)",
+        "dung": false,
+        "giaiThich": "Thụ tinh năng hóa là quá trình trưởng thành của tinh trùng trong đường sinh dục nữ, diễn ra trước khi nó gặp trứng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự vận động siêu hoạt hóa (Hyperactivated motility)",
+        "dung": false,
+        "giaiThich": "Đây là một kiểu bơi của tinh trùng giúp nó di chuyển hiệu quả, không phải là một cơ chế phòng thủ của trứng."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "tinhHuong": "Tình huống câu hỏi 3",
+    "cauHoi": "Quá trình 'nén chặt' (compaction) xảy ra ở giai đoạn phôi 8 tế bào có ý nghĩa quan trọng nhất là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Thiết lập nền tảng cho sự biệt hóa dòng tế bào đầu tiên.",
+        "dung": true,
+        "giaiThich": "Bằng cách tạo ra một nhóm tế bào bên trong và một lớp tế bào bên ngoài, sự nén chặt khởi đầu cho sự phân chia thành khối tế bào trong (ICM) và lá nuôi (trophectoderm)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Giúp phôi di chuyển nhanh hơn trong vòi trứng.",
+        "dung": false,
+        "giaiThich": "Sự di chuyển của phôi chủ yếu được hỗ trợ bởi các lông mao và sự co bóp của vòi trứng, không phải do sự thay đổi hình dạng của chính nó."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Kích hoạt sự nhân đôi DNA cho lần phân cắt tiếp theo.",
+        "dung": false,
+        "giaiThich": "Sự nhân đôi DNA là một phần của chu kỳ tế bào thông thường và không được kích hoạt một cách đặc biệt bởi sự nén chặt."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Làm cho phôi có thể hấp thụ chất dinh dưỡng từ tử cung.",
+        "dung": false,
+        "giaiThich": "Phôi vẫn còn nằm trong vòi trứng ở giai đoạn 8 tế bào và chưa tiếp xúc với môi trường tử cung."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "tinhHuong": "Tình huống câu hỏi 4",
+    "cauHoi": "Trong cấu trúc của một phôi nang (blastocyst), khối tế bào bên trong (ICM) có vai trò gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Biệt hóa thành tất cả các loại tế bào của cơ thể phôi thai.",
+        "dung": true,
+        "giaiThich": "Khối tế bào bên trong có tính vạn năng (pluripotent) và là nguồn gốc của toàn bộ cơ thể em bé."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Phát triển thành phần phôi thai của nhau thai.",
+        "dung": false,
+        "giaiThich": "Đây là vai trò của lá nuôi (trophectoderm), lớp tế bào bên ngoài của phôi nang."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Bơm nước vào để tạo ra khoang phôi nang.",
+        "dung": false,
+        "giaiThich": "Việc tạo khoang (cavitation) được thực hiện bởi hoạt động của các tế bào lá nuôi (trophectoderm)."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tiết ra các enzyme để giúp phôi thoát khỏi màng trong suốt.",
+        "dung": false,
+        "giaiThich": "Quá trình thoát màng (hatching) được hỗ trợ bởi các enzyme do các tế bào lá nuôi (trophectoderm) tiết ra."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "tinhHuong": "Tình huống câu hỏi 5",
+    "cauHoi": "Sự kiện nào đánh dấu sự hoàn thành của quá trình thụ tinh và sự hình thành của một hợp tử (zygote) lưỡng bội?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự hình thành hai tiền nhân (pronuclei) riêng biệt.",
+        "dung": false,
+        "giaiThich": "Sự hiện diện của hai tiền nhân là dấu hiệu của thụ tinh thành công, nhưng nó chưa phải là điểm kết thúc cuối cùng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự hợp nhất màng của tinh trùng và trứng.",
+        "dung": false,
+        "giaiThich": "Đây là một bước quan trọng, nhưng sau đó vẫn còn các sự kiện như hoàn thành giảm phân II và hình thành tiền nhân."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự tống xuất thể cực thứ hai.",
+        "dung": false,
+        "giaiThich": "Sự kiện này xảy ra sau khi trứng được kích hoạt, nhưng trước khi vật chất di truyền của cha và mẹ hòa trộn."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự hòa trộn nhiễm sắc thể của cha và mẹ trên thoi phân bào chung (Syngamy).",
+        "dung": true,
+        "giaiThich": "Syngamy là khoảnh khắc các bộ nhiễm sắc thể của cha và mẹ cùng nhau xếp hàng, tạo ra một bộ gen lưỡng bội duy nhất, sẵn sàng cho lần phân chia đầu tiên."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "tinhHuong": "Tình huống câu hỏi 6",
+    "cauHoi": "Quá trình 'thoát màng' (hatching) của phôi nang là cần thiết để làm gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Cho phép phôi nang lớn lên về kích thước.",
+        "dung": false,
+        "giaiThich": "Mặc dù màng trong suốt giới hạn kích thước, mục đích chính của việc thoát màng không phải là để lớn lên mà là để thực hiện một bước quan trọng tiếp theo."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tiếp xúc trực tiếp và làm tổ trong niêm mạc tử cung.",
+        "dung": true,
+        "giaiThich": "Màng trong suốt là một rào cản vật lý; phôi phải thoát ra khỏi nó để các tế bào lá nuôi có thể bám vào và xâm nhập vào thành tử cung."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Bắt đầu quá trình tạo khoang (cavitation).",
+        "dung": false,
+        "giaiThich": "Tạo khoang xảy ra trước khi thoát màng, và chính sự mở rộng của khoang phôi nang đã góp phần tạo áp lực để thoát màng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Hoàn thành lần phân cắt cuối cùng để trở thành phôi dâu.",
+        "dung": false,
+        "giaiThich": "Thoát màng xảy ra ở giai đoạn phôi nang, sau giai đoạn phôi dâu."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "tinhHuong": "Tình huống câu hỏi 7",
+    "cauHoi": "Tại sao quá trình giảm phân trong quá trình tạo trứng (oogenesis) lại tạo ra sự phân chia tế bào chất bất đối xứng?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Để bảo tồn gần như toàn bộ bào tương và chất dinh dưỡng cho một noãn bào duy nhất.",
+        "dung": true,
+        "giaiThich": "Trứng cần một nguồn dự trữ dồi dào các thành phần bào tương để hỗ trợ sự phát triển ban đầu của phôi, và sự phân chia bất đối xứng đảm bảo điều này."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Để loại bỏ các nhiễm sắc thể bị lỗi vào các thể cực.",
+        "dung": false,
+        "giaiThich": "Mục đích của thể cực là loại bỏ nhiễm sắc thể thừa để đạt trạng thái đơn bội, không nhất thiết là để loại bỏ nhiễm sắc thể lỗi."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Để tạo ra các thể cực có thể hỗ trợ sự phát triển của trứng.",
+        "dung": false,
+        "giaiThich": "Các thể cực là những tế bào không có khả năng sống và sẽ thoái hóa, chúng không có chức năng hỗ trợ."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Đây là một lỗi ngẫu nhiên trong quá trình phân bào.",
+        "dung": false,
+        "giaiThich": "Đây là một đặc điểm thiết kế sinh học có chủ đích, không phải là một lỗi, nhằm tối đa hóa nguồn lực cho giao tử cái."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "tinhHuong": "Tình huống câu hỏi 8",
+    "cauHoi": "Phôi người đạt đến giai đoạn phôi dâu (morula) và đi vào khoang tử cung vào khoảng ngày thứ mấy sau khi thụ tinh?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ngày 1-2",
+        "dung": false,
+        "giaiThich": "Vào thời điểm này, phôi mới chỉ ở giai đoạn 2-4 tế bào và vẫn đang di chuyển trong vòi trứng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ngày 4",
+        "dung": true,
+        "giaiThich": "Vào khoảng ngày thứ 4, phôi đã phát triển thành một khối 16-32 tế bào (phôi dâu) và hoàn thành hành trình qua vòi trứng để vào tử cung."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ngày 6-7",
+        "dung": false,
+        "giaiThich": "Đây là thời điểm phôi đã ở giai đoạn phôi nang và đang chuẩn bị thoát màng để làm tổ."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ngày 9-10",
+        "dung": false,
+        "giaiThich": "Vào thời điểm này, quá trình làm tổ đã bắt đầu hoặc đang diễn ra."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "tinhHuong": "Tình huống câu hỏi 9",
+    "cauHoi": "Mục đích chính của quá trình giảm phân (meiosis) trong sự sinh giao tử là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tăng số lượng tế bào sinh giao tử.",
+        "dung": false,
+        "giaiThich": "Việc tăng số lượng tế bào đạt được thông qua nguyên phân (mitosis), không phải giảm phân."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sửa chữa các lỗi trong DNA của giao tử.",
+        "dung": false,
+        "giaiThich": "Mặc dù có các cơ chế sửa chữa DNA, mục tiêu hàng đầu của giảm phân là về số lượng nhiễm sắc thể."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Giảm một nửa số lượng nhiễm sắc thể để tạo ra các giao tử đơn bội (n).",
+        "dung": true,
+        "giaiThich": "Điều này đảm bảo rằng khi thụ tinh, hợp tử sẽ khôi phục lại bộ NST lưỡng bội (2n) bình thường của loài."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tạo ra các giao tử có kích thước lớn hơn.",
+        "dung": false,
+        "giaiThich": "Giảm phân liên quan đến các lần phân chia tế bào, thường dẫn đến các tế bào con nhỏ hơn, không lớn hơn."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "tinhHuong": "Tình huống câu hỏi 10",
+    "cauHoi": "Tinh bào 1 và noãn bào 1 có bộ nhiễm sắc thể như thế nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Đơn bội (n)",
+        "dung": false,
+        "giaiThich": "Trạng thái đơn bội là kết quả của giảm phân, không phải là điểm khởi đầu."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Lưỡng bội (2n)",
+        "dung": true,
+        "giaiThich": "Chúng là các tế bào sinh dục đã biệt hóa, mang bộ nhiễm sắc thể đầy đủ của cơ thể trước khi phân chia để tạo giao tử."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tam bội (3n)",
+        "dung": false,
+        "giaiThich": "Trạng thái tam bội là một bất thường nhiễm sắc thể và không phải là một phần của quá trình sinh giao tử bình thường."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Không có nhiễm sắc thể.",
+        "dung": false,
+        "giaiThich": "Tất cả các tế bào của con người (ngoại trừ hồng cầu trưởng thành) đều chứa nhiễm sắc thể."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "tinhHuong": "Tình huống câu hỏi 11",
+    "cauHoi": "Kết quả cuối cùng về số lượng của sự sinh tinh và sự sinh noãn khác nhau cơ bản ở điểm nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự sinh tinh tạo ra giao tử di động, còn sự sinh noãn thì không.",
+        "dung": false,
+        "giaiThich": "Mặc dù đúng, đây là sự khác biệt về đặc điểm, không phải về số lượng giao tử chức năng được tạo ra."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Một tinh bào 1 tạo ra bốn tinh trùng chức năng, trong khi một noãn bào 1 chỉ tạo ra một trứng chức năng.",
+        "dung": true,
+        "giaiThich": "Sự phân chia tế bào chất không đồng đều trong quá trình sinh noãn nhằm bảo tồn tài nguyên cho một tế bào trứng duy nhất, trong khi sự sinh tinh phân chia đồng đều."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự sinh tinh diễn ra nhanh hơn nhiều so với sự sinh noãn.",
+        "dung": false,
+        "giaiThich": "Điều này đúng về chu kỳ, nhưng không phải là sự khác biệt về kết quả cuối cùng về mặt số lượng tế bào."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự sinh tinh tạo ra giao tử lưỡng bội, còn sự sinh noãn tạo giao tử đơn bội.",
+        "dung": false,
+        "giaiThich": "Cả hai quá trình đều phải tạo ra các giao tử đơn bội thông qua giảm phân."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "tinhHuong": "Tình huống câu hỏi 12",
+    "cauHoi": "Loại phân bào nào trực tiếp tạo ra giao tử từ các tinh bào và noãn bào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Nguyên phân (Mitosis)",
+        "dung": false,
+        "giaiThich": "Nguyên phân tạo ra các tế bào con giống hệt tế bào mẹ về mặt di truyền và được sử dụng để tăng sinh, không tạo giao tử."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Phân đôi (Binary Fission)",
+        "dung": false,
+        "giaiThich": "Đây là hình thức sinh sản vô tính ở các sinh vật đơn bào như vi khuẩn, không phải ở người."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Giảm phân (Meiosis)",
+        "dung": true,
+        "giaiThich": "Giảm phân bao gồm hai lần phân chia liên tiếp (Giảm phân I và II) để tạo ra các tế bào đơn bội từ một tế bào lưỡng bội ban đầu."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Nảy chồi (Budding)",
+        "dung": false,
+        "giaiThich": "Đây là một hình thức sinh sản vô tính ở một số sinh vật đa bào đơn giản như nấm men hoặc thủy tức."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "tinhHuong": "Tình huống câu hỏi 13",
+    "cauHoi": "Cặp hormone nào từ tuyến yên đóng vai trò trung tâm trong việc điều hòa sự sinh giao tử ở cả nam và nữ?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Prolactin và Oxytocin",
+        "dung": false,
+        "giaiThich": "Prolactin liên quan đến sản xuất sữa và oxytocin liên quan đến co bóp tử cung và tiết sữa, không phải là điều hòa sinh giao tử chính."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Hormone tăng trưởng (GH) và TSH",
+        "dung": false,
+        "giaiThich": "GH điều hòa sự tăng trưởng của cơ thể và TSH điều hòa tuyến giáp."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "FSH (Hormone kích thích nang trứng) và LH (Hormone tạo hoàng thể)",
+        "dung": true,
+        "giaiThich": "Ở nam, FSH và LH điều hòa chức năng của tế bào Sertoli và Leydig. Ở nữ, chúng điều hòa sự phát triển của nang trứng và rụng trứng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "ACTH và Vasopressin",
+        "dung": false,
+        "giaiThich": "ACTH điều hòa tuyến thượng thận và Vasopressin (ADH) điều hòa cân bằng nước."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "tinhHuong": "Tình huống câu hỏi 14",
+    "cauHoi": "Noãn bào 1 hoàn thành giảm phân I vào thời điểm nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ngay sau khi được sinh ra.",
+        "dung": false,
+        "giaiThich": "Khi sinh ra, tất cả các noãn bào đều bị bắt giữ ở kỳ đầu I và duy trì trạng thái này cho đến tuổi dậy thì."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ngay trước khi rụng trứng.",
+        "dung": true,
+        "giaiThich": "Sự tăng vọt của LH kích hoạt sự nối lại và hoàn thành giảm phân I, tạo ra noãn bào 2 và thể cực thứ nhất."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Trong giai đoạn bào thai.",
+        "dung": false,
+        "giaiThich": "Trong giai đoạn bào thai, các noãn bào 1 được hình thành và bắt đầu giảm phân I, nhưng chúng bị bắt giữ và không hoàn thành nó."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sau khi được tinh trùng thụ tinh.",
+        "dung": false,
+        "giaiThich": "Sự thụ tinh của tinh trùng là tín hiệu để hoàn thành giảm phân II, không phải giảm phân I."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "tinhHuong": "Tình huống câu hỏi 15",
+    "cauHoi": "Yếu tố nào kích hoạt noãn bào 2 hoàn thành quá trình giảm phân II?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự tăng đột biến của hormone LH.",
+        "dung": false,
+        "giaiThich": "Đỉnh LH gây ra rụng trứng và hoàn thành giảm phân I, nhưng không phải là tín hiệu cho giảm phân II."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự xâm nhập của tinh trùng vào trứng.",
+        "dung": true,
+        "giaiThich": "Sự hợp nhất của tinh trùng với màng tế bào trứng gây ra một loạt các phản ứng canxi, phá vỡ sự bắt giữ ở kỳ giữa II và cho phép hoàn thành quá trình phân chia."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự rụng trứng từ buồng trứng.",
+        "dung": false,
+        "giaiThich": "Rụng trứng giải phóng noãn bào 2, nhưng nó vẫn bị bắt giữ trong giảm phân II tại thời điểm này."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự gia tăng nồng độ estrogen.",
+        "dung": false,
+        "giaiThich": "Estrogen đóng vai trò quan trọng trong việc chuẩn bị cho tử cung và điều hòa chu kỳ, nhưng không trực tiếp kích hoạt giảm phân II."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "tinhHuong": "Tình huống câu hỏi 16",
+    "cauHoi": "Thể vàng (corpus luteum) phát triển từ cấu trúc nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Noãn bào 1 chưa trưởng thành.",
+        "dung": false,
+        "giaiThich": "Noãn bào chưa trưởng thành vẫn nằm trong nang trứng và chưa trải qua rụng trứng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tàn dư của nang trứng sau khi rụng trứng.",
+        "dung": true,
+        "giaiThich": "Các tế bào hạt và tế bào vỏ của nang trứng đã vỡ biến đổi thành một tuyến nội tiết tạm thời gọi là thể vàng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Các thể cực đã thoái hóa.",
+        "dung": false,
+        "giaiThich": "Các thể cực là những tế bào nhỏ, không chức năng và sẽ bị tiêu biến, không phát triển thành bất cứ thứ gì."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Niêm mạc tử cung.",
+        "dung": false,
+        "giaiThich": "Thể vàng nằm trong buồng trứng, trong khi niêm mạc tử cung là một cấu trúc riêng biệt."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "tinhHuong": "Tình huống câu hỏi 17",
+    "cauHoi": "Trong buồng trứng của một bé gái sơ sinh, các tế bào trứng tồn tại ở dạng cấu trúc nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Nang trứng có hốc",
+        "dung": false,
+        "giaiThich": "Đây là giai đoạn phát triển muộn hơn, xuất hiện sau tuổi dậy thì dưới tác động của hormone."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Nang trứng nguyên thuỷ",
+        "dung": true,
+        "giaiThich": "Cấu trúc này bao gồm một noãn bào 1 được bao quanh bởi một lớp tế bào dẹt duy nhất và đây là dạng dự trữ trong buồng trứng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Thể vàng (Corpus luteum)",
+        "dung": false,
+        "giaiThich": "Thể vàng chỉ hình thành sau khi rụng trứng, một sự kiện không xảy ra trước tuổi dậy thì."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Noãn nguyên bào",
+        "dung": false,
+        "giaiThich": "Các noãn nguyên bào đã hoàn thành quá trình nguyên phân và phát triển thành noãn bào 1 vào thời điểm em bé được sinh ra."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "tinhHuong": "Tình huống câu hỏi 18",
+    "cauHoi": "Tế bào nhỏ được tạo ra cùng với noãn bào 2 trong quá trình giảm phân I được gọi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Noãn nguyên bào",
+        "dung": false,
+        "giaiThich": "Noãn nguyên bào là tế bào mầm ban đầu, tồn tại trước cả noãn bào 1."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Hợp tử",
+        "dung": false,
+        "giaiThich": "Hợp tử là kết quả của sự thụ tinh, xảy ra rất lâu sau giảm phân I."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Thể cực thứ nhất (First polar body)",
+        "dung": true,
+        "giaiThich": "Do sự phân chia tế bào chất không đồng đều, tế bào này nhận một bộ nhiễm sắc thể nhưng gần như không có bào tương và không có khả năng phát triển."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tế bào hạt",
+        "dung": false,
+        "giaiThich": "Tế bào hạt là các tế bào soma bao quanh và hỗ trợ noãn bào, không phải là sản phẩm của quá trình giảm phân của noãn bào."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "tinhHuong": "Tình huống câu hỏi 19",
+    "cauHoi": "Giai đoạn cuối cùng của sự sinh tinh, biến đổi các tinh tử tròn thành các tinh trùng có đầu và đuôi, được gọi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Giảm phân II",
+        "dung": false,
+        "giaiThich": "Giảm phân II là quá trình phân chia các tinh bào 2 thành các tinh tử."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự tạo tinh (Spermiogenesis)",
+        "dung": true,
+        "giaiThich": "Quá trình này bao gồm việc hình thành acrosome, cô đặc nhân, phát triển đuôi và loại bỏ bào tương thừa."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Nguyên phân",
+        "dung": false,
+        "giaiThich": "Nguyên phân là sự tăng sinh của các tinh nguyên bào ở giai đoạn đầu."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Thụ tinh năng hóa (Capacitation)",
+        "dung": false,
+        "giaiThich": "Đây là sự trưởng thành chức năng cuối cùng của tinh trùng, nhưng nó xảy ra trong đường sinh dục nữ."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "tinhHuong": "Tình huống câu hỏi 20",
+    "cauHoi": "Tế bào nào trong tinh hoàn có chức năng sản xuất testosterone?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tế bào Sertoli",
+        "dung": false,
+        "giaiThich": "Tế bào Sertoli nuôi dưỡng và hỗ trợ các tế bào dòng tinh, tạo ra hàng rào máu-tinh hoàn, nhưng không sản xuất testosterone."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tinh nguyên bào",
+        "dung": false,
+        "giaiThich": "Đây là các tế bào mầm sẽ phát triển thành tinh trùng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tế bào Leydig",
+        "dung": true,
+        "giaiThich": "Dưới sự kích thích của hormone LH từ tuyến yên, các tế bào Leydig tổng hợp và tiết ra testosterone, hormone sinh dục nam chính."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tinh tử",
+        "dung": false,
+        "giaiThich": "Đây là các tế bào đơn bội, tiền thân của tinh trùng, và không có chức năng nội tiết."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "tinhHuong": "Tình huống câu hỏi 21",
+    "cauHoi": "Toàn bộ quá trình sinh tinh, từ tinh nguyên bào đến tinh trùng trưởng thành, diễn ra ở đâu?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Mào tinh hoàn (Epididymis)",
+        "dung": false,
+        "giaiThich": "Mào tinh hoàn là nơi tinh trùng trưởng thành về chức năng và được lưu trữ, nhưng không phải là nơi chúng được tạo ra."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tuyến tiền liệt (Prostate gland)",
+        "dung": false,
+        "giaiThich": "Tuyến tiền liệt sản xuất một phần chất lỏng của tinh dịch, không phải tinh trùng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ống sinh tinh (Seminiferous tubules)",
+        "dung": true,
+        "giaiThich": "Đây là cấu trúc vi thể bên trong tinh hoàn, nơi tất cả các giai đoạn của quá trình sinh tinh diễn ra."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Túi tinh (Seminal vesicle)",
+        "dung": false,
+        "giaiThich": "Túi tinh sản xuất phần lớn dịch tinh giàu fructose, nhưng không sản xuất tinh trùng."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "tinhHuong": "Tình huống câu hỏi 22",
+    "cauHoi": "Vai trò chính của tế bào Sertoli là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sản xuất testosterone để kích thích sự sinh tinh.",
+        "dung": false,
+        "giaiThich": "Đây là chức năng của tế bào Leydig, không phải tế bào Sertoli."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Trải qua giảm phân để tạo ra tinh trùng.",
+        "dung": false,
+        "giaiThich": "Các tế bào dòng tinh (tinh nguyên bào, tinh bào) mới là những tế bào trải qua giảm phân."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Nuôi dưỡng, bảo vệ và hỗ trợ các tế bào dòng tinh đang phát triển.",
+        "dung": true,
+        "giaiThich": "Chúng tạo thành hàng rào máu-tinh hoàn, tiết ra các yếu tố cần thiết và thực bào bào tương thừa từ các tinh tử."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Co bóp để đẩy tinh trùng ra khỏi tinh hoàn.",
+        "dung": false,
+        "giaiThich": "Sự vận chuyển tinh trùng được hỗ trợ bởi các tế bào cơ trơn và dòng chảy của dịch, không phải do co bóp của tế bào Sertoli."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "tinhHuong": "Tình huống câu hỏi 23",
+    "cauHoi": "Sự kiện nào sau đây KHÔNG phải là một phần của quá trình tạo tinh (spermiogenesis)?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự hình thành túi cực đầu (acrosome).",
+        "dung": false,
+        "giaiThich": "Túi cực đầu, chứa các enzyme tiêu hóa, được hình thành từ bộ máy Golgi và là một đặc điểm quan trọng của tinh trùng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Phân chia tế bào để giảm số lượng nhiễm sắc thể.",
+        "dung": true,
+        "giaiThich": "Việc giảm số lượng nhiễm sắc thể xảy ra trong giảm phân (meiosis), quá trình này kết thúc trước khi quá trình tạo tinh bắt đầu."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự phát triển của một cái đuôi (flagellum).",
+        "dung": false,
+        "giaiThich": "Đuôi được hình thành từ trung thể và cung cấp khả năng vận động cho tinh trùng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Loại bỏ phần lớn tế bào chất.",
+        "dung": false,
+        "giaiThich": "Việc loại bỏ bào tương không cần thiết giúp tinh trùng trở nên nhỏ gọn và di chuyển hiệu quả hơn."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "tinhHuong": "Tình huống câu hỏi 24",
+    "cauHoi": "Các tế bào được tạo ra trong các lần phân cắt đầu tiên của hợp tử được gọi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Phôi dâu (Morulae)",
+        "dung": false,
+        "giaiThich": "Phôi dâu là tên của toàn bộ phôi ở giai đoạn 16-32 tế bào, không phải tên của các tế bào riêng lẻ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Hợp tử (Zygotes)",
+        "dung": false,
+        "giaiThich": "Hợp tử là tế bào đơn lẻ ban đầu được hình thành sau khi thụ tinh, trước khi bắt đầu phân cắt."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Phôi bào (Blastomeres)",
+        "dung": true,
+        "giaiThich": "Mỗi tế bào được tạo ra do sự phân cắt của hợp tử được gọi là một phôi bào."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Giao tử (Gametes)",
+        "dung": false,
+        "giaiThich": "Giao tử là các tế bào trứng và tinh trùng kết hợp với nhau để tạo ra hợp tử."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "tinhHuong": "Tình huống câu hỏi 25",
+    "cauHoi": "Đặc điểm xác định của quá trình phân cắt (cleavage) trong những ngày đầu phát triển phôi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tế bào tăng kích thước sau mỗi lần phân chia.",
+        "dung": false,
+        "giaiThich": "Ngược lại, các tế bào con (phôi bào) ngày càng nhỏ hơn sau mỗi lần phân chia."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Các lần phân chia tế bào diễn ra mà không làm tăng tổng kích thước của phôi.",
+        "dung": true,
+        "giaiThich": "Phôi vẫn bị giới hạn bởi màng trong suốt (zona pellucida), vì vậy nó phân chia tế bào chất của hợp tử thành các tế bào nhỏ hơn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Chỉ có nhân tế bào phân chia, còn tế bào chất thì không.",
+        "dung": false,
+        "giaiThich": "Cả nhân và tế bào chất đều phân chia trong mỗi lần phân cắt."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Quá trình này chỉ xảy ra sau khi phôi đã làm tổ.",
+        "dung": false,
+        "giaiThich": "Phân cắt là một trong những sự kiện đầu tiên, xảy ra khi phôi đang di chuyển trong vòi trứng, rất lâu trước khi làm tổ."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "tinhHuong": "Tình huống câu hỏi 26",
+    "cauHoi": "Lá nuôi (trophectoderm) của phôi nang sẽ phát triển thành cấu trúc nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Toàn bộ cơ thể của em bé.",
+        "dung": false,
+        "giaiThich": "Cơ thể em bé phát triển từ khối tế bào bên trong (inner cell mass - ICM)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Dây rốn.",
+        "dung": false,
+        "giaiThich": "Dây rốn phát triển từ cuống phôi, một cấu trúc có nguồn gốc từ khối tế bào bên trong."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Phần phôi thai của nhau thai.",
+        "dung": true,
+        "giaiThich": "Các tế bào lá nuôi sẽ xâm nhập vào niêm mạc tử cung và hình thành nên cấu trúc quan trọng để trao đổi chất dinh dưỡng và chất thải với mẹ."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Túi ối.",
+        "dung": false,
+        "giaiThich": "Màng ối phát triển từ các tế bào của khối tế bào bên trong."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "tinhHuong": "Tình huống câu hỏi 27",
+    "cauHoi": "Sự hình thành khoang phôi nang (blastocoel) bắt đầu vào khoảng ngày thứ mấy sau thụ tinh?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ngày 1-2",
+        "dung": false,
+        "giaiThich": "Đây là giai đoạn phân cắt sớm, phôi chỉ có 2-4 tế bào."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ngày 3",
+        "dung": false,
+        "giaiThich": "Vào ngày 3, phôi thường ở giai đoạn 8 tế bào và bắt đầu quá trình nén chặt."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ngày 5",
+        "dung": true,
+        "giaiThich": "Sau khi phôi dâu đi vào tử cung, chất lỏng bắt đầu được bơm vào bên trong, tạo thành khoang phôi nang và biến phôi dâu thành phôi nang."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ngày 8-9",
+        "dung": false,
+        "giaiThich": "Vào thời điểm này, phôi nang đã làm tổ sâu vào niêm mạc tử cung."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "tinhHuong": "Tình huống câu hỏi 28",
+    "cauHoi": "Khoang chứa đầy chất lỏng bên trong phôi nang được gọi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Túi ối (Amniotic cavity)",
+        "dung": false,
+        "giaiThich": "Túi ối là một khoang khác, hình thành sau này bên trong khối tế bào trong."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Khoang phôi nang (Blastocoel)",
+        "dung": true,
+        "giaiThich": "Đây chính là khoang trung tâm, rỗng, chứa đầy chất lỏng, đặc trưng cho giai đoạn phôi nang."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Lòng ống sinh tinh (Lumen of seminiferous tubule)",
+        "dung": false,
+        "giaiThich": "Đây là một cấu trúc trong tinh hoàn của nam giới, không liên quan đến phôi."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Hốc nang trứng (Antrum)",
+        "dung": false,
+        "giaiThich": "Đây là khoang chứa dịch trong một nang trứng đang phát triển ở buồng trứng, trước khi rụng trứng."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "tinhHuong": "Xơ Gan (Cirrhosis)",
+    "cauHoi": "Quá trình nào là cơ chế cốt lõi dẫn đến sự hình thành các \"tiểu thùy giả\" (pseudo-lobules) trong mô bệnh học của xơ gan?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự hoại tử của tế bào gan và sự ứ mật trong các xoang gan.",
+        "dung": false,
+        "giaiThich": "Hoại tử tế bào gan là nguyên nhân khởi đầu, nhưng sự ứ mật không phải là cơ chế chính tạo ra tiểu thùy giả."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự tăng sinh của mô xơ và sự tái tạo không điển hình của tế bào gan.",
+        "dung": true,
+        "giaiThich": "Tiểu thùy giả là cấu trúc đặc trưng của xơ gan, được hình thành do hai quá trình song song: (1) Mô xơ phát triển, lan tỏa từ các khoảng cửa, tạo thành các dải xơ bao bọc và chia cắt nhu mô gan. (2) Các tế bào gan còn sót lại tăng sinh, tái tạo thành các nốt, nhưng không theo cấu trúc tiểu thùy bình thường (không có tĩnh mạch trung tâm tiểu thùy ở vị trí trung tâm). Sự kết hợp này tạo ra các nốt nhu mô gan được bao bọc bởi mô xơ, gọi là tiểu thùy giả."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự thâm nhiễm của các tế bào viêm và sự giãn rộng của các xoang gan.",
+        "dung": false,
+        "giaiThich": "Thâm nhiễm viêm là một phần của quá trình bệnh sinh nhưng không trực tiếp tạo ra cấu trúc tiểu thùy giả."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự thoái hóa mỡ của tế bào gan và sự co kéo của bao Glisson.",
+        "dung": false,
+        "giaiThich": "Thoái hóa mỡ có thể đi kèm (nhất là trong xơ gan do rượu) nhưng không phải là cơ chế cốt lõi. Sự co kéo của bao Glisson là hệ quả, không phải nguyên nhân."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "tinhHuong": "Xơ Gan (Cirrhosis)",
+    "cauHoi": "Đặc điểm đại thể \"bề mặt gan lổn nhổn hình đầu đinh\" trong xơ gan phản ánh trực tiếp tổn thương vi thể nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Các ổ hoại tử tế bào gan lan rộng.",
+        "dung": false,
+        "giaiThich": "Ổ hoại tử không tạo ra hình ảnh lồi lên dạng nốt."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự giãn nở của các tĩnh mạch trung tâm tiểu thùy.",
+        "dung": false,
+        "giaiThich": "Giãn tĩnh mạch trung tâm là đặc điểm của suy tim phải (gan tim), không phải hình ảnh \"đầu đinh\" điển hình của xơ gan."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Các nốt tái tạo của nhu mô gan được bao quanh bởi các dải xơ lõm xuống.",
+        "dung": true,
+        "giaiThich": "Hình ảnh \"đầu đinh\" trên bề mặt đại thể tương ứng với các \"tiểu thùy giả\" hay \"nốt tái tạo\" trên vi thể. Các nốt này là phần nhu mô gan tái tạo, lồi lên trên bề mặt. Phần lõm xuống xung quanh chính là các dải mô xơ bị co kéo."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự thâm nhiễm mỡ nặng làm gan phình to không đều.",
+        "dung": false,
+        "giaiThich": "Thâm nhiễm mỡ làm gan to và mềm, bề mặt có thể trơn láng hoặc gồ ghề nhẹ, nhưng không tạo ra hình ảnh \"đầu đinh\" đặc trưng do co kéo của mô xơ."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "tinhHuong": "Xơ Gan (Cirrhosis)",
+    "cauHoi": "Trong xơ gan do rượu, đặc điểm vi thể nào thường nổi bật và xuất hiện sớm nhất?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Các dải xơ rộng, không đều nối các khoảng cửa với nhau.",
+        "dung": false,
+        "giaiThich": "Các dải xơ rộng, không đều là đặc trưng của xơ gan sau hoại tử (ví dụ do virus), trong khi xơ gan do rượu giai đoạn đầu thường có các dải xơ mỏng, đều (xơ gan nốt nhỏ)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Thể Mallory-Denk trong bào tương tế bào gan.",
+        "dung": true,
+        "giaiThich": "Thể Mallory-Denk (còn gọi là thể vùi hyalin hoặc thể vùi cồn) là những đám đông đặc ưa toan trong bào tương của tế bào gan bị tổn thương. Đây là một trong những dấu hiệu vi thể rất đặc trưng và thường xuất hiện sớm trong bệnh gan do rượu, cùng với thoái hóa mỡ và thâm nhiễm bạch cầu đa nhân trung tính."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự hoại tử cầu nối (bridging necrosis) lan rộng.",
+        "dung": false,
+        "giaiThich": "Hoại tử cầu nối là đặc điểm của viêm gan mạn tính hoạt động mạnh, thường do virus, dẫn đến xơ gan nốt lớn."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự tăng sinh mạnh mẽ của các ống mật giả.",
+        "dung": false,
+        "giaiThich": "Tăng sinh ống mật giả là phản ứng không đặc hiệu, có thể gặp trong nhiều bệnh lý gan mạn tính khác nhau."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "tinhHuong": "Xơ Gan (Cirrhosis)",
+    "cauHoi": "Sự đảo lộn cấu trúc tiểu thùy gan trong xơ gan dẫn đến hậu quả trực tiếp nào sau đây về mặt chức năng tuần hoàn?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Giảm áp lực tĩnh mạch cửa.",
+        "dung": false,
+        "giaiThich": "Xơ gan là nguyên nhân hàng đầu gây tăng áp lực tĩnh mạch cửa, không phải giảm."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tăng lưu lượng máu qua các xoang gan.",
+        "dung": false,
+        "giaiThich": "Lưu lượng máu qua các xoang gan thực tế bị giảm và cản trở."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Hình thành các shunt nối tắt giữa động mạch gan và tĩnh mạch cửa.",
+        "dung": false,
+        "giaiThich": "Các shunt hình thành là giữa nhánh của động mạch gan/tĩnh mạch cửa và nhánh của tĩnh mạch trên gan trong các dải xơ, làm máu đi tắt mà không qua được nhu mô gan để trao đổi chất, góp phần vào suy chức năng gan, chứ không phải giữa động mạch và tĩnh mạch cửa."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tăng sức cản dòng máu qua gan, gây tăng áp lực tĩnh mạch cửa.",
+        "dung": true,
+        "giaiThich": "Sự xơ hóa và hình thành các nốt tái tạo làm biến dạng và chèn ép các xoang gan, phá hủy mối quan hệ bình thường giữa tĩnh mạch cửa và tĩnh mạch trung tâm. Điều này tạo ra một sức cản lớn đối với dòng máu chảy từ tĩnh mạch cửa qua gan. Hệ quả tất yếu là sự gia tăng áp lực trong hệ thống tĩnh mạch cửa."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "tinhHuong": "Xơ Gan (Cirrhosis)",
+    "cauHoi": "Đặc điểm nào sau đây giúp phân biệt xơ gan mật nguyên phát (Primary Biliary Cirrhosis) với các loại xơ gan khác ở giai đoạn sớm?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự hiện diện của các tiểu thùy giả nốt nhỏ.",
+        "dung": false,
+        "giaiThich": "Tiểu thùy giả nốt nhỏ là đặc trưng của xơ gan do rượu."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tổn thương viêm u hạt phá hủy các ống mật trong khoảng cửa.",
+        "dung": true,
+        "giaiThich": "Tổn thương đặc trưng và mang tính chẩn đoán cho xơ gan mật nguyên phát ở giai đoạn đầu là \"tổn thương ống mật dạng hoa\" (florid duct lesion), bao gồm sự thâm nhiễm lympho bào và tương bào, đôi khi có cả mô bào và bạch cầu ái toan, tạo thành cấu trúc dạng u hạt (granuloma) phá hủy các ống mật liên tiểu thùy."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Thâm nhiễm mỡ lan tỏa ở tế bào gan.",
+        "dung": false,
+        "giaiThich": "Thâm nhiễm mỡ là đặc trưng của bệnh gan do rượu hoặc hội chứng chuyển hóa."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Hoại tử tế bào gan quanh tĩnh mạch trung tâm tiểu thùy.",
+        "dung": false,
+        "giaiThich": "Hoại tử quanh tĩnh mạch trung tâm thường gặp trong gan tim (do suy tim) hoặc tổn thương do độc chất/thiếu oxy."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "tinhHuong": "Ung Thư Gan (Hepatocellular Carcinoma - HCC)",
+    "cauHoi": "Trên vi thể, đặc điểm nào sau đây là bằng chứng rõ ràng nhất cho thấy một khối u gan là ung thư biểu mô tế bào gan (HCC) chứ không phải u tuyến tế bào gan (adenoma)?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Các tế bào u sắp xếp thành bè dày hơn 2-3 hàng tế bào.",
+        "dung": false,
+        "giaiThich": "Bè tế bào gan dày (trên 2-3 hàng) là một đặc điểm gợi ý mạnh mẽ HCC, nhưng không phải là tuyệt đối và có thể gặp ở một số u tuyến loạn sản cao."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tế bào u có bào tương rộng, ưa toan và chứa nhiều glycogen.",
+        "dung": false,
+        "giaiThich": "Tế bào u trong HCC có thể có nhiều dạng, bao gồm cả dạng bào tương rộng, ưa toan giống tế bào gan bình thường. U tuyến cũng có đặc điểm này."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Khối u có ranh giới rõ, có vỏ bao xơ mỏng.",
+        "dung": false,
+        "giaiThich": "U tuyến thường có ranh giới rõ và có vỏ bao. HCC cũng có thể có vỏ bao (thể cục), nên đây không phải là dấu hiệu phân biệt."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự xâm nhập của tế bào u vào các cấu trúc mạch máu (xoang gan, tĩnh mạch cửa).",
+        "dung": true,
+        "giaiThich": "Sự xâm nhập mạch máu là tiêu chuẩn vàng để chẩn đoán ác tính. Việc tìm thấy các tế bào u trong lòng các mạch máu là bằng chứng không thể chối cãi về khả năng di căn và bản chất ác tính của khối u, giúp phân biệt chắc chắn với u tuyến (một tổn thương lành tính)."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "tinhHuong": "Ung Thư Gan (Hepatocellular Carcinoma - HCC)",
+    "cauHoi": "Trong ung thư biểu mô tế bào gan (HCC) biệt hóa rõ, các tế bào u có xu hướng sắp xếp theo cấu trúc nào sau đây, gợi lại cấu trúc gan bình thường?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Cấu trúc tuyến (acinar/glandular).",
+        "dung": false,
+        "giaiThich": "Cấu trúc tuyến có thể gặp trong HCC, đặc biệt là thể biệt hóa giả tuyến, nhưng không phổ biến bằng cấu trúc bè."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Cấu trúc bè (trabecular) hoặc xoang (sinusoidal).",
+        "dung": true,
+        "giaiThich": "Gan bình thường có cấu trúc các bè tế bào gan (bè Remak) xen kẽ với các xoang mạch. Trong HCC biệt hóa rõ, các tế bào u cố gắng bắt chước cấu trúc này, tạo thành các bè tế bào u dày, ngăn cách nhau bởi các xoang mạch được lót bởi tế bào nội mô. Đây là kiểu cấu trúc phổ biến nhất."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Cấu trúc đặc (solid/compact).",
+        "dung": false,
+        "giaiThich": "Cấu trúc đặc thường thấy ở các khối u kém biệt hóa, nơi các tế bào u phát triển thành từng đám lớn, mất đi cấu trúc bè."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Cấu trúc nhú (papillary).",
+        "dung": false,
+        "giaiThich": "Cấu trúc nhú rất hiếm gặp trong HCC."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "tinhHuong": "Ung Thư Gan (Hepatocellular Carcinoma - HCC)",
+    "cauHoi": "Việc phát hiện các \"nhân trần\" (naked nuclei) không điển hình trên tiêu bản chọc hút bằng kim nhỏ (FNA) của một khối u gan có ý nghĩa gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Gợi ý một tổn thương lành tính như tăng sản nốt khu trú (FNH).",
+        "dung": false,
+        "giaiThich": "FNH là tổn thương lành tính, tế bào gan gần như bình thường."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Là đặc điểm của ung thư đường mật trong gan (cholangiocarcinoma).",
+        "dung": false,
+        "giaiThich": "Ung thư đường mật có tế bào dạng biểu mô tuyến, thường kết dính tốt hơn và ít tạo nhân trần."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Là một dấu hiệu tế bào học quan trọng gợi ý ung thư biểu mô tế bào gan (HCC).",
+        "dung": true,
+        "giaiThich": "Trong HCC, các tế bào u thường có bào tương mỏng manh và dễ vỡ. Khi thực hiện FNA, bào tương của nhiều tế bào u bị phá vỡ, để lại các nhân trần, không điển hình, đa hình thái trên phết tế bào. Sự hiện diện của chúng, cùng với các đặc điểm khác như tăng tỷ lệ nhân/bào tương và mạng lưới mao mạch bao quanh bè u, là dấu hiệu rất gợi ý HCC."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Cho thấy mẫu bệnh phẩm không đạt yêu cầu chẩn đoán.",
+        "dung": false,
+        "giaiThich": "Sự hiện diện của nhân trần là một đặc điểm chẩn đoán, không phải là lỗi kỹ thuật."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "tinhHuong": "Ung Thư Gan (Hepatocellular Carcinoma - HCC)",
+    "cauHoi": "Ung thư gan thể cục (nodular HCC) trên đại thể thường có đặc điểm nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Nhiều nốt nhỏ, kích thước đều nhau, lan tỏa khắp gan.",
+        "dung": false,
+        "giaiThich": "Đây là mô tả của thể lan tỏa (diffuse type) hoặc đôi khi là xơ gan nốt nhỏ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Một khối u đơn độc hoặc vài khối u lớn, có ranh giới tương đối rõ, đôi khi có vỏ bao.",
+        "dung": true,
+        "giaiThich": "Thể cục là thể đại thể thường gặp nhất của HCC. Tổn thương điển hình là một hoặc một vài khối u hình cầu, có kích thước thay đổi, ranh giới tương đối rõ với mô gan xung quanh. Các khối u này có thể có vỏ xơ bao bọc, và trên diện cắt thường có màu sắc không đồng nhất (vàng, xanh do ứ mật, đỏ do xuất huyết)."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự thâm nhiễm lan tỏa của mô ung thư làm gan to đều, mật độ chắc, không tạo khối rõ.",
+        "dung": false,
+        "giaiThich": "Đây là mô tả của thể thâm nhiễm/lan tỏa (infiltrative/diffuse type)."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Một khối u lớn, hoại tử trung tâm tạo thành một ổ loét sâu.",
+        "dung": false,
+        "giaiThich": "Hoại tử trung tâm có thể xảy ra, nhưng mô tả về một ổ loét sâu không phải là đặc điểm điển hình của thể cục."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "tinhHuong": "Ung Thư Gan (Hepatocellular Carcinoma - HCC)",
+    "cauHoi": "Sự hiện diện của bào tương dạng kính mờ (ground-glass cytoplasm) trong các tế bào gan không phải u ở xung quanh khối HCC thường liên quan đến nguyên nhân nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Nhiễm virus viêm gan B (HBV) mạn tính.",
+        "dung": true,
+        "giaiThich": "Bào tương dạng kính mờ là một đặc điểm vi thể kinh điển, gây ra bởi sự tích tụ của kháng nguyên bề mặt virus viêm gan B (HBsAg) trong lưới nội chất của tế bào gan. Việc tìm thấy các tế bào này ở mô gan lân cận khối u là một bằng chứng mạnh mẽ cho thấy HCC phát triển trên nền viêm gan B mạn tính."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Bệnh gan do rượu.",
+        "dung": false,
+        "giaiThich": "Bệnh gan do rượu đặc trưng bởi thoái hóa mỡ, thể Mallory-Denk."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ứ sắt (hemochromatosis).",
+        "dung": false,
+        "giaiThich": "Ứ sắt đặc trưng bởi sự lắng đọng các hạt hemosiderin màu nâu vàng trong tế bào gan."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Bệnh Wilson (ứ đồng).",
+        "dung": false,
+        "giaiThich": "Bệnh Wilson có thể gây ra thoái hóa mỡ và thể Mallory-Denk, tương tự bệnh gan do rượu."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "tinhHuong": "Ung Thư Dạ Dày (Gastric Cancer)",
+    "cauHoi": "Trong ung thư biểu mô tuyến dạ dày loại lan tỏa (diffuse type) theo phân loại Lauren, đặc điểm vi thể nổi bật nhất là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Các tế bào u tạo thành các cấu trúc tuyến rõ ràng, đa dạng về kích thước.",
+        "dung": false,
+        "giaiThich": "Tạo cấu trúc tuyến rõ là đặc điểm của loại ruột (intestinal type) theo Lauren."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Các tế bào u chế nhầy, có nhân lệch về một phía, tạo thành hình ảnh \"tế bào nhẫn\" (signet-ring cell).",
+        "dung": true,
+        "giaiThich": "Ung thư dạ dày loại lan tỏa (hay kém kết dính) theo Lauren được định nghĩa bởi sự hiện diện của các tế bào u riêng rẽ hoặc tạo thành các cụm nhỏ, không hình thành cấu trúc tuyến. Đặc điểm tế bào học kinh điển là \"tế bào nhẫn\": tế bào chứa một không bào lớn chứa đầy chất nhầy đẩy lệch nhân dẹt về một phía của tế bào, trông giống như một chiếc nhẫn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Các tế bào u sắp xếp thành bè lớn, có hoại tử trung tâm.",
+        "dung": false,
+        "giaiThich": "Cấu trúc bè lớn không phải là đặc trưng của ung thư biểu mô tuyến dạ dày."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Mô đệm có sự thâm nhiễm lympho bào rất mạnh mẽ.",
+        "dung": false,
+        "giaiThich": "Thâm nhiễm lympho bào mạnh có thể gặp, nhưng \"tế bào nhẫn\" mới là đặc điểm định danh cho loại lan tỏa."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "tinhHuong": "Ung Thư Dạ Dày (Gastric Cancer)",
+    "cauHoi": "Phản ứng xơ hóa mô đệm (desmoplastic reaction) rất mạnh mẽ, làm thành dạ dày dày cứng như \"chai da\" (linitis plastica), thường gặp nhất trong thể ung thư dạ dày nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ung thư thể sùi (fungating).",
+        "dung": false,
+        "giaiThich": "Thể sùi và thể loét tạo thành các khối u khu trú, không gây ra hiện tượng dày cứng lan tỏa toàn bộ thành dạ dày."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ung thư thể loét (ulcerated).",
+        "dung": false,
+        "giaiThich": "Thể sùi và thể loét tạo thành các khối u khu trú, không gây ra hiện tượng dày cứng lan tỏa toàn bộ thành dạ dày."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ung thư thể xâm nhập (infiltrative/diffuse).",
+        "dung": true,
+        "giaiThich": "Thể xâm nhập (tương ứng với loại lan tỏa trên vi thể) đặc trưng bởi sự xâm nhập của các tế bào ung thư (thường là tế bào nhẫn) một cách riêng rẽ vào các lớp của thành dạ dày. Sự xâm nhập này kích thích một phản ứng tạo xơ rất mạnh mẽ ở mô đệm, khiến toàn bộ thành dạ dày trở nên dày, cứng, mất nhu động, co nhỏ lại, tạo nên hình ảnh đại thể kinh điển là \"chai da\"."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ung thư sớm (early gastric cancer).",
+        "dung": false,
+        "giaiThich": "Ung thư sớm là tổn thương chỉ giới hạn ở lớp niêm mạc và hạ niêm mạc, chưa gây biến đổi đại thể nặng nề như vậy."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "tinhHuong": "Ung Thư Dạ Dày (Gastric Cancer)",
+    "cauHoi": "Tiêu chuẩn nào sau đây dùng để phân biệt một ổ loét dạ dày ác tính (ung thư loét hóa) với một ổ loét dạ dày lành tính trên phương diện đại thể?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Kích thước của ổ loét.",
+        "dung": false,
+        "giaiThich": "Kích thước không phải là tiêu chuẩn tuyệt đối. Loét lành tính có thể rất lớn và loét ác tính có thể nhỏ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vị trí của ổ loét ở bờ cong nhỏ.",
+        "dung": false,
+        "giaiThich": "Bờ cong nhỏ là vị trí thường gặp của cả loét lành tính và ác tính."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Bờ ổ loét gồ cao, không đều, và các nếp niêm mạc xung quanh bị cắt cụt.",
+        "dung": true,
+        "giaiThich": "Đây là đặc điểm đại thể kinh điển của loét ác tính. Bờ ổ loét bị đội lên do mô ung thư phát triển và thâm nhiễm. Các nếp niêm mạc bình thường hội tụ về phía ổ loét lành tính, nhưng trong loét ác tính, chúng bị sự xâm lấn của khối u làm cho phẳng lì, gián đoạn hoặc \"cắt cụt\" khi đến gần bờ loét."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Đáy ổ loét sạch, không có giả mạc.",
+        "dung": false,
+        "giaiThich": "Đáy ổ loét ác tính thường nham nhở, mủn nát, không sạch. Đáy loét lành tính thường phủ giả mạc trắng."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "tinhHuong": "Ung Thư Dạ Dày (Gastric Cancer)",
+    "cauHoi": "Sự xâm nhập của các tế bào ung thư biểu mô tuyến dạ dày qua lớp cơ niêm (muscularis mucosae) để vào lớp hạ niêm mạc (submucosa) có ý nghĩa tiên lượng như thế nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Không làm thay đổi giai đoạn bệnh.",
+        "dung": false,
+        "giaiThich": "Chắc chắn làm thay đổi giai đoạn T (T1a nếu ở niêm mạc, T1b nếu ở hạ niêm mạc)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Đánh dấu sự chuyển từ ung thư sớm sang ung thư tiến triển.",
+        "dung": false,
+        "giaiThich": "Ung thư vẫn được coi là \"ung thư sớm\" (T1) nếu chưa xâm lấn qua lớp hạ niêm mạc vào lớp cơ chính. Ung thư tiến triển (advanced) là khi u xâm lấn từ lớp cơ chính (muscularis propria) trở đi."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Cho thấy khối u có nguồn gốc từ loại ruột (intestinal type).",
+        "dung": false,
+        "giaiThich": "Sự xâm nhập này xảy ra ở cả hai loại ruột và lan tỏa."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tăng đáng kể nguy cơ di căn hạch bạch huyết.",
+        "dung": true,
+        "giaiThich": "Lớp hạ niêm mạc là nơi có chứa rất nhiều mạch máu và mạch bạch huyết. Khi tế bào ung thư xâm nhập qua lớp cơ niêm để vào lớp hạ niêm mạc, chúng có cơ hội tiếp cận với hệ thống này và di căn đến các hạch bạch huyết khu vực cũng như di căn xa. Do đó, đây là một bước ngoặt quan trọng làm tăng đáng kể nguy cơ di căn và làm xấu đi tiên lượng."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "tinhHuong": "Ung Thư Dạ Dày (Gastric Cancer)",
+    "cauHoi": "Trong ung thư biểu mô tuyến dạ dày loại ruột (intestinal type), các tế bào u thường bắt nguồn từ vùng nào của niêm mạc dạ dày?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vùng niêm mạc bình thường.",
+        "dung": false,
+        "giaiThich": "Ung thư thường phát sinh trên nền niêm mạc đã bị tổn thương mạn tính."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vùng dị sản ruột (intestinal metaplasia).",
+        "dung": true,
+        "giaiThich": "Ung thư dạ dày loại ruột được cho là phát triển theo một chuỗi các biến đổi nối tiếp nhau (thuyết Correa): Viêm mạn tính (thường do H. pylori) → Viêm teo → Dị sản ruột → Loạn sản → Ung thư. Dị sản ruột, tức là sự thay thế biểu mô dạ dày bằng biểu mô giống như ở ruột (có tế bào đài, tế bào hấp thu), được coi là một tổn thương tiền ung thư quan trọng cho loại này."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vùng tăng sản tế bào G.",
+        "dung": false,
+        "giaiThich": "Tăng sản tế bào G không phải là tổn thương tiền ung thư điển hình."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vùng viêm teo không có dị sản.",
+        "dung": false,
+        "giaiThich": "Viêm teo là một bước trong chuỗi, nhưng dị sản ruột là bước kế tiếp và trực tiếp hơn dẫn đến loạn sản và ung thư."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "tinhHuong": "Ung Thư Đại Tràng (Colorectal Cancer)",
+    "cauHoi": "Đặc điểm đại thể nào sau đây thường gặp ở ung thư đại tràng phải hơn là đại tràng trái?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tổn thương dạng vòng nhẫn gây chít hẹp lòng ruột.",
+        "dung": false,
+        "giaiThich": "Tổn thương dạng \"vòng nhẫn\" hay \"lõi táo\" gây chít hẹp là kinh điển của ung thư đại tràng trái, nơi lòng ruột hẹp hơn và phân đã thành khuôn."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Khối u sùi, dạng polyp, phát triển lồi vào trong lòng ruột.",
+        "dung": true,
+        "giaiThich": "Đại tràng phải có đường kính lòng ruột lớn hơn và phân ở dạng lỏng. Do đó, các khối u ở đây có xu hướng phát triển thành các khối sùi lớn, giống súp lơ hoặc polyp, lồi vào trong lòng ruột mà ít khi gây tắc ruột sớm. Bệnh nhân thường đến khám vì thiếu máu do chảy máu rỉ rả từ khối u."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Loét sâu, bờ cứng, dễ gây thủng.",
+        "dung": false,
+        "giaiThich": "Loét và thâm nhiễm có thể gặp ở cả hai bên nhưng tổn thương gây hẹp chu vi là điển hình cho bên trái."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Thâm nhiễm lan tỏa làm thành ruột dày cứng.",
+        "dung": false,
+        "giaiThich": "Loét và thâm nhiễm có thể gặp ở cả hai bên nhưng tổn thương gây hẹp chu vi là điển hình cho bên trái."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "tinhHuong": "Ung Thư Đại Tràng (Colorectal Cancer)",
+    "cauHoi": "Hầu hết các ung thư biểu mô tuyến đại tràng phát triển từ tổn thương tiền thân nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Polyp tăng sản (hyperplastic polyp).",
+        "dung": false,
+        "giaiThich": "Polyp tăng sản rất phổ biến nhưng không có tiềm năng ác tính (trừ một phân nhóm hiếm gọi là serrated polyp)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Polyp viêm (inflammatory polyp).",
+        "dung": false,
+        "giaiThich": "Polyp viêm là tổn thương phản ứng, không phải u."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Polyp tuyến (adenomatous polyp).",
+        "dung": true,
+        "giaiThich": "Chuỗi bệnh sinh \"polyp tuyến - ung thư\" (adenoma-carcinoma sequence) là con đường phát triển của đại đa số các trường hợp ung thư đại tràng. Polyp tuyến là một khối u lành tính nhưng có khả năng ác tính hóa. Quá trình này diễn ra qua sự tích lũy các đột biến gen (như APC, KRAS, p53) dẫn đến sự chuyển dạng từ polyp tuyến có loạn sản độ thấp, sang độ cao, và cuối cùng là ung thư biểu mô tuyến xâm nhập."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Mô thừa (hamartoma).",
+        "dung": false,
+        "giaiThich": "Mô thừa (như trong hội chứng Peutz-Jeghers) không phải là tổn thương tiền ung thư trực tiếp, mặc dù hội chứng này làm tăng nguy cơ ung thư."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "tinhHuong": "Ung Thư Đại Tràng (Colorectal Cancer)",
+    "cauHoi": "Đặc điểm vi thể nào sau đây của ung thư đại tràng được coi là một yếu tố tiên lượng xấu?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "U biệt hóa rõ, tạo cấu trúc tuyến >95%.",
+        "dung": false,
+        "giaiThich": "Biệt hóa rõ là yếu tố tiên lượng tốt."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Không có sự xâm nhập mạch máu, bạch huyết (lymphovascular invasion).",
+        "dung": false,
+        "giaiThich": "Không có xâm nhập mạch máu là yếu tố tiên lượng tốt."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự hiện diện của các tế bào u dạng nhẫn (signet-ring cell) chiếm >50% khối u.",
+        "dung": true,
+        "giaiThich": "Ung thư biểu mô tuyến nhầy hoặc ung thư biểu mô tế bào nhẫn (>50% tế bào là dạng nhẫn) là các phân nhóm mô học có tiên lượng xấu hơn so với ung thư biểu mô tuyến thông thường. Chúng thường được chẩn đoán ở giai đoạn muộn hơn và có xu hướng đáp ứng kém với hóa trị."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Bờ xâm nhập của u có đáp ứng viêm lympho bào mạnh (tumor-infiltrating lymphocytes).",
+        "dung": false,
+        "giaiThich": "Đáp ứng viêm lympho bào mạnh tại bờ u (đặc biệt trong các trường hợp có mất ổn định vi vệ tinh - MSI-H) lại là một yếu tố tiên lượng tốt, cho thấy hệ miễn dịch của cơ thể đang phản ứng chống lại khối u."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "tinhHuong": "Ung Thư Đại Tràng (Colorectal Cancer)",
+    "cauHoi": "\"Loạn sản\" (dysplasia) trong một polyp tuyến đại tràng được định nghĩa bởi sự thay đổi nào sau đây ở cấp độ tế bào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự tăng sản xuất chất nhầy.",
+        "dung": false,
+        "giaiThich": "Tế bào trong polyp tuyến thường giảm sản xuất chất nhầy so với tế bào đài bình thường."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự gia tăng số lượng tế bào viêm trong mô đệm.",
+        "dung": false,
+        "giaiThich": "Tế bào viêm có thể có nhưng không phải là định nghĩa của loạn sản."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Các thay đổi về nhân tế bào (to, tăng sắc, đa hình thái) và mất phân cực tế bào.",
+        "dung": true,
+        "giaiThich": "Loạn sản là một thuật ngữ mô học chỉ những thay đổi tiền ung thư trong tế bào. Trong polyp tuyến, loạn sản được đặc trưng bởi các bất thường về nhân tế bào như: nhân to ra, dài ra, tăng sắc (sẫm màu), mất đi vị trí ở cực đáy của tế bào (mất phân cực), và có thể có sự phân tầng của nhân. Đây là những dấu hiệu cho thấy tế bào đang mất kiểm soát về tăng sinh và biệt hóa."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự dày lên của màng đáy của các tuyến.",
+        "dung": false,
+        "giaiThich": "Màng đáy không dày lên, ngược lại, sự phá vỡ màng đáy là dấu hiệu của ung thư xâm nhập."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Đặc điểm nào chung cho cả ung thư biểu mô tế bào gan (HCC) và ung thư biểu mô tuyến dạ dày loại ruột?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Cả hai đều thường phát sinh trên nền một quá trình viêm mạn tính kéo dài.",
+        "dung": true,
+        "giaiThich": "Đây là một nguyên tắc chung trong ung thư học. HCC thường phát sinh trên nền viêm gan mạn tính (do virus B, C) hoặc xơ gan. Ung thư dạ dày loại ruột phát sinh trên nền viêm dạ dày mạn tính (do H. pylori) dẫn đến viêm teo và dị sản ruột."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Cả hai đều có đặc điểm vi thể đặc trưng là \"tế bào nhẫn\".",
+        "dung": false,
+        "giaiThich": "Tế bào nhẫn là đặc trưng của ung thư dạ dày loại lan tỏa, không phải HCC hay ung thư dạ dày loại ruột."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Cả hai đều có marker huyết thanh đặc hiệu là Alpha-fetoprotein (AFP).",
+        "dung": false,
+        "giaiThich": "AFP là marker của HCC, không phải của ung thư dạ dày."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Cả hai đều thường có tổn thương đại thể dạng \"chai da\" (linitis plastica).",
+        "dung": false,
+        "giaiThich": "Linitis plastica là đặc trưng của ung thư dạ dày thể xâm nhập/lan tỏa."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Sự phá vỡ màng đáy và xâm nhập vào mô đệm là bước chuyển quan trọng từ tổn thương \"tại chỗ\" (in situ) sang \"xâm nhập\" (invasive) trong bệnh lý nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Xơ gan.",
+        "dung": false,
+        "giaiThich": "Xơ gan là quá trình xơ hóa và tái tạo, không phải là ung thư biểu mô."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Polyp tăng sản đại tràng.",
+        "dung": false,
+        "giaiThich": "Polyp tăng sản là tổn thương lành tính, không có khả năng xâm nhập."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ung thư biểu mô tuyến dạ dày và đại tràng.",
+        "dung": true,
+        "giaiThich": "Trong các ung thư biểu mô (carcinoma), định nghĩa của \"xâm nhập\" chính là khi các tế bào ung thư phá vỡ màng đáy của cấu trúc biểu mô (tuyến, lớp phủ) mà chúng xuất phát để đi vào mô đệm bên dưới (lớp đệm niêm mạc, lớp hạ niêm mạc). Đây là bước ngoặt đánh dấu khả năng di căn của khối u."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "U tuyến tế bào gan.",
+        "dung": false,
+        "giaiThich": "U tuyến tế bào gan là u lành tính, được bao bọc và không xâm nhập."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Trong các bệnh lý ác tính của gan, khối u nào có nguồn gốc từ biểu mô đường mật và trên vi thể tạo thành các cấu trúc tuyến thay vì cấu trúc bè?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ung thư biểu mô tế bào gan (HCC).",
+        "dung": false,
+        "giaiThich": "HCC tạo cấu trúc bè."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "U nguyên bào gan (Hepatoblastoma).",
+        "dung": false,
+        "giaiThich": "U nguyên bào gan là u ác tính ở trẻ em, có cả thành phần biểu mô và trung mô."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ung thư đường mật trong gan (Intrahepatic Cholangiocarcinoma).",
+        "dung": true,
+        "giaiThich": "Ung thư đường mật (Cholangiocarcinoma) là ung thư xuất phát từ các tế bào biểu mô lót đường mật. Do đó, về mặt mô học, chúng có xu hướng tạo thành các cấu trúc ống hoặc tuyến (giống như các ung thư biểu mô tuyến ở nơi khác), và thường kích thích phản ứng xơ hóa mô đệm mạnh. Điều này trái ngược với HCC xuất phát từ tế bào gan và tạo cấu trúc bè."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Angiosarcoma.",
+        "dung": false,
+        "giaiThich": "Angiosarcoma là u ác tính của mạch máu, không phải biểu mô."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Mức độ biệt hóa của một khối ung thư biểu mô tuyến (ví dụ ở dạ dày, đại tràng) được xác định dựa trên tiêu chí nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tỷ lệ phần trăm khối u tạo thành cấu trúc tuyến.",
+        "dung": true,
+        "giaiThich": "Mức độ biệt hóa (grading) đánh giá mức độ giống của tế bào u so với mô gốc. Trong ung thư biểu mô tuyến, tiêu chí chính là tỷ lệ khối u có khả năng tạo thành cấu trúc tuyến: Biệt hóa rõ (G1): >95% u tạo tuyến. Biệt hóa vừa (G2): 50-95% u tạo tuyến. Biệt hóa kém (G3): <50% u tạo tuyến."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Kích thước của khối u trên đại thể.",
+        "dung": false,
+        "giaiThich": "Kích thước u thuộc về xếp giai đoạn (staging - T)."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Mức độ thâm nhiễm của tế bào viêm xung quanh u.",
+        "dung": false,
+        "giaiThich": "Thâm nhiễm viêm là một yếu tố tiên lượng riêng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Số lượng hạch bạch huyết bị di căn.",
+        "dung": false,
+        "giaiThich": "Di căn hạch thuộc về xếp giai đoạn (staging - N)."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Hình ảnh vi thể \"xâm nhập quanh thần kinh\" (perineural invasion) là một dấu hiệu tiên lượng xấu và thường gặp trong bệnh lý nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Xơ gan nốt lớn.",
+        "dung": false,
+        "giaiThich": "Là các tổn thương lành tính, không có khả năng xâm nhập."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ung thư biểu mô tuyến dạ dày và đại tràng.",
+        "dung": true,
+        "giaiThich": "Xâm nhập quanh thần kinh là hình ảnh các tế bào ung thư xâm lấn vào không gian bao quanh các dây thần kinh. Đây là một con đường di căn tại chỗ, liên quan đến tăng nguy cơ tái phát tại chỗ sau phẫu thuật và là một yếu tố tiên lượng xấu. Nó thường được tìm thấy trong các ung thư biểu mô tuyến, bao gồm cả dạ dày và đại tràng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "U tuyến đại tràng có cuống.",
+        "dung": false,
+        "giaiThich": "U tuyến là tổn thương tiền ung thư, chưa có khả năng xâm nhập vào các cấu trúc sâu như dây thần kinh."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tăng sản nốt khu trú ở gan (FNH).",
+        "dung": false,
+        "giaiThich": "Là các tổn thương lành tính, không có khả năng xâm nhập."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Trong xơ gan, sự hình thành các tuần hoàn bàng hệ (ví dụ: giãn tĩnh mạch thực quản) là hậu quả trực tiếp của việc dòng máu không thể đi qua gan và tìm đường đi khác. Hiện tượng này liên quan đến tổn thương vi thể nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự hoại tử của tế bào gan.",
+        "dung": false,
+        "giaiThich": "Đều là các thành phần của quá trình bệnh sinh nhưng chính sự xơ hóa và biến đổi cấu trúc mạch máu mới là nguyên nhân cơ học trực tiếp gây tăng áp lực tĩnh mạch cửa."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự xơ hóa và phá vỡ cấu trúc xoang mạch.",
+        "dung": true,
+        "giaiThich": "Sự xơ hóa lan tỏa và hình thành các nốt tái tạo làm biến dạng, chèn ép và phá hủy hệ thống xoang mạch trong gan. Điều này tạo ra một \"nút chặn\" cho dòng máu từ tĩnh mạch cửa. Khi áp lực trong tĩnh mạch cửa tăng cao, máu buộc phải tìm các con đường \"lách\" qua gan để trở về tuần hoàn hệ thống, gây ra sự giãn nở của các tĩnh mạch nối giữa hệ cửa và hệ chủ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự thâm nhiễm của tế bào viêm trong khoảng cửa.",
+        "dung": false,
+        "giaiThich": "Đều là các thành phần của quá trình bệnh sinh nhưng chính sự xơ hóa và biến đổi cấu trúc mạch máu mới là nguyên nhân cơ học trực tiếp gây tăng áp lực tĩnh mạch cửa."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự tăng sinh của các ống mật.",
+        "dung": false,
+        "giaiThich": "Đều là các thành phần của quá trình bệnh sinh nhưng chính sự xơ hóa và biến đổi cấu trúc mạch máu mới là nguyên nhân cơ học trực tiếp gây tăng áp lực tĩnh mạch cửa."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Một khối u ở đại tràng có đặc điểm vi thể là các tuyến ung thư sản xuất một lượng lớn chất nhầy ngoại bào, tạo thành các \"bể nhầy\" (mucin pools) chứa các cụm tế bào u. Chẩn đoán mô bệnh học phù hợp nhất là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ung thư biểu mô tuyến, loại thông thường.",
+        "dung": false,
+        "giaiThich": "Loại thông thường có tạo tuyến nhưng không có thành phần nhầy ngoại bào chiếm ưu thế."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ung thư biểu mô tuyến nhầy (Mucinous adenocarcinoma).",
+        "dung": true,
+        "giaiThich": "Định nghĩa của ung thư biểu mô tuyến nhầy là khi thành phần chất nhầy ngoại bào chiếm trên 50% thể tích khối u. Hình ảnh \"bể nhầy\" chứa các dải hoặc cụm tế bào ung thư trôi nổi bên trong là hình ảnh kinh điển."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ung thư biểu mô tế bào nhẫn (Signet-ring cell carcinoma).",
+        "dung": false,
+        "giaiThich": "Ung thư tế bào nhẫn đặc trưng bởi chất nhầy nằm *trong* bào tương tế bào (nội bào), đẩy lệch nhân, chứ không phải các bể nhầy ngoại bào."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "U carcinoid (Neuroendocrine tumor).",
+        "dung": false,
+        "giaiThich": "U carcinoid là u thần kinh nội tiết, có tế bào nhỏ, đều, nhân tròn, bào tương ít, sắp xếp thành đám, bè hoặc dải."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "So với ung thư đại tràng phát sinh theo con đường truyền thống (APC/β-catenin), ung thư đại tràng có mất ổn định vi vệ tinh (MSI-H) thường có đặc điểm mô học nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Thường nằm ở đại tràng trái, biệt hóa kém, ít đáp ứng viêm.",
+        "dung": false,
+        "giaiThich": "Mô tả này trái ngược với các đặc điểm điển hình của u MSI-H."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Thường nằm ở đại tràng phải, biệt hóa kém hoặc dạng nhầy, và có thâm nhiễm lympho bào mạnh trong u.",
+        "dung": true,
+        "giaiThich": "Các khối u MSI-H có một số đặc điểm mô học đặc trưng: thường khu trú ở đại tràng phải, có xu hướng biệt hóa kém, có thể có dạng tủy (medullary), dạng nhầy, hoặc tế bào nhẫn, và đặc biệt là có sự thâm nhiễm rất mạnh của các tế bào lympho trong khối u (tumor-infiltrating lymphocytes - TILs)."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Luôn luôn là ung thư biệt hóa rõ, tạo cấu trúc tuyến điển hình.",
+        "dung": false,
+        "giaiThich": "U MSI-H thường biệt hóa kém, không phải biệt hóa rõ."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Không bao giờ có thành phần tế bào nhẫn.",
+        "dung": false,
+        "giaiThich": "U MSI-H có thể có thành phần tế bào nhẫn."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Đặc điểm đại thể \"thể sùi\" (fungating/exophytic) của ung thư dạ dày và đại tràng có ý nghĩa gì về mặt phát triển của khối u?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "U phát triển chủ yếu bằng cách xâm nhập sâu vào thành.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của thể thâm nhiễm."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "U phát triển chủ yếu lồi vào trong lòng ống tiêu hóa.",
+        "dung": true,
+        "giaiThich": "\"Sùi\" hay \"phát triển ra ngoài\" (exophytic) mô tả một khối u phát triển từ bề mặt niêm mạc và lồi lên, tạo thành một khối giống như polyp hoặc súp lơ trong lòng ống tiêu hóa. Mặc dù nó cũng xâm nhập vào thành, nhưng hướng phát triển chủ yếu là hướng vào lòng ống."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "U phát triển lan tỏa theo chu vi, gây hẹp lòng.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của thể loét-thâm nhiễm hoặc thể vòng nhẫn."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "U đã hoại tử và tạo thành một ổ loét lớn.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của thể loét."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Nhuộm hóa mô miễn dịch dương tính với CK7 và âm tính với CK20 trên một khối u gan di căn có nguồn gốc biểu mô tuyến gợi ý nhiều nhất khối u nguyên phát từ đâu?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Đại tràng.",
+        "dung": false,
+        "giaiThich": "Ung thư đại tràng có kiểu hình kinh điển là CK7-/CK20+."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Dạ dày.",
+        "dung": false,
+        "giaiThich": "Ung thư dạ dày thường có kiểu hình đa dạng, có thể là CK7+/CK20+ hoặc CK7+/CK20-. Tuy nhiên, CK7+/CK20- ít đặc hiệu hơn so với phổi/đường mật."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Phổi hoặc đường mật.",
+        "dung": true,
+        "giaiThich": "CK7 và CK20 là các dấu ấn cytokeratin giúp xác định nguồn gốc của các ung thư biểu mô. Kiểu hình CK7+/CK20- là đặc trưng cho các ung thư biểu mô tuyến của phổi, vú, buồng trứng, nội mạc tử cung và đường mật. Trong bối cảnh u gan, ung thư đường mật là một khả năng cần xét đến."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tuyến tiền liệt.",
+        "dung": false,
+        "giaiThich": "Ung thư tuyến tiền liệt dương tính với PSA và PSAP, và thường là CK7-/CK20-."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Sự hiện diện của các \"tiểu thùy giả trong tiểu thùy giả\" (cirrhosis within cirrhosis) trên vi thể là một dấu hiệu gợi ý mạnh mẽ điều gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Xơ gan đang trong giai đoạn hoạt động mạnh.",
+        "dung": false,
+        "giaiThich": "Không tạo ra hình ảnh vi thể đặc trưng này."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ung thư biểu mô tế bào gan phát triển trên nền xơ gan.",
+        "dung": true,
+        "giaiThich": "Đây là một dấu hiệu vi thể tinh tế nhưng rất có giá trị. Khi một khối HCC biệt hóa rõ phát triển bên trong một nốt xơ gan (tiểu thùy giả), các tế bào u có thể tạo ra mô đệm riêng của chúng, hình thành các cấu trúc giống như tiểu thùy giả nhỏ hơn bên trong nốt xơ gan lớn ban đầu. Hình ảnh này rất đặc trưng cho HCC phát triển trên nền xơ gan."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Xơ gan do rượu có đợt viêm gan cấp.",
+        "dung": false,
+        "giaiThich": "Không tạo ra hình ảnh vi thể đặc trưng này."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Khối u đã được điều trị bằng hóa trị hoặc xạ trị.",
+        "dung": false,
+        "giaiThich": "Không tạo ra hình ảnh vi thể đặc trưng này."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Trong ung thư đại tràng, yếu tố nào sau đây là quan trọng nhất để xác định giai đoạn \"N\" (Nodes) trong hệ thống TNM?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Kích thước của hạch bạch huyết lớn nhất.",
+        "dung": false,
+        "giaiThich": "Kích thước, vị trí, tình trạng vỡ vỏ bao là các thông tin có giá trị nhưng không phải là tiêu chí chính để xếp giai đoạn N."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Số lượng hạch bạch huyết có tế bào ung thư di căn.",
+        "dung": true,
+        "giaiThich": "Theo hệ thống phân loại TNM hiện hành, giai đoạn N của ung thư đại tràng được xác định chủ yếu dựa trên số lượng hạch bạch huyết vùng có di căn (N0: 0 hạch, N1: 1-3 hạch, N2: ≥4 hạch). Số lượng hạch di căn là yếu tố tiên lượng mạnh nhất."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Vị trí của các hạch bị di căn (gần hay xa khối u).",
+        "dung": false,
+        "giaiThich": "Kích thước, vị trí, tình trạng vỡ vỏ bao là các thông tin có giá trị nhưng không phải là tiêu chí chính để xếp giai đoạn N."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Hạch có bị vỡ vỏ bao hay không.",
+        "dung": false,
+        "giaiThich": "Kích thước, vị trí, tình trạng vỡ vỏ bao là các thông tin có giá trị nhưng không phải là tiêu chí chính để xếp giai đoạn N."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Hình ảnh vi thể các tế bào u nhỏ, đơn dạng, nhân tròn đều với chất nhiễm sắc dạng \"muối tiêu\", sắp xếp thành đám, bè hoặc dải, là đặc trưng của loại u nào trong ống tiêu hóa?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ung thư biểu mô tuyến biệt hóa kém.",
+        "dung": false,
+        "giaiThich": "Ung thư biểu mô tuyến biệt hóa kém có tế bào đa hình thái, nhân lớn, tăng sắc, không đều."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "U mô đệm đường tiêu hóa (GIST).",
+        "dung": false,
+        "giaiThich": "GIST là u trung mô, có tế bào hình thoi hoặc dạng biểu mô, không có nhân \"muối tiêu\"."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "U lympho (Lymphoma).",
+        "dung": false,
+        "giaiThich": "U lympho có các tế bào lympho không điển hình, thường là các tế bào tròn riêng rẽ."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "U thần kinh nội tiết (Neuroendocrine tumor - NET/Carcinoid).",
+        "dung": true,
+        "giaiThich": "Đây là mô tả kinh điển của u thần kinh nội tiết. Tế bào u có nguồn gốc từ hệ thần kinh nội tiết khuếch tán, có đặc điểm: kích thước tương đối nhỏ và đồng đều, bào tương ít, ưa toan nhẹ. Đặc điểm nhân là quan trọng nhất: nhân tròn hoặc bầu dục, màng nhân đều, và chất nhiễm sắc phân bố thành các hạt nhỏ mịn, tạo hình ảnh \"muối tiêu\" (salt-and-pepper chromatin)."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Tổn thương nào sau đây được coi là lành tính nhưng sự hiện diện của nó với số lượng lớn (>100) là dấu hiệu của một hội chứng di truyền làm tăng nguy cơ ung thư đại tràng lên gần 100%?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Polyp tăng sản.",
+        "dung": false,
+        "giaiThich": "Không có tiềm năng ác tính."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Polyp tuyến ống (Tubular adenoma).",
+        "dung": true,
+        "giaiThich": "Hội chứng đa polyp tuyến gia đình (Familial Adenomatous Polyposis - FAP) là một bệnh di truyền do đột biến gen APC. Bệnh nhân phát triển hàng trăm đến hàng nghìn polyp tuyến trong đại tràng. Mỗi polyp này là một tổn thương lành tính (u tuyến) nhưng có khả năng ác tính hóa. Với số lượng lớn như vậy, việc một hoặc nhiều polyp chuyển thành ung thư là gần như chắc chắn nếu không được phẫu thuật cắt toàn bộ đại tràng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Mô thừa (Hamartoma).",
+        "dung": false,
+        "giaiThich": "Mô thừa liên quan đến các hội chứng khác (ví dụ: Peutz-Jeghers), cũng làm tăng nguy cơ ung thư nhưng không phải theo cơ chế và mức độ như FAP."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Polyp viêm.",
+        "dung": false,
+        "giaiThich": "Không có tiềm năng ác tính."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Tại sao ung thư biểu mô tế bào gan (HCC) trên diện cắt đại thể thường có màu xanh hoặc vàng?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Do khối u có chứa nhiều mạch máu.",
+        "dung": false,
+        "giaiThich": "Nhiều mạch máu làm u có màu đỏ hoặc nâu đỏ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Do tế bào u sản xuất và ứ đọng mật.",
+        "dung": true,
+        "giaiThich": "Tế bào gan bình thường có chức năng sản xuất mật. Trong HCC, đặc biệt là các thể biệt hóa, tế bào u vẫn giữ lại một phần chức năng này. Chúng có thể sản xuất mật nhưng lại không có hệ thống đường mật hoàn chỉnh để dẫn lưu, gây ra sự ứ đọng mật ngay trong khối u. Mật có màu xanh hoặc vàng, do đó làm cho khối u có màu sắc tương ứng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Do sự hoại tử và hóa lỏng trung tâm.",
+        "dung": false,
+        "giaiThich": "Hoại tử làm u có màu trắng ngà hoặc vàng bẩn."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Do phản ứng xơ hóa mạnh của mô đệm.",
+        "dung": false,
+        "giaiThich": "Mô xơ có màu trắng."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Đặc điểm phân biệt chính giữa ung thư dạ dày sớm (Early Gastric Cancer) và ung thư dạ dày tiến triển (Advanced Gastric Cancer) là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Kích thước của khối u.",
+        "dung": false,
+        "giaiThich": "Không phải là tiêu chí định nghĩa. Một khối u rất lớn hoặc đã di căn hạch vẫn có thể là \"ung thư sớm\" nếu nó chỉ xâm nhập ở lớp hạ niêm mạc."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự hiện diện hay vắng mặt của di căn hạch.",
+        "dung": false,
+        "giaiThich": "Không phải là tiêu chí định nghĩa. Một khối u rất lớn hoặc đã di căn hạch vẫn có thể là \"ung thư sớm\" nếu nó chỉ xâm nhập ở lớp hạ niêm mạc."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Độ sâu của sự xâm nhập của khối u trong thành dạ dày.",
+        "dung": true,
+        "giaiThich": "Đây là định nghĩa. Ung thư dạ dày sớm được định nghĩa là ung thư mà sự xâm nhập của nó chỉ giới hạn ở lớp niêm mạc (mucosa) và/hoặc lớp hạ niêm mạc (submucosa), bất kể kích thước khối u hay tình trạng di căn hạch. Khi khối u xâm nhập từ lớp cơ chính (muscularis propria) trở ra, nó được gọi là ung thư dạ dày tiến triển."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Mức độ biệt hóa của khối u.",
+        "dung": false,
+        "giaiThich": "Không phải là tiêu chí định nghĩa. Một khối u rất lớn hoặc đã di căn hạch vẫn có thể là \"ung thư sớm\" nếu nó chỉ xâm nhập ở lớp hạ niêm mạc."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Trong xơ gan, các dải xơ chủ yếu được tạo ra bởi loại tế bào nào sau khi được hoạt hóa?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tế bào gan.",
+        "dung": false,
+        "giaiThich": "Các tế bào này tiết ra các chất trung gian hóa học để hoạt hóa tế bào sao, nhưng không phải là tế bào trực tiếp sản xuất ra mô xơ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tế bào nội mô xoang gan.",
+        "dung": false,
+        "giaiThich": "Các tế bào này tiết ra các chất trung gian hóa học để hoạt hóa tế bào sao, nhưng không phải là tế bào trực tiếp sản xuất ra mô xơ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tế bào Kupffer.",
+        "dung": false,
+        "giaiThich": "Các tế bào này tiết ra các chất trung gian hóa học để hoạt hóa tế bào sao, nhưng không phải là tế bào trực tiếp sản xuất ra mô xơ."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tế bào sao (stellate cell / tế bào Ito).",
+        "dung": true,
+        "giaiThich": "Tế bào sao, nằm ở khoang Disse, ở trạng thái bình thường có chức năng dự trữ vitamin A. Khi gan bị tổn thương mạn tính, các tế bào này được hoạt hóa bởi các cytokine từ tế bào Kupffer và tế bào gan bị tổn thương. Chúng biến đổi thành các nguyên bào sợi cơ (myofibroblast) và bắt đầu sản xuất một lượng lớn collagen, tạo thành các dải xơ."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Một polyp đại tràng có cấu trúc vi thể gồm các tuyến phân nhánh phức tạp, bề mặt có hình thái giống như nhung mao ruột non. Chẩn đoán mô bệnh học phù hợp nhất là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Polyp tăng sản.",
+        "dung": false,
+        "giaiThich": "Polyp tăng sản có các tuyến hình răng cưa, không phải nhung mao."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "U tuyến ống (Tubular adenoma).",
+        "dung": false,
+        "giaiThich": "U tuyến ống có các tuyến hình ống, tròn, phân nhánh."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "U tuyến nhung mao (Villous adenoma).",
+        "dung": true,
+        "giaiThich": "U tuyến được phân loại dựa trên cấu trúc vi thể. U tuyến nhung mao được định nghĩa khi thành phần cấu trúc dạng nhung mao (các trục liên kết mạch máu được phủ bởi biểu mô tuyến loạn sản, dài và mảnh như ngón tay) chiếm trên 75% khối u. U tuyến nhung mao có nguy cơ ác tính hóa cao hơn u tuyến ống."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "U tuyến ống-nhung mao (Tubulovillous adenoma).",
+        "dung": false,
+        "giaiThich": "U tuyến ống-nhung mao là loại trung gian, khi thành phần nhung mao chiếm từ 25-75%."
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Sự khác biệt cơ bản về mặt mô bệnh học giữa \"viêm teo dạ dày\" và \"dị sản ruột\" là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Viêm teo là mất tuyến, dị sản ruột là thay thế tuyến.",
+        "dung": true,
+        "giaiThich": "Đây là sự khác biệt cốt lõi. Viêm teo (atrophy) là sự giảm về số lượng và thể tích của các tuyến dạ dày đặc hiệu. Trong khi đó, dị sản ruột (metaplasia) là một quá trình biến đổi phức tạp hơn, trong đó các tuyến dạ dày đã bị mất đi được thay thế bằng một loại biểu mô mới có hình thái và chức năng giống biểu mô ruột."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Viêm teo luôn có H. pylori, dị sản ruột thì không.",
+        "dung": false,
+        "giaiThich": "Cả hai thường liên quan đến H. pylori."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Viêm teo là tổn thương tiền ung thư, dị sản ruột thì không.",
+        "dung": false,
+        "giaiThich": "Cả hai đều được coi là tổn thương tiền ung thư, nhưng dị sản ruột là một bước tiến xa hơn trong chuỗi bệnh sinh."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Viêm teo chỉ xảy ra ở hang vị, dị sản ruột chỉ xảy ra ở thân vị.",
+        "dung": false,
+        "giaiThich": "Cả hai có thể xảy ra ở cả hai vị trí."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "tinhHuong": "Câu hỏi tổng hợp và so sánh",
+    "cauHoi": "Khi một khối ung thư biểu mô tuyến xâm nhập vào lớp thanh mạc (serosa) của dạ dày hoặc đại tràng, nó tương ứng với giai đoạn T nào và có nguy cơ trực tiếp gây ra điều gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "T2, gây tắc ruột.",
+        "dung": false,
+        "giaiThich": "T2 là xâm nhập lớp cơ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "T3, gây chảy máu.",
+        "dung": false,
+        "giaiThich": "T3 là xâm nhập qua lớp cơ vào mô dưới thanh mạc. Chảy máu có thể xảy ra ở mọi giai đoạn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "T4a, gây gieo rắc tế bào ung thư vào khoang phúc mạc.",
+        "dung": true,
+        "giaiThich": "Giai đoạn T4a được định nghĩa là khi khối u xâm nhập bề mặt của phúc mạc tạng (lớp thanh mạc). Khi khối u đã phá vỡ lớp màng mỏng này, các tế bào ung thư có thể dễ dàng bong ra và gieo rắc vào khoang phúc mạc, dẫn đến tình trạng di căn phúc mạc (peritoneal carcinomatosis), một biến chứng nặng và tiên lượng rất xấu."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "T4b, gây thủng tạng.",
+        "dung": false,
+        "giaiThich": "T4b là khi u xâm nhập trực tiếp vào các cơ quan hoặc cấu trúc lân cận. Thủng tạng có thể xảy ra nhưng không phải là định nghĩa của T4b."
+      }
+    ]
+  }
+]
