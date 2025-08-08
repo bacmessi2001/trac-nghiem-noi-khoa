@@ -1086,7 +1086,7 @@
   },
   {
     "id": 36,
-    "tinhHuong": "Tình huống câu hỏi 1",
+    "tinhHuong": "",
     "cauHoi": "Trước khi thụ tinh xảy ra, noãn bào của người phụ nữ bị bắt giữ ở giai đoạn nào của quá trình giảm phân?",
     "dapAn": [
       {
@@ -1117,7 +1117,7 @@
   },
   {
     "id": 37,
-    "tinhHuong": "Tình huống câu hỏi 2",
+    "tinhHuong": "",
     "cauHoi": "Sự kiện nào sau đây là cơ chế chính, lâu dài để ngăn chặn hiện tượng đa thụ tinh (polyspermy) sau khi một tinh trùng đã hợp nhất với trứng?",
     "dapAn": [
       {
@@ -1148,7 +1148,7 @@
   },
   {
     "id": 38,
-    "tinhHuong": "Tình huống câu hỏi 3",
+    "tinhHuong": "",
     "cauHoi": "Quá trình 'nén chặt' (compaction) xảy ra ở giai đoạn phôi 8 tế bào có ý nghĩa quan trọng nhất là gì?",
     "dapAn": [
       {
@@ -1179,7 +1179,7 @@
   },
   {
     "id": 39,
-    "tinhHuong": "Tình huống câu hỏi 4",
+    "tinhHuong": "",
     "cauHoi": "Trong cấu trúc của một phôi nang (blastocyst), khối tế bào bên trong (ICM) có vai trò gì?",
     "dapAn": [
       {
@@ -1210,7 +1210,7 @@
   },
   {
     "id": 40,
-    "tinhHuong": "Tình huống câu hỏi 5",
+    "tinhHuong": "",
     "cauHoi": "Sự kiện nào đánh dấu sự hoàn thành của quá trình thụ tinh và sự hình thành của một hợp tử (zygote) lưỡng bội?",
     "dapAn": [
       {
@@ -1241,7 +1241,7 @@
   },
   {
     "id": 41,
-    "tinhHuong": "Tình huống câu hỏi 6",
+    "tinhHuong": "",
     "cauHoi": "Quá trình 'thoát màng' (hatching) của phôi nang là cần thiết để làm gì?",
     "dapAn": [
       {
@@ -1272,7 +1272,7 @@
   },
   {
     "id": 42,
-    "tinhHuong": "Tình huống câu hỏi 7",
+    "tinhHuong": "",
     "cauHoi": "Tại sao quá trình giảm phân trong quá trình tạo trứng (oogenesis) lại tạo ra sự phân chia tế bào chất bất đối xứng?",
     "dapAn": [
       {
@@ -1303,7 +1303,7 @@
   },
   {
     "id": 43,
-    "tinhHuong": "Tình huống câu hỏi 8",
+    "tinhHuong": "",
     "cauHoi": "Phôi người đạt đến giai đoạn phôi dâu (morula) và đi vào khoang tử cung vào khoảng ngày thứ mấy sau khi thụ tinh?",
     "dapAn": [
       {
@@ -1334,7 +1334,7 @@
   },
   {
     "id": 44,
-    "tinhHuong": "Tình huống câu hỏi 9",
+    "tinhHuong": "",
     "cauHoi": "Mục đích chính của quá trình giảm phân (meiosis) trong sự sinh giao tử là gì?",
     "dapAn": [
       {
@@ -1365,7 +1365,7 @@
   },
   {
     "id": 45,
-    "tinhHuong": "Tình huống câu hỏi 10",
+    "tinhHuong": "",
     "cauHoi": "Tinh bào 1 và noãn bào 1 có bộ nhiễm sắc thể như thế nào?",
     "dapAn": [
       {
@@ -1396,7 +1396,7 @@
   },
   {
     "id": 46,
-    "tinhHuong": "Tình huống câu hỏi 11",
+    "tinhHuong": "",
     "cauHoi": "Kết quả cuối cùng về số lượng của sự sinh tinh và sự sinh noãn khác nhau cơ bản ở điểm nào?",
     "dapAn": [
       {
@@ -1427,7 +1427,7 @@
   },
   {
     "id": 47,
-    "tinhHuong": "Tình huống câu hỏi 12",
+    "tinhHuong": "",
     "cauHoi": "Loại phân bào nào trực tiếp tạo ra giao tử từ các tinh bào và noãn bào?",
     "dapAn": [
       {
@@ -1458,7 +1458,7 @@
   },
   {
     "id": 48,
-    "tinhHuong": "Tình huống câu hỏi 13",
+    "tinhHuong": "",
     "cauHoi": "Cặp hormone nào từ tuyến yên đóng vai trò trung tâm trong việc điều hòa sự sinh giao tử ở cả nam và nữ?",
     "dapAn": [
       {
@@ -1489,7 +1489,7 @@
   },
   {
     "id": 49,
-    "tinhHuong": "Tình huống câu hỏi 14",
+    "tinhHuong": "",
     "cauHoi": "Noãn bào 1 hoàn thành giảm phân I vào thời điểm nào?",
     "dapAn": [
       {
@@ -1520,7 +1520,7 @@
   },
   {
     "id": 50,
-    "tinhHuong": "Tình huống câu hỏi 15",
+    "tinhHuong": "",
     "cauHoi": "Yếu tố nào kích hoạt noãn bào 2 hoàn thành quá trình giảm phân II?",
     "dapAn": [
       {
@@ -1551,7 +1551,7 @@
   },
   {
     "id": 51,
-    "tinhHuong": "Tình huống câu hỏi 16",
+    "tinhHuong": "",
     "cauHoi": "Thể vàng (corpus luteum) phát triển từ cấu trúc nào sau đây?",
     "dapAn": [
       {
@@ -1582,7 +1582,7 @@
   },
   {
     "id": 52,
-    "tinhHuong": "Tình huống câu hỏi 17",
+    "tinhHuong": "",
     "cauHoi": "Trong buồng trứng của một bé gái sơ sinh, các tế bào trứng tồn tại ở dạng cấu trúc nào?",
     "dapAn": [
       {
@@ -1613,7 +1613,7 @@
   },
   {
     "id": 53,
-    "tinhHuong": "Tình huống câu hỏi 18",
+    "tinhHuong": "",
     "cauHoi": "Tế bào nhỏ được tạo ra cùng với noãn bào 2 trong quá trình giảm phân I được gọi là gì?",
     "dapAn": [
       {
@@ -1644,7 +1644,7 @@
   },
   {
     "id": 54,
-    "tinhHuong": "Tình huống câu hỏi 19",
+    "tinhHuong": "",
     "cauHoi": "Giai đoạn cuối cùng của sự sinh tinh, biến đổi các tinh tử tròn thành các tinh trùng có đầu và đuôi, được gọi là gì?",
     "dapAn": [
       {
@@ -1675,7 +1675,7 @@
   },
   {
     "id": 55,
-    "tinhHuong": "Tình huống câu hỏi 20",
+    "tinhHuong": "",
     "cauHoi": "Tế bào nào trong tinh hoàn có chức năng sản xuất testosterone?",
     "dapAn": [
       {
@@ -1706,7 +1706,7 @@
   },
   {
     "id": 56,
-    "tinhHuong": "Tình huống câu hỏi 21",
+    "tinhHuong": "",
     "cauHoi": "Toàn bộ quá trình sinh tinh, từ tinh nguyên bào đến tinh trùng trưởng thành, diễn ra ở đâu?",
     "dapAn": [
       {
@@ -1737,7 +1737,7 @@
   },
   {
     "id": 57,
-    "tinhHuong": "Tình huống câu hỏi 22",
+    "tinhHuong": "",
     "cauHoi": "Vai trò chính của tế bào Sertoli là gì?",
     "dapAn": [
       {
@@ -1768,7 +1768,7 @@
   },
   {
     "id": 58,
-    "tinhHuong": "Tình huống câu hỏi 23",
+    "tinhHuong": "",
     "cauHoi": "Sự kiện nào sau đây KHÔNG phải là một phần của quá trình tạo tinh (spermiogenesis)?",
     "dapAn": [
       {
@@ -1799,7 +1799,7 @@
   },
   {
     "id": 59,
-    "tinhHuong": "Tình huống câu hỏi 24",
+    "tinhHuong": "",
     "cauHoi": "Các tế bào được tạo ra trong các lần phân cắt đầu tiên của hợp tử được gọi là gì?",
     "dapAn": [
       {
@@ -1830,7 +1830,7 @@
   },
   {
     "id": 60,
-    "tinhHuong": "Tình huống câu hỏi 25",
+    "tinhHuong": "",
     "cauHoi": "Đặc điểm xác định của quá trình phân cắt (cleavage) trong những ngày đầu phát triển phôi là gì?",
     "dapAn": [
       {
@@ -1861,7 +1861,7 @@
   },
   {
     "id": 61,
-    "tinhHuong": "Tình huống câu hỏi 26",
+    "tinhHuong": "",
     "cauHoi": "Lá nuôi (trophectoderm) của phôi nang sẽ phát triển thành cấu trúc nào?",
     "dapAn": [
       {
@@ -1892,7 +1892,7 @@
   },
   {
     "id": 62,
-    "tinhHuong": "Tình huống câu hỏi 27",
+    "tinhHuong": "",
     "cauHoi": "Sự hình thành khoang phôi nang (blastocoel) bắt đầu vào khoảng ngày thứ mấy sau thụ tinh?",
     "dapAn": [
       {
@@ -1923,7 +1923,7 @@
   },
   {
     "id": 63,
-    "tinhHuong": "Tình huống câu hỏi 28",
+    "tinhHuong": "",
     "cauHoi": "Khoang chứa đầy chất lỏng bên trong phôi nang được gọi là gì?",
     "dapAn": [
       {
@@ -3161,4 +3161,5 @@
       }
     ]
   }
+
 ]
