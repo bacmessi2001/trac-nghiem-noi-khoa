@@ -1,0 +1,1242 @@
+[
+  {
+    "id": 1,
+    "tinhHuong": "Vỏ bọc là một cấu trúc phức hợp có chức năng ngăn cách khối u và cung cấp dinh dưỡng.",
+    "cauHoi": "Vỏ bọc của một u tuyến tuyến giáp lành tính điển hình được cấu tạo bởi những thành phần nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Mô xơ, sợi cơ trơn và các mạch máu",
+        "dung": true,
+        "giaiThich": "Theo mô tả, vỏ bọc của u tuyến là một cấu trúc được tổ chức tốt bao gồm các thành phần liên kết, cơ và mạch máu."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Chỉ có mô xơ và tế bào u xâm nhập",
+        "dung": false,
+        "giaiThich": "Sự hiện diện của tế bào u xâm nhập vào vỏ bọc là dấu hiệu của ác tính, không phải lành tính."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tế bào lympho và tương bào",
+        "dung": false,
+        "giaiThich": "Đây là các tế bào viêm, sự hiện diện của chúng cho thấy một phản ứng viêm hơn là cấu trúc của vỏ bọc u."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Các nang tuyến giáp bị chèn ép",
+        "dung": false,
+        "giaiThich": "Đây là hình ảnh của mô giáp lành nằm bên ngoài vỏ bọc, không phải là thành phần cấu tạo nên vỏ bọc."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tinhHuong": "Hãy nghĩ về mối quan hệ không gian giữa bào tương và nhân tế bào khi màng nhân gấp lại.",
+    "cauHoi": "Trong ung thư biểu mô tuyến giáp thể nhú, 'giả thể vùi ái toan trong nhân' được hình thành do nguyên nhân nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Do bào tương ấn lõm vào nhân",
+        "dung": true,
+        "giaiThich": "Tài liệu giải thích rõ rằng đây là một giả thể được tạo ra khi màng nhân gấp nếp và một phần bào tương bị kẹt vào bên trong, tạo ra hình ảnh giống như một thể vùi."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Do sự lắng đọng của protein bất thường",
+        "dung": false,
+        "giaiThich": "Sự lắng đọng protein trong nhân là một cơ chế bệnh học khác, không phải là nguyên nhân tạo ra giả thể vùi trong trường hợp này."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Do sự nhân lên của virus bên trong nhân",
+        "dung": false,
+        "giaiThich": "Thể vùi do virus có bản chất và hình thái khác, không liên quan đến cơ chế được mô tả trong ung thư tuyến giáp thể nhú."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Do sự tích tụ của chất keo trong nhân",
+        "dung": false,
+        "giaiThich": "Chất keo là sản phẩm ngoại bào nằm trong lòng nang tuyến, không phải là thành phần tích tụ bên trong nhân tế bào."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tinhHuong": "Đây là loại tế bào có hình dạng giống tế bào biểu mô, thường thấy trong các phản ứng viêm hạt.",
+    "cauHoi": "Ngoài tế bào khổng lồ và đại thực bào, tế bào nào sau đây là thành phần chính tạo nên cấu trúc 'nang viêm giả lao' trong viêm tuyến giáp bán cấp?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tế bào bán liên",
+        "dung": true,
+        "giaiThich": "Tế bào bán liên (epithelioid cells) là các đại thực bào đã biến đổi, là thành phần cốt lõi của cấu trúc viêm hạt trong viêm tuyến giáp bán cấp."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tế bào Hurthle",
+        "dung": false,
+        "giaiThich": "Tế bào Hurthle là đặc trưng của viêm tuyến giáp Hashimoto, không phải của viêm tuyến giáp bán cấp."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tế bào biểu mô vảy",
+        "dung": false,
+        "giaiThich": "Chuyển sản vảy có thể gặp trong một số bệnh lý tuyến giáp nhưng không phải là thành phần điển hình của nang viêm bán cấp."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tế bào C (tế bào cận nang)",
+        "dung": false,
+        "giaiThich": "Tế bào C sản xuất calcitonin và không tham gia vào việc hình thành cấu trúc viêm hạt."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "tinhHuong": "So sánh hình ảnh tổn thương với một bệnh nhiễm trùng mãn tính nổi tiếng do vi khuẩn kháng acid gây ra.",
+    "cauHoi": "Đặc điểm vi thể nào khiến viêm tuyến giáp bán cấp còn được gọi là 'viêm giáp giả lao'?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự hình thành các nang viêm dạng hạt giống nang lao",
+        "dung": true,
+        "giaiThich": "Tổn thương tạo thành các cấu trúc nang viêm hạt với tế bào khổng lồ, tương tự như tổn thương trong bệnh lao."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự xâm nhập lan tỏa của bạch cầu đa nhân trung tính",
+        "dung": false,
+        "giaiThich": "Xâm nhập bạch cầu đa nhân trung tính là một phần của phản ứng viêm nhưng không phải là đặc điểm tạo nên tên gọi 'giả lao'."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự hiện diện của các ổ vi áp-xe",
+        "dung": false,
+        "giaiThich": "Các ổ vi áp-xe có thể xuất hiện nhưng đặc điểm mô hạt giống nang lao mới là điểm tương đồng chính với bệnh lao."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự teo đét của các túi tuyến giáp",
+        "dung": false,
+        "giaiThich": "Teo đét túi tuyến là hậu quả của quá trình viêm, không phải là đặc điểm mô phỏng bệnh lao."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "tinhHuong": "Tế bào này còn có một tên gọi khác là tế bào Askanazy.",
+    "cauHoi": "Loại tế bào nào có bào tương dạng hạt ưa acid, là dấu hiệu đặc trưng trên vi thể của viêm tuyến giáp Hashimoto?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tế bào Hurthle",
+        "dung": true,
+        "giaiThich": "Tế bào Hurthle (hay tế bào Askanazy) là các tế bào biểu mô nang tuyến bị biến đổi, có bào tương rộng và chứa nhiều hạt ưa acid, là một đặc điểm quan trọng của bệnh Hashimoto."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tế bào khổng lồ",
+        "dung": false,
+        "giaiThich": "Tế bào khổng lồ là đặc trưng của viêm tuyến giáp bán cấp, không phải của viêm tuyến giáp Hashimoto."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tương bào",
+        "dung": false,
+        "giaiThich": "Tương bào có mặt nhiều trong mô đệm của viêm tuyến giáp Hashimoto nhưng không phải là tế bào biểu mô bị biến đổi đặc trưng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Lympho bào",
+        "dung": false,
+        "giaiThich": "Lympho bào xâm nhập rất nhiều và tạo thành nang lympho, nhưng chúng là các tế bào viêm, không phải tế bào biểu mô tuyến giáp bị biến đổi."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "tinhHuong": "Hãy xem xét các tiêu chuẩn về hình thái tổng thể và cấu trúc của khối u so với những thay đổi thứ phát có thể xảy ra bên trong nó.",
+    "cauHoi": "Đặc điểm nào sau đây KHÔNG phải là một tiêu chuẩn bắt buộc để chẩn đoán xác định u tuyến tuyến giáp lành tính?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Có sự calci hóa bên trong u",
+        "dung": true,
+        "giaiThich": "Calci hóa là một thay đổi thoái hóa có thể có hoặc không có trong u tuyến, không phải là một tiêu chuẩn chẩn đoán chính."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "U có vỏ bọc rõ rệt",
+        "dung": false,
+        "giaiThich": "Vỏ bọc là một đặc điểm quan trọng để phân biệt u tuyến với các tổn thương tăng sản dạng nốt."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Cấu trúc trong u khác với mô giáp ngoài u",
+        "dung": false,
+        "giaiThich": "Sự khác biệt về cấu trúc giữa mô u và mô giáp xung quanh là một tiêu chí cần thiết để xác định đây là một khối u tân sinh thực sự."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "U đơn độc",
+        "dung": false,
+        "giaiThich": "U tuyến thường biểu hiện dưới dạng một khối u (nhân) duy nhất, đây là một trong những tiêu chuẩn chẩn đoán."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "tinhHuong": "Hãy tập trung vào ranh giới của khối u và mối quan hệ của nó với các cấu trúc xung quanh.",
+    "cauHoi": "Dấu hiệu vi thể quan trọng nhất để phân biệt một u tuyến tuyến giáp lành tính với một ung thư biểu mô tuyến giáp thể nang là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Không có sự xâm nhập của tế bào u vào vỏ bao và mạch máu",
+        "dung": true,
+        "giaiThich": "Sự toàn vẹn của vỏ bao và không có bằng chứng xâm nhập mạch máu là tiêu chí vàng để xác định tính chất lành tính của u tuyến."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tế bào u có kích thước nhỏ và đồng nhất",
+        "dung": false,
+        "giaiThich": "Tế bào đồng nhất là đặc điểm của u lành tính, nhưng sự xâm nhập mới là yếu tố quyết định để chẩn đoán ác tính."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Lòng túi tuyến chứa đầy chất keo",
+        "dung": false,
+        "giaiThich": "Sự hiện diện của chất keo có thể thấy ở cả tổn thương lành tính và một số ung thư biệt hóa tốt, do đó không phải là yếu tố phân biệt chính."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Mô đệm u giàu mạch máu",
+        "dung": false,
+        "giaiThich": "Cả u lành tính và ác tính đều có thể có mô đệm giàu mạch máu để nuôi dưỡng khối u."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "tinhHuong": "Nang viêm trong bệnh này bao gồm nhiều loại tế bào viêm, nhưng một loại tế bào liên quan đến dị ứng và nhiễm ký sinh trùng thường không có mặt.",
+    "cauHoi": "Thành phần tế bào nào sau đây KHÔNG phải là thành phần điển hình trong nang viêm của viêm tuyến giáp bán cấp?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Bạch cầu ái toan (Eosinophil)",
+        "dung": true,
+        "giaiThich": "Tài liệu mô tả thành phần nang viêm gồm bạch cầu đa nhân trung tính, lympho bào, tương bào, đại thực bào và tế bào khổng lồ, không đề cập đến bạch cầu ái toan."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Lympho bào",
+        "dung": false,
+        "giaiThich": "Lympho bào là một thành phần quan trọng của phản ứng viêm mạn tính và bán cấp, có mặt trong tổn thương."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Đại thực bào",
+        "dung": false,
+        "giaiThich": "Đại thực bào tham gia vào việc dọn dẹp các mảnh vỡ tế bào và hình thành nên cấu trúc nang viêm hạt."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tế bào khổng lồ",
+        "dung": false,
+        "giaiThich": "Tế bào khổng lồ, được hình thành từ sự hợp nhất của các đại thực bào, là một đặc điểm rất điển hình của viêm tuyến giáp bán cấp."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "tinhHuong": "Cấu trúc này tương tự như các cấu trúc tìm thấy trong hạch bạch huyết hoặc amidan.",
+    "cauHoi": "Trong viêm tuyến giáp Hashimoto, các lympho bào xâm nhập và thường sắp xếp thành cấu trúc đặc trưng nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tạo thành nang lympho với trung tâm mầm rõ",
+        "dung": true,
+        "giaiThich": "Sự xâm nhập của lympho bào mạnh mẽ đến mức chúng tổ chức lại thành các nang lympho thứ cấp, có trung tâm mầm, mô phỏng cấu trúc của mô bạch huyết."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tạo thành các dải xơ hóa",
+        "dung": false,
+        "giaiThich": "Xơ hóa có thể xuất hiện rải rác nhưng cấu trúc chính được tạo ra bởi các lympho bào là nang lympho."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Bao quanh các mạch máu",
+        "dung": false,
+        "giaiThich": "Mặc dù các tế bào viêm có thể tập trung quanh mạch máu, nhưng việc tạo thành nang lympho hoàn chỉnh mới là đặc trưng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tập trung ở trung tâm các túi tuyến",
+        "dung": false,
+        "giaiThich": "Các lympho bào xâm nhập vào mô đệm giữa các túi tuyến, không phải tập trung bên trong lòng túi tuyến."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "tinhHuong": "Hãy nghĩ về tác động cơ học của một khối u đang phát triển chèn vào mô mềm xung quanh.",
+    "cauHoi": "Hình ảnh vi thể của mô giáp bình thường nằm ngay cạnh một u tuyến lành tính thường trông như thế nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Bị chèn ép, các túi tuyến méo mó và lòng hẹp lại",
+        "dung": true,
+        "giaiThich": "Khối u phát triển tạo ra hiệu ứng khối, đẩy và nén ép mô giáp lành xung quanh, làm biến dạng cấu trúc của chúng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tăng sản mạnh mẽ để bù trừ",
+        "dung": false,
+        "giaiThich": "Không có bằng chứng cho thấy mô giáp xung quanh tăng sản để bù trừ cho một khối u không có chức năng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Xâm nhập nhiều tế bào viêm",
+        "dung": false,
+        "giaiThich": "Trừ khi có tình trạng viêm đi kèm, mô giáp cạnh u lành tính thường không có phản ứng viêm đáng kể."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Hoàn toàn không thay đổi",
+        "dung": false,
+        "giaiThich": "Sự chèn ép cơ học từ khối u chắc chắn sẽ gây ra những thay đổi về hình thái cho mô giáp lân cận."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "tinhHuong": "Đây là sản phẩm của các nang tuyến bị phá hủy và bị giữ lại trong cấu trúc viêm.",
+    "cauHoi": "Vùng trung tâm của nang viêm trong viêm tuyến giáp bán cấp đôi khi chứa thành phần nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Những đám chất keo",
+        "dung": true,
+        "giaiThich": "Khi các nang tuyến bị phá hủy bởi quá trình viêm, chất keo bên trong có thể bị kẹt lại ở trung tâm của cấu trúc viêm hạt mới hình thành."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ổ vi áp-xe",
+        "dung": false,
+        "giaiThich": "Ổ vi áp-xe là sự tích tụ của bạch cầu đa nhân trung tính và có thể thấy trong mô đệm, nhưng không phải là đặc điểm điển hình của trung tâm nang viêm hạt."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tế bào Hurthle",
+        "dung": false,
+        "giaiThich": "Tế bào Hurthle là đặc trưng của viêm tuyến giáp Hashimoto, không phải viêm tuyến giáp bán cấp."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Thể cát (Psammoma body)",
+        "dung": false,
+        "giaiThich": "Thể cát là cấu trúc lắng đọng canxi, thường gặp trong ung thư tuyến giáp thể nhú, không phải trong viêm tuyến giáp bán cấp."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "tinhHuong": "Quá trình viêm lan tỏa gây tổn thương và phá hủy mô tuyến giáp chức năng.",
+    "cauHoi": "Ngoài sự hiện diện của mô hạt viêm, tình trạng chung của các túi tuyến giáp trong viêm tuyến giáp bán cấp là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Teo đét và giảm số lượng",
+        "dung": true,
+        "giaiThich": "Quá trình viêm phá hủy các nang tuyến, dẫn đến sự teo nhỏ và giảm mật độ của chúng trong mô giáp."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tăng sản mạnh mẽ",
+        "dung": false,
+        "giaiThich": "Tăng sản là sự gia tăng số lượng tế bào, trái ngược với sự phá hủy và teo đét thấy trong viêm tuyến giáp bán cấp."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Chứa đầy chất keo đặc",
+        "dung": false,
+        "giaiThich": "Tình trạng này đặc trưng cho bướu giáp keo, không phải là hình ảnh của một quá trình viêm phá hủy."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Chuyển sản vảy",
+        "dung": false,
+        "giaiThich": "Chuyển sản vảy là sự biến đổi của tế bào biểu mô thành loại khác, không phải là đặc điểm chính của viêm tuyến giáp bán cấp."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "tinhHuong": "Hãy xem xét ảnh hưởng của việc các tế bào nang tuyến bị tổn thương và sự hiện diện của các tế bào dọn dẹp.",
+    "cauHoi": "Chất keo trong lòng các nang tuyến giáp của bệnh viêm tuyến giáp Hashimoto thường có đặc điểm gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ít và loãng, kèm theo đại thực bào",
+        "dung": true,
+        "giaiThich": "Các nang tuyến bị teo và tổn thương, làm giảm sản xuất chất keo. Các đại thực bào xuất hiện để dọn dẹp các mảnh vỡ tế bào và chất keo."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Đặc và bắt màu hồng thuần nhất",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của chất keo trong bướu giáp keo hoặc u tuyến lành tính, không phải trong viêm Hashimoto."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Chứa nhiều thể cát",
+        "dung": false,
+        "giaiThich": "Thể cát là cấu trúc vôi hóa, điển hình cho ung thư thể nhú, không phải viêm Hashimoto."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Biến mất hoàn toàn",
+        "dung": false,
+        "giaiThich": "Mặc dù lượng chất keo giảm nhưng nó không hoàn toàn biến mất ở tất cả các nang, đặc biệt là trong giai đoạn đầu."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "tinhHuong": "Phản ứng viêm mạn tính kéo dài thường dẫn đến sự thay thế mô chức năng bằng một loại mô liên kết khác.",
+    "cauHoi": "Ngoài sự xâm nhập của lympho bào, mô đệm trong viêm tuyến giáp Hashimoto còn có thể có đặc điểm nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Rải rác có xơ hóa",
+        "dung": true,
+        "giaiThich": "Xơ hóa là hậu quả của quá trình viêm mạn tính, trong đó mô tuyến bị phá hủy và được thay thế bằng mô sẹo (mô xơ)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Giàu mạch máu tân tạo",
+        "dung": false,
+        "giaiThich": "Mặc dù viêm có thể kèm theo tăng sinh mạch máu, nhưng xơ hóa mới là đặc điểm thay đổi mô đệm nổi bật được đề cập trong tài liệu."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Thoái hóa nhầy lan tỏa",
+        "dung": false,
+        "giaiThich": "Thoái hóa nhầy là sự tích tụ chất nhầy, có thể gặp trong u tuyến nhưng không phải là đặc trưng của viêm Hashimoto."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Lắng đọng canxi",
+        "dung": false,
+        "giaiThich": "Lắng đọng canxi không phải là một đặc điểm phổ biến của viêm tuyến giáp Hashimoto."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "tinhHuong": "Nhân của tế bào lành tính thường nhỏ, đều và nằm ở vị trí nhất định trong tế bào.",
+    "cauHoi": "Tế bào tuyến trong u tuyến tuyến giáp lành tính có đặc điểm nhân như thế nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Nằm lệch về cực đáy và tăng sắc",
+        "dung": true,
+        "giaiThich": "Trong các tế bào tuyến biệt hóa tốt, nhân thường nằm ở cực đáy (xa lòng nang tuyến) và có chất nhiễm sắc cô đặc (tăng sắc)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Bạc màu (thủy tinh mờ)",
+        "dung": false,
+        "giaiThich": "Nhân bạc màu hay 'thủy tinh mờ' là một đặc điểm kinh điển của ung thư tuyến giáp thể nhú, không phải u lành tính."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Có khía dọc",
+        "dung": false,
+        "giaiThich": "Nhân có khía là một dấu hiệu khác của ung thư tuyến giáp thể nhú, do màng nhân gấp lại."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Lớn, đa hình thái và có nhân chia bất thường",
+        "dung": false,
+        "giaiThich": "Đây là những đặc điểm của tế bào ác tính, cho thấy sự mất kiểm soát phân bào và biến đổi hình thái nặng."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "tinhHuong": "Trong khối u lành tính, các nang tuyến vẫn duy trì được khả năng sản xuất và lưu trữ chất keo một cách đồng đều.",
+    "cauHoi": "Chất keo trong lòng các túi tuyến của một u tuyến tuyến giáp lành tính thường có hình ảnh vi thể ra sao?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Bắt màu hồng thuần nhất",
+        "dung": true,
+        "giaiThich": "Điều này phản ánh thành phần protein đồng nhất của chất keo được sản xuất bởi các tế bào u lành tính, biệt hóa tốt."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Loãng và chứa nhiều đại thực bào",
+        "dung": false,
+        "giaiThich": "Hình ảnh này gợi ý một quá trình viêm hoặc thoái hóa nang, điển hình hơn cho viêm tuyến giáp Hashimoto."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Chứa nhiều thể cát (psammoma bodies)",
+        "dung": false,
+        "giaiThich": "Thể cát là các cấu trúc vôi hóa hình lá hành, là một dấu hiệu mạnh mẽ của ung thư tuyến giáp thể nhú."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Có nhiều lỗ hút (không bào hấp thu)",
+        "dung": false,
+        "giaiThich": "Nhiều lỗ hút cho thấy hoạt động hấp thu hormon mạnh, thường thấy trong bệnh cường giáp (Basedow) hơn là u tuyến không có chức năng."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Đặc điểm nào sau đây giúp phân biệt rõ nhất một hang lao xơ (hang mạn tính) với một hang lao rỉ ướt (hang mới thành lập) về mặt đại thể?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Kích thước của hang lao.",
+        "dung": false,
+        "giaiThich": "Kích thước có thể thay đổi ở cả hai loại hang và không phải là yếu tố quyết định để phân biệt bản chất mạn tính hay cấp tính của hang. Một hang mới có thể lớn và một hang cũ có thể nhỏ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự hiện diện của chất hoại tử bã đậu trong lòng hang.",
+        "dung": false,
+        "giaiThich": "Cả hai loại hang đều có nguồn gốc từ hoại tử bã đậu. Hang rỉ ướt chứa đầy chất hoại tử bã đậu dạng lỏng hoặc sệt. Hang lao xơ, dù mặt trong đã nhẵn, vẫn có thể còn sót lại một ít hoặc không còn chất bã đậu, nhưng sự hiện diện đơn thuần của nó không phải là yếu tố phân biệt chính bằng thành hang."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Độ dày và độ cứng chắc của thành hang.",
+        "dung": true,
+        "giaiThich": "Đây là đặc điểm cốt lõi phản ánh bản chất của quá trình bệnh lý. Hang lao xơ là kết quả của một quá trình viêm mạn tính kéo dài, cơ thể đã có thời gian để phản ứng bằng cách huy động nguyên bào sợi và lắng đọng collagen, tạo ra một vách xơ dày, cứng chắc để khu trú tổn thương. Ngược lại, hang lao rỉ ướt là hang mới hình thành, quá trình xơ hóa chưa diễn ra hoặc rất ít, nên thành hang còn mỏng, mềm và nham nhở."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vị trí của hang lao ở thùy đỉnh phổi.",
+        "dung": false,
+        "giaiThich": "Lao thứ phát (bao gồm cả lao hang) thường khu trú ở đỉnh phổi do nồng độ oxy cao và tưới máu/dẫn lưu bạch huyết kém. Tuy nhiên, vị trí này là chung cho lao thứ phát, không dùng để phân biệt các giai đoạn khác nhau của một hang lao."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Hình ảnh đại thể phổi có nhiều hang nhỏ (đường kính < 1cm), nằm sát nhau, được ngăn cách bởi các vách xơ, tạo nên cấu trúc \"lỗ chỗ như ruột bánh mì\" phản ánh chính xác quá trình bệnh lý nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Lao kê cấp tính lan tràn theo đường máu.",
+        "dung": false,
+        "giaiThich": "Lao kê đặc trưng bởi vô số các hạt lao nhỏ (kích thước 1-2mm) màu trắng xám, rải đều khắp phổi, giống như hạt kê. Nó không tạo ra các hang lớn hay hình ảnh \"ruột bánh mì\"."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Lao thâm nhiễm hoại tử bã đậu lan rộng.",
+        "dung": false,
+        "giaiThich": "Đây là giai đoạn sớm hơn, đặc trưng bởi các vùng đông đặc phổi do thâm nhiễm viêm và hoại tử bã đậu, chưa hình thành các hang rõ rệt và các vách xơ dày."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Lao xơ hang mạn tính với sự tạo và xơ hóa nhiều hang nhỏ kế cận.",
+        "dung": true,
+        "giaiThich": "Mô tả \"lỗ chỗ như ruột bánh mì\" là hình ảnh kinh điển của lao xơ hang mạn tính giai đoạn nặng. Nó thể hiện một quá trình bệnh lý kéo dài: nhiều ổ lao nhỏ được hình thành, sau đó hoại tử, tạo hang, và quá trình xơ hóa diễn ra đồng thời, tạo ra các vách xơ ngăn cách giữa các hang. Đây là sự kết hợp của cả hai quá trình hủy hoại (tạo hang) và sửa chữa (xơ hóa) diễn ra song song và kéo dài."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Phế quản phế viêm do lao.",
+        "dung": false,
+        "giaiThich": "Tổn thương này đặc trưng bởi các ổ viêm mủ tập trung quanh các phế quản tận, thường không tạo ra hình ảnh nhiều hang nhỏ có vách xơ rõ rệt như mô tả."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Về mặt vi thể, thành phần nào trong nang lao điển hình có vai trò trực tiếp nhất trong việc \"xây dựng\" nên bức tường bao quanh và khu trú ổ hoại tử bã đậu?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tế bào khổng lồ Langhans.",
+        "dung": false,
+        "giaiThich": "Tế bào này được tạo thành do sự hợp nhất của nhiều tế bào bán liên/đại thực bào. Vai trò của chúng cũng là thực bào nhưng chúng nằm xen kẽ trong đám tế bào bán liên chứ không phải là thành phần chính tạo nên cấu trúc \"bức tường\"."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tế bào lympho.",
+        "dung": false,
+        "giaiThich": "Các tế bào lympho (chủ yếu là T-lympho) tạo thành một vành đai ở ngoại vi của nang lao, có vai trò quan trọng trong việc hoạt hóa đại thực bào (thông qua cytokine như IFN-γ) và duy trì đáp ứng miễn dịch, nhưng chúng không trực tiếp hình thành nên cấu trúc tường bao bọc."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tế bào bán liên (Epithelioid cells).",
+        "dung": true,
+        "giaiThich": "Tế bào bán liên là các đại thực bào đã được hoạt hóa và biến đổi, có hình dạng kéo dài, bào tương ái toan, nhân hình hạt đậu hoặc que. Chúng sắp xếp thành từng đám đặc, liên kết chặt chẽ với nhau, tạo thành một \"hàng rào\" vững chắc bao quanh trung tâm hoại tử bã đậu. Chính sự sắp xếp này là cấu trúc nền tảng của một nang lao (granuloma), có chức năng chính là \"nhốt\" vi khuẩn và các sản phẩm hoại tử, ngăn chúng lan rộng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Nguyên bào sợi.",
+        "dung": false,
+        "giaiThich": "Nguyên bào sợi chỉ xuất hiện ở vòng ngoài cùng của nang lao và tham gia vào quá trình xơ hóa, tạo nên vỏ xơ ở giai đoạn sau (giai đoạn lành sẹo hoặc mạn tính). Trong giai đoạn hình thành nang lao cấp tính, vai trò của chúng chưa nổi bật bằng tế bào bán liên."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Sự mất tính đàn hồi và xốp, đồng thời phổi trở nên chắc, biến dạng trong lao xơ hang là hậu quả trực tiếp của quá trình nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự tích tụ dịch viêm trong các phế nang.",
+        "dung": false,
+        "giaiThich": "Tích tụ dịch viêm (như trong viêm phổi) làm phổi đông đặc nhưng đây là một quá trình cấp tính và có thể hồi phục. Nó không gây ra sự biến dạng và mất đàn hồi vĩnh viễn như xơ hóa."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự lắng đọng lan tỏa chất hoại tử bã đậu.",
+        "dung": false,
+        "giaiThich": "Hoại tử bã đậu làm nhu mô phổi bị phá hủy, tạo thành một chất liệu mềm, dạng phô mai, không phải là nguyên nhân chính gây ra sự \"chắc\" và \"biến dạng\" do co kéo."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự thay thế nhu mô phổi bình thường bằng mô xơ.",
+        "dung": true,
+        "giaiThich": "Bản chất của quá trình \"xơ\" (fibrosis) là sự tăng sinh và lắng đọng quá mức của các sợi collagen và thành phần chất nền ngoại bào khác. Mô xơ này dày đặc, không có tính đàn hồi và không có chức năng trao đổi khí như nhu mô phổi bình thường (phế nang, mao mạch). Khi mô xơ thay thế một vùng lớn của phổi, nó làm cho phổi mất đi sự mềm mại, xốp, đàn hồi và trở nên cứng chắc, co kéo gây biến dạng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự giãn nở quá mức của các phế nang còn lại.",
+        "dung": false,
+        "giaiThich": "Quá trình này có thể xảy ra ở các vùng phổi lành xung quanh vùng xơ, nhưng nó làm phổi căng phồng hơn chứ không phải là nguyên nhân chính gây ra tình trạng \"chắc\" của vùng tổn thương."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Cơ chế bệnh sinh chính dẫn đến sự hình thành một hang lao là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Vi khuẩn lao trực tiếp tiết ra enzyme tiêu hủy nhu mô phổi.",
+        "dung": false,
+        "giaiThich": "Vi khuẩn lao không trực tiếp tiết enzyme tiêu hủy mô như một số vi khuẩn sinh mủ khác. Tổn thương mô trong bệnh lao chủ yếu là do phản ứng miễn dịch của vật chủ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Phản ứng quá mẫn của cơ thể gây hoại tử bã đậu, sau đó chất hoại tử hóa lỏng và được tống ra ngoài qua phế quản.",
+        "dung": true,
+        "giaiThich": "Đây là chuỗi sự kiện cốt lõi. Ban đầu, đáp ứng miễn dịch qua trung gian tế bào (phản ứng quá mẫn muộn type IV) chống lại vi khuẩn lao gây ra sự tập trung của các tế bào viêm và hình thành nang lao với trung tâm là hoại tử bã đậu. Tiếp theo, dưới tác động của các enzyme (từ đại thực bào, bạch cầu đa nhân), khối bã đậu này hóa lỏng. Khi hang thông với một đường dẫn khí (phế quản), áp lực khi ho sẽ tống xuất chất bã đậu lỏng ra ngoài, để lại một khoang rỗng, đó chính là hang lao."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự co kéo của các dải xơ làm rách nhu mô phổi.",
+        "dung": false,
+        "giaiThich": "Sự co kéo của dải xơ gây biến dạng phổi nhưng không phải là cơ chế chính tạo ra hang. Nó góp phần làm thay đổi hình dạng hang đã có sẵn."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tắc nghẽn mạch máu nuôi dưỡng gây nhồi máu và hoại tử.",
+        "dung": false,
+        "giaiThich": "Tắc nghẽn mạch máu có thể xảy ra nhưng không phải là cơ chế chính gây ra hoại tử bã đậu lan rộng và tạo hang điển hình trong bệnh lao."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Sự hiện diện của tế bào khổng lồ Langhans trong nang lao có ý nghĩa gì về mặt nguồn gốc tế bào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Là kết quả của sự phân chia không hoàn toàn của tế bào biểu mô phế nang.",
+        "dung": false,
+        "giaiThich": "Tế bào biểu mô phế nang không tham gia vào việc hình thành tế bào Langhans."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Là sự hợp nhất của nhiều tế bào lympho T để tăng cường khả năng miễn dịch.",
+        "dung": false,
+        "giaiThich": "Tế bào lympho là các tế bào miễn dịch riêng biệt, chúng điều khiển phản ứng nhưng không hợp nhất để tạo thành tế bào khổng lồ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Là sản phẩm của sự biệt hóa từ nguyên bào sợi trong quá trình xơ hóa.",
+        "dung": false,
+        "giaiThich": "Nguyên bào sợi có vai trò trong việc tạo ra mô liên kết (xơ), không liên quan đến nguồn gốc của tế bào Langhans."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Là kết quả của sự dung hợp nhiều đại thực bào/tế bào bán liên đã được hoạt hóa.",
+        "dung": true,
+        "giaiThich": "Tế bào khổng lồ Langhans là một đặc trưng của viêm hạt mạn tính, bao gồm cả lao. Chúng không phải là một loại tế bào riêng biệt mà được hình thành khi nhiều đại thực bào (hoặc dạng biệt hóa của chúng là tế bào bán liên) hợp nhất lại với nhau. Mục đích của sự hợp nhất này được cho là để tăng cường khả năng \"nuốt\" và xử lý những vật thể lớn mà một đại thực bào đơn lẻ không thể xử lý được, ví dụ như các mảnh vỡ tế bào lớn hoặc các cụm vi khuẩn."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Trên vi thể, vùng hoại tử bã đậu điển hình được nhận diện bởi đặc điểm nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Một đám đông đặc các bạch cầu đa nhân trung tính đã thoái hóa.",
+        "dung": false,
+        "giaiThich": "Đám bạch cầu đa nhân trung tính là đặc trưng của hoại tử mủ (viêm mủ), không phải hoại tử bã đậu."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Một cấu trúc dạng dịch, chứa nhiều huyết tương và sợi fibrin.",
+        "dung": false,
+        "giaiThich": "Cấu trúc dạng dịch chứa fibrin là đặc trưng của dịch rỉ viêm hoặc hoại tử tơ huyết (fibrinoid necrosis)."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Một khu vực vô định hình, ái toan, không còn thấy rõ cấu trúc và nhân tế bào.",
+        "dung": true,
+        "giaiThich": "\"Bã đậu\" (caseous) có nghĩa là \"giống như phô mai\". Trên vi thể, đặc điểm này được thể hiện bằng sự phá hủy hoàn toàn cấu trúc mô bình thường. Các tế bào chết đi nhưng không bị hóa lỏng ngay lập tức, chúng để lại một khối mảnh vụn vô định hình, không có nhân, không có ranh giới tế bào rõ rệt. Khi nhuộm H&E, khu vực này bắt màu hồng của eosin (ái toan) và có dạng hạt mịn."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Một vùng chứa đầy các đại thực bào ứ đọng lipid (tế bào bọt).",
+        "dung": false,
+        "giaiThich": "Đại thực bào ứ đọng lipid thường thấy trong các tổn thương khác như xơ vữa động mạch hoặc viêm phổi ứ lipid, không phải là hình ảnh điển hình của hoại tử bã đậu trong lao."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Trong một tổn thương lao phổi, việc quan sát thấy một vỏ xơ dày bao bọc hoàn toàn một nốt hoại tử bã đậu nhỏ cho thấy điều gì về diễn tiến của bệnh?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Bệnh đang ở giai đoạn hoạt động mạnh, lan tràn nhanh.",
+        "dung": false,
+        "giaiThich": "Giai đoạn hoạt động mạnh sẽ đặc trưng bởi hoại tử bã đậu lan rộng, hóa lỏng và ít có sự hình thành xơ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Đáp ứng miễn dịch của cơ thể đang rất yếu kém.",
+        "dung": false,
+        "giaiThich": "Đáp ứng miễn dịch yếu kém sẽ không thể tạo ra một phản ứng viêm hạt hiệu quả và quá trình xơ hóa cũng sẽ kém, dẫn đến tổn thương lan rộng không kiểm soát."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tổn thương đang trong quá trình được khu trú, giới hạn và có xu hướng lành sẹo.",
+        "dung": true,
+        "giaiThich": "Sự hình thành một vỏ xơ dày (fibrous capsule) là một cơ chế phòng vệ và sửa chữa của cơ thể. Nó cho thấy đáp ứng miễn dịch đã thành công trong việc \"cầm chân\" vi khuẩn trong nang lao, và cơ thể đang tiến hành \"xây tường\" (xơ hóa) để cô lập hoàn toàn ổ nhiễm trùng. Đây là một dấu hiệu của sự ổn định hoặc thoái lui của tổn thương, hay còn gọi là quá trình lành bệnh bằng sẹo xơ."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vi khuẩn lao đã kháng lại tất cả các loại thuốc điều trị.",
+        "dung": false,
+        "giaiThich": "Tình trạng kháng thuốc là một khái niệm vi sinh và lâm sàng, không thể được xác định chỉ bằng hình ảnh giải phẫu bệnh của một nốt lao đơn lẻ. Một tổn thương đang lành sẹo vẫn có thể chứa vi khuẩn lao tiềm tàng."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Biến chứng ho ra máu trong lao xơ hang thường được giải thích bằng cơ chế giải phẫu bệnh nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự vỡ của các mao mạch trong vách phế nang do viêm.",
+        "dung": false,
+        "giaiThich": "Vỡ mao mạch phế nang chỉ gây ho ra máu lượng ít, dạng lờ lờ máu cá hoặc vướng máu trong đờm, không giải thích được các trường hợp ho ra máu nặng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự tăng áp lực động mạch phổi thứ phát.",
+        "dung": false,
+        "giaiThich": "Tăng áp lực động mạch phổi là một biến chứng lâu dài, gây suy tim phải, không phải là nguyên nhân trực tiếp gây ho ra máu ồ ạt."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự ăn mòn và vỡ của một nhánh động mạch phế quản trong thành hang lao (phình mạch Rasmussen).",
+        "dung": true,
+        "giaiThich": "Thành của một hang lao mạn tính vẫn có các mạch máu đi qua, đặc biệt là các nhánh của động mạch phế quản. Quá trình viêm và hoại tử mạn tính trong thành hang có thể làm yếu đi thành mạch máu này, gây giãn ra tạo thành một túi phình (gọi là phình mạch Rasmussen). Túi phình này có thành mỏng, dễ vỡ, đặc biệt khi có sự thay đổi áp lực (như ho mạnh), gây chảy máu ồ ạt vào lòng hang và dẫn đến triệu chứng ho ra máu sét đánh, có thể gây tử vong."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự chảy máu từ mô hạt viêm tăng sinh trong lòng hang.",
+        "dung": false,
+        "giaiThich": "Chảy máu từ mô hạt viêm cũng chỉ gây chảy máu rỉ rả, lượng ít."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Yếu tố nào sau đây KHÔNG phải là một thành phần cấu tạo điển hình của một nang lao (granuloma) đang hoạt động?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tế bào bán liên.",
+        "dung": false,
+        "giaiThich": "Tế bào bán liên là thành phần kinh điển của một nang lao, tạo thành hàng rào bao quanh hoại tử."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Vùng hoại tử bã đậu trung tâm.",
+        "dung": false,
+        "giaiThich": "Vùng hoại tử bã đậu là đặc điểm trung tâm của nang lao đang hoạt động."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tế bào biểu mô phế nang còn nguyên vẹn.",
+        "dung": true,
+        "giaiThich": "Nang lao là một cấu trúc viêm phá hủy và thay thế nhu mô phổi bình thường. Do đó, tại vị trí hình thành nang lao, các cấu trúc bình thường như phế nang (bao gồm cả tế bào biểu mô phế nang) đã bị phá hủy hoàn toàn và được thay thế bởi các tế bào viêm và chất hoại tử. Sự hiện diện của tế bào biểu mô phế nang nguyên vẹn cho thấy đó là vùng phổi lành."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vành đai lympho bào ở ngoại vi.",
+        "dung": false,
+        "giaiThich": "Vành đai lympho bào là thành phần quan trọng ở ngoại vi nang lao, có vai trò điều hòa miễn dịch."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Vai trò chính của vành đai lympho bào ở ngoại vi nang lao là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Trực tiếp thực bào vi khuẩn lao.",
+        "dung": false,
+        "giaiThich": "Lympho bào không có chức năng thực bào trực tiếp; đó là vai trò của đại thực bào."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Biệt hóa thành nguyên bào sợi để tạo vỏ xơ.",
+        "dung": false,
+        "giaiThich": "Nguyên bào sợi là một loại tế bào riêng biệt, không phải do lympho bào biệt hóa thành."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tiết ra các cytokine để duy trì sự hoạt hóa của đại thực bào và điều hòa đáp ứng miễn dịch.",
+        "dung": true,
+        "giaiThich": "Vành đai này chủ yếu là các tế bào lympho T, đặc biệt là T helper 1 (Th1). Vai trò sống còn của chúng là sản xuất ra interferon-gamma (IFN-γ), một cytokine cực kỳ quan trọng có tác dụng \"đánh thức\" và hoạt hóa các đại thực bào, giúp chúng tăng cường khả năng tiêu diệt vi khuẩn lao nội bào. Nếu không có vai trò điều hòa này của lympho bào, các đại thực bào sẽ không thể kiểm soát được vi khuẩn và tổn thương sẽ lan rộng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Hình thành một hàng rào vật lý ngăn chặn sự lan rộng của chất hoại tử.",
+        "dung": false,
+        "giaiThich": "Hàng rào vật lý được tạo ra chủ yếu bởi lớp tế bào bán liên xếp sít nhau."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "So với \"hang lao rỉ ướt\", mặt trong của \"hang lao xơ\" thường nhẵn hơn là vì:",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Dòng khí lưu thông trong hang đã bào mòn các chỗ lồi lõm.",
+        "dung": false,
+        "giaiThich": "Dòng khí không đủ sức để bào mòn thành hang đến mức nhẵn."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Lớp hoại tử bã đậu đã được dọn sạch và thay thế bằng một lớp mô xơ hoặc biểu mô hóa.",
+        "dung": true,
+        "giaiThich": "\"Nhẵn\" là một đặc điểm của sự mạn tính và quá trình sửa chữa. Trong hang lao xơ, quá trình viêm cấp tính đã giảm đi. Các mảnh vụn hoại tử bã đậu ở thành hang đã được các đại thực bào dọn dẹp hoặc bị tống ra ngoài. Bề mặt bên trong của thành hang sau đó được \"lót\" lại bởi một lớp mô liên kết xơ, hoặc trong một số trường hợp hiếm hơn, các tế bào biểu mô từ phế quản lân cận có thể bò vào và \"biểu mô hóa\" một phần bề mặt hang, làm cho nó trở nên nhẵn nhụi."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Áp lực bên trong hang cao hơn làm cho thành hang căng ra.",
+        "dung": false,
+        "giaiThich": "Áp lực trong hang không phải là yếu tố quyết định độ nhẵn của bề mặt."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Vi khuẩn lao đã bị tiêu diệt hoàn toàn nên không còn phản ứng viêm.",
+        "dung": false,
+        "giaiThich": "Vi khuẩn lao có thể vẫn còn tồn tại ở dạng tiềm tàng trong thành hang xơ, dù phản ứng viêm đã giảm. Sự nhẵn là do thay đổi cấu trúc mô học."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Sự khác biệt cơ bản về mặt mô bệnh học giữa lao kê và lao xơ hang là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Lao kê không có hoại tử bã đậu, còn lao xơ hang thì có.",
+        "dung": false,
+        "giaiThich": "Lao kê vẫn có các nang lao với hoại tử bã đậu ở trung tâm, mặc dù chúng rất nhỏ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Lao kê là tổn thương lan tràn theo đường máu tạo các nốt nhỏ, còn lao xơ hang là tổn thương khu trú tạo hang lớn và xơ hóa.",
+        "dung": true,
+        "giaiThich": "Đây là sự khác biệt cốt lõi về cơ chế bệnh sinh và hình thái tổn thương. Lao kê (miliary TB) là kết quả của việc vi khuẩn lao ồ ạt xâm nhập vào hệ tuần hoàn và gieo rắc đến khắp các cơ quan, tạo ra vô số các nang lao nhỏ li ti (1-2mm) phân bố đồng đều. Lao xơ hang là một thể lao thứ phát, mạn tính, tổn thương thường khu trú ở một vùng của phổi (thường là đỉnh), đặc trưng bởi sự phá hủy nhu mô tạo hang lớn và phản ứng xơ hóa mạnh mẽ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tế bào khổng lồ Langhans chỉ có trong lao xơ hang.",
+        "dung": false,
+        "giaiThich": "Tế bào khổng lồ Langhans có thể được tìm thấy trong cả hai thể lao, vì chúng là một phần của phản ứng viêm hạt."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Lao kê chỉ xảy ra ở trẻ em, còn lao xơ hang chỉ xảy ra ở người lớn.",
+        "dung": false,
+        "giaiThich": "Lao kê có thể xảy ra ở cả trẻ em và người lớn (đặc biệt là người suy giảm miễn dịch). Lao xơ hang chủ yếu gặp ở người lớn nhưng không phải là tuyệt đối."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "tinhHuong": "Câu hỏi kiến thức Giải phẫu bệnh Lao phổi",
+    "cauHoi": "Việc điều trị không hiệu quả một tổn thương lao thâm nhiễm ở thùy đỉnh có khả năng cao nhất sẽ dẫn đến hình thái giải phẫu bệnh nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tổn thương tự khỏi và vôi hóa.",
+        "dung": false,
+        "giaiThich": "Tự khỏi và vôi hóa chỉ xảy ra khi hệ miễn dịch của cơ thể rất mạnh và/hoặc được điều trị hiệu quả."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tiến triển thành lao xơ hang.",
+        "dung": true,
+        "giaiThich": "Đây là con đường tiến triển tự nhiên của lao thứ phát nếu không được kiểm soát. Lao thâm nhiễm là giai đoạn đầu của lao thứ phát, đặc trưng bởi một vùng đông đặc do viêm. Nếu không điều trị, phản ứng miễn dịch sẽ tiếp tục gây hoại tử bã đậu ở trung tâm vùng thâm nhiễm. Chất hoại tử này sau đó hóa lỏng và được tống ra ngoài qua phế quản, để lại một hang. Quá trình viêm mạn tính kéo dài sẽ kích thích xơ hóa, làm dày thành hang và các mô xung quanh. Chuỗi sự kiện này chính là sự hình thành của một tổn thương lao xơ hang."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Lan tràn toàn thân thành lao kê.",
+        "dung": false,
+        "giaiThich": "Lan tràn thành lao kê xảy ra khi vi khuẩn xâm nhập ồ ạt vào đường máu, đây là một con đường tiến triển khác, ít phổ biến hơn so với tiến triển tại chỗ thành lao hang."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Gây ra phức hợp Ghon nguyên phát.",
+        "dung": false,
+        "giaiThich": "Phức hợp Ghon là tổn thương của lao sơ nhiễm (lao nguyên phát), bao gồm một nốt tổn thương ở nhu mô và viêm hạch rốn phổi, không phải là diễn tiến của lao thâm nhiễm thứ phát."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "tinhHuong": "Tình huống câu hỏi 1",
+    "cauHoi": "Đặc điểm tổn thương cơ bản nhất trong viêm phế quản phổi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tổn thương đồng nhất và lan tỏa toàn bộ một thùy phổi.",
+        "dung": false,
+        "giaiThich": "Mô tả này phù hợp hơn với viêm phổi thùy, không phải viêm phế quản phổi, vốn có tổn thương không đồng nhất."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tổn thương khu trú thành từng ổ không thuần nhất, xen kẽ với mô phổi lành.",
+        "dung": true,
+        "giaiThich": "Đây chính là định nghĩa và đặc điểm cốt lõi của viêm phế quản phổi, phân biệt nó với các loại viêm phổi khác."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tổn thương chỉ giới hạn ở các phế quản lớn, không ảnh hưởng đến phế nang.",
+        "dung": false,
+        "giaiThich": "Bệnh này ảnh hưởng đến cả phế quản và các phế nang xung quanh (phế quản phế viêm), không chỉ giới hạn ở phế quản."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tổn thương luôn dẫn đến hình thành các ổ áp xe lớn.",
+        "dung": false,
+        "giaiThich": "Hóa mủ có thể xảy ra nhưng không phải là đặc điểm luôn có và không phải là tổn thương cơ bản nhất."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "tinhHuong": "Tình huống câu hỏi 2",
+    "cauHoi": "Khi kiểm tra đại thể, một ổ tổn thương cũ trong viêm phế quản phổi khi cắt bỏ và thả vào nước sẽ có hiện tượng gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Nổi lơ lửng trên mặt nước.",
+        "dung": false,
+        "giaiThich": "Hiện tượng này xảy ra với các ổ tổn thương mới, nơi vẫn còn chứa một ít khí bên trong."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Chìm hẳn xuống đáy.",
+        "dung": true,
+        "giaiThich": "Ổ tổn thương cũ đã đặc lại, mất tính chất xốp và không còn chứa khí, do đó nó sẽ chìm."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tan ra ngay lập tức trong nước.",
+        "dung": false,
+        "giaiThich": "Mô phổi đặc lại chứ không dễ dàng tan rã trong nước."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sủi bọt khí mạnh.",
+        "dung": false,
+        "giaiThich": "Ổ tổn thương cũ đã mất khí, trong khi ổ mới có thể còn ít khí nhưng không đủ để sủi bọt mạnh."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "tinhHuong": "Tình huống câu hỏi 3",
+    "cauHoi": "Trên hình ảnh vi thể, cấu trúc điển hình của viêm phế quản phổi được gọi là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Hạt lao Ghon.",
+        "dung": false,
+        "giaiThich": "Đây là tổn thương đặc trưng trong bệnh lao phổi, không phải viêm phế quản phổi."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Màng hyalin.",
+        "dung": false,
+        "giaiThich": "Màng hyalin là đặc điểm của bệnh màng trong ở trẻ sơ sinh hoặc hội chứng suy hô hấp cấp tiến triển (ARDS)."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Hạt quanh phế quản Charcot - Rindfleisch.",
+        "dung": true,
+        "giaiThich": "Đây chính là hình thái vi thể điển hình, với trung tâm là phế quản viêm mủ và các phản ứng viêm phế nang xung quanh."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tổ chức hạt hóa.",
+        "dung": false,
+        "giaiThich": "Tổ chức hạt hóa là quá trình sửa chữa, lành sẹo của mô, không phải là tổn thương viêm cấp điển hình."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "tinhHuong": "Tình huống câu hỏi 4",
+    "cauHoi": "Trong cấu trúc vi thể điển hình của viêm phế quản phổi, vùng viêm nặng nhất (như viêm phế nang chảy máu, viêm mủ) nằm ở đâu?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ở vùng ngoại vi xa nhất của tổn thương.",
+        "dung": false,
+        "giaiThich": "Vùng xa nhất là nơi phản ứng viêm nhẹ nhất, thường là viêm phế nang nước hoặc long."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Nằm xen kẽ ngẫu nhiên với mô phổi lành.",
+        "dung": false,
+        "giaiThich": "Tổn thương có quy luật phân bố theo mức độ nặng nhẹ từ trung tâm ra ngoại vi, không phải ngẫu nhiên."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Chỉ nằm bên trong lòng phế quản.",
+        "dung": false,
+        "giaiThich": "Viêm mủ có trong lòng phế quản, nhưng phản ứng viêm phế nang nặng nhất xảy ra ở các phế nang ngay sát vách phế quản đó."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ở những phế nang nằm gần với phế quản viêm mủ trung tâm.",
+        "dung": true,
+        "giaiThich": "Do tổn thương lan tỏa từ phế quản viêm mủ ra xung quanh, các phế nang kế cận sẽ chịu ảnh hưởng nặng nề nhất."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "tinhHuong": "Tình huống câu hỏi 5",
+    "cauHoi": "Đối tượng nào sau đây thường có triệu chứng lâm sàng rầm rộ, cấp tính và có thể bị ngụy trang bởi hội chứng não - màng não khi bị viêm phế quản phổi?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Trẻ có cơ địa yếu, suy dinh dưỡng.",
+        "dung": false,
+        "giaiThich": "Trẻ có cơ địa yếu thường có triệu chứng nghèo nàn mặc dù tổn thương phổi có thể rất nặng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Người cao tuổi mắc nhiều bệnh nền.",
+        "dung": false,
+        "giaiThich": "Tương tự trẻ suy dinh dưỡng, người cao tuổi và có bệnh nền cũng có thể có các triệu chứng không điển hình hoặc nghèo nàn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Trẻ khỏe mạnh, bụ bẫm.",
+        "dung": true,
+        "giaiThich": "Ở trẻ khỏe mạnh, phản ứng của cơ thể thường mạnh mẽ và rầm rộ, đôi khi gây ra các triệu chứng thần kinh."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Bệnh nhân ung thư giai đoạn cuối.",
+        "dung": false,
+        "giaiThich": "Bệnh nhân suy kiệt do ung thư thường có phản ứng miễn dịch yếu, dẫn đến các triệu chứng lâm sàng không rầm rộ."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "tinhHuong": "Tình huống câu hỏi 6",
+    "cauHoi": "Đặc điểm nào sau đây KHÔNG phải là đặc điểm đại thể của phổi trong bệnh viêm phế quản phổi?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Phổi sưng to, có hằn xương sườn.",
+        "dung": false,
+        "giaiThich": "Đây là một đặc điểm được mô tả, cho thấy tình trạng viêm và phù nề của phổi."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Bề mặt có màu sắc loang lổ, chỗ đỏ, chỗ trắng vàng.",
+        "dung": false,
+        "giaiThich": "Màu sắc loang lổ là đặc trưng do các ổ viêm ở các giai đoạn khác nhau xen kẽ mô lành."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Khi nắn thấy các ổ chắc đặc xen kẽ vùng còn xốp.",
+        "dung": false,
+        "giaiThich": "Đây là mô tả chính xác về tính chất không đồng đều của tổn thương khi sờ nắn."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Toàn bộ một thùy phổi có màu đỏ đồng nhất và đặc như gan.",
+        "dung": true,
+        "giaiThich": "Đặc điểm này mô tả giai đoạn gan hóa đỏ trong viêm phổi thùy, không phải viêm phế quản phổi."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "tinhHuong": "Tình huống câu hỏi 7",
+    "cauHoi": "Dấu hiệu lâm sàng nào có thể nghe được bằng ống nghe ở bệnh nhân viêm phế quản phổi?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tiếng thổi ống.",
+        "dung": false,
+        "giaiThich": "Tiếng thổi ống là dấu hiệu của hội chứng đông đặc phổi điển hình trong viêm phổi thùy."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ran nổ nhỏ hạt.",
+        "dung": true,
+        "giaiThich": "Ran nổ nhỏ hạt ở đáy và rốn phổi là dấu hiệu bệnh lý đặc trưng khi nghe phổi ở bệnh nhân viêm phế quản phổi."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tiếng cọ màng phổi.",
+        "dung": false,
+        "giaiThich": "Tiếng cọ màng phổi cho thấy tình trạng viêm của màng phổi, có thể có nhưng không phải dấu hiệu đặc trưng nhất."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Rì rào phế nang giảm hoặc mất hoàn toàn.",
+        "dung": false,
+        "giaiThich": "Dấu hiệu này thường gặp trong tràn dịch hoặc tràn khí màng phổi, không phải là âm thanh đặc trưng của viêm phế quản phổi."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "tinhHuong": "Tình huống câu hỏi 8",
+    "cauHoi": "Yếu tố nào trong lòng phế quản nhỏ chiếm ưu thế và góp phần làm giảm thông khí phổi trong viêm phế quản phổi?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự co thắt của cơ trơn phế quản.",
+        "dung": false,
+        "giaiThich": "Mặc dù có thể có phản ứng co thắt, nhưng văn bản nhấn mạnh một yếu tố khác gây bít tắc."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự tăng sinh của biểu mô phế quản.",
+        "dung": false,
+        "giaiThich": "Văn bản mô tả hiện tượng long và bong tróc biểu mô, chứ không phải tăng sinh."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự tiết dịch nhầy.",
+        "dung": true,
+        "giaiThich": "Theo văn bản, 'tiết dịch chiếm ưu thế làm giảm thông khí phổi', gây tắc nghẽn đường thở nhỏ."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự hình thành các cục máu đông.",
+        "dung": false,
+        "giaiThich": "Văn bản đề cập đến dịch rỉ viêm và tơ huyết, nhưng nhấn mạnh dịch tiết nhầy là yếu tố chiếm ưu thế gây giảm thông khí."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "tinhHuong": "Tình huống câu hỏi 9",
+    "cauHoi": "Các ổ tổn thương trong viêm phế quản phổi thường tập trung nhiều nhất ở đâu?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ở đỉnh của cả hai phổi.",
+        "dung": false,
+        "giaiThich": "Đỉnh phổi là vị trí thường gặp của tổn thương lao, không phải là vị trí tập trung của viêm phế quản phổi."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Chỉ ở một bên phổi, thường là phổi phải.",
+        "dung": false,
+        "giaiThich": "Văn bản nêu rõ tổn thương thường thấy ở cả hai phổi."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ở hai bên cột sống và hai thùy đáy.",
+        "dung": true,
+        "giaiThich": "Đây là vị trí phân bố điển hình được mô tả trong bài, có thể liên quan đến tư thế và trọng lực."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tập trung quanh rốn phổi.",
+        "dung": false,
+        "giaiThich": "Mặc dù các ổ tổn thương có đỉnh hướng về rốn phổi, nhưng chúng tập trung nhiều ở vùng đáy và cạnh cột sống."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "tinhHuong": "Tình huống câu hỏi 10",
+    "cauHoi": "Viêm phế quản phổi thể tập trung (giả thùy) có nghĩa là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Các ổ tổn thương tập trung ở một phần của phổi.",
+        "dung": true,
+        "giaiThich": "Điều này đúng với định nghĩa, khi các ổ viêm nhỏ hợp lại ở một khu vực, tạo ra hình ảnh giống như viêm phổi thùy."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Bệnh chỉ ảnh hưởng đến một thùy phổi duy nhất.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của viêm phổi thùy thật sự, còn thể 'giả thùy' là do nhiều ổ nhỏ hợp lại."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tổn thương chỉ tập trung ở các phế quản, không có viêm phế nang.",
+        "dung": false,
+        "giaiThich": "Thể bệnh này vẫn có bản chất là viêm cả phế quản và phế nang, chỉ khác về sự phân bố."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Bệnh gây ra bởi một loại vi khuẩn tập trung duy nhất.",
+        "dung": false,
+        "giaiThich": "Viêm phế quản phổi thường do nhiều loại vi trùng phối hợp, không liên quan đến tên gọi của thể bệnh này."
+      }
+    ]
+  }
+]
