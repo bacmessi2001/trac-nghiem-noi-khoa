@@ -3160,6 +3160,624 @@
         "giaiThich": "T4b là khi u xâm nhập trực tiếp vào các cơ quan hoặc cấu trúc lân cận. Thủng tạng có thể xảy ra nhưng không phải là định nghĩa của T4b."
       }
     ]
+  },
+  {
+    "id": 103,
+    "tinhHuong": "Hãy nghĩ về hình dạng của một chiếc nhẫn có mặt đá.",
+    "cauHoi": "Về mặt mô học, đặc điểm nào là dấu hiệu nhận biết của ung thư biểu mô tế bào nhẫn (Signet ring cell carcinoma)?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tế bào chứa đầy chất nhầy nội bào, đẩy lệch nhân ra ngoại vi.",
+        "dung": true,
+        "giaiThich": "Đây là đặc điểm kinh điển tạo nên hình ảnh 'tế bào nhẫn', với chất nhầy là 'vòng nhẫn' và nhân tế bào bị ép dẹt là 'mặt đá'."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự hiện diện của các hồ chất nhầy lớn bên ngoài tế bào.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của ung thư biểu mô tuyến nhầy (Mucinous Adenocarcinoma), không phải tế bào nhẫn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Các tế bào nhỏ với chất nhiễm sắc dạng 'muối tiêu'.",
+        "dung": false,
+        "giaiThich": "Đặc điểm này thuộc về ung thư biểu mô tế bào nhỏ (Small cell Carcinoma), một loại ung thư thần kinh nội tiết."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Các đám tế bào hợp bào với sự xâm nhập dày đặc của lympho bào.",
+        "dung": false,
+        "giaiThich": "Mô tả này phù hợp với ung thư biểu mô tủy (Medullary Carcinoma)."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "tinhHuong": "Tên của loại ung thư này đã gợi ý về thành phần chính chiếm ưu thế trong khối u.",
+    "cauHoi": "Yếu tố nào sau đây là đặc trưng chính để chẩn đoán ung thư biểu mô tuyến nhầy (Mucinous Adenocarcinoma) về mặt vi thể?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Hơn 50% thể tích khối u là các hồ chất nhầy ngoại bào.",
+        "dung": true,
+        "giaiThich": "Theo định nghĩa, chẩn đoán ung thư biểu mô tuyến nhầy được đặt ra khi chất nhầy bên ngoài tế bào chiếm một tỷ lệ lớn trong khối u."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tất cả các tế bào ung thư đều sản xuất chất nhầy bên trong.",
+        "dung": false,
+        "giaiThich": "Việc sản xuất chất nhầy bên trong tế bào là đặc trưng của ung thư biểu mô tế bào nhẫn."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Các cấu trúc tuyến được biệt hóa cao và rõ ràng.",
+        "dung": false,
+        "giaiThich": "Trong ung thư biểu mô tuyến nhầy, các tế bào hoặc cụm tế bào ung thư thường trôi nổi trong hồ nhầy và cấu trúc tuyến có thể không rõ ràng."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Không có sự hình thành cấu trúc tuyến.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của ung thư không biệt hóa, trong khi ung thư biểu mô tuyến nhầy vẫn có nguồn gốc từ tế bào tuyến."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "tinhHuong": "Hãy tìm một đặc điểm liên quan đến hệ miễn dịch phản ứng với khối u.",
+    "cauHoi": "Đặc điểm mô học nào thường đi kèm với ung thư biểu mô tủy (Medullary Carcinoma) và gợi ý đến sự bất ổn định vi vệ tinh (MSI-H)?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Sự xâm nhập dày đặc của các tế bào lympho vào trong khối u.",
+        "dung": true,
+        "giaiThich": "Sự hiện diện của nhiều lympho bào (tumor-infiltrating lymphocytes) là một dấu hiệu đặc trưng của ung thư biểu mô tủy và thường liên quan đến tình trạng MSI-H."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Sự hoại tử rộng lớn ở trung tâm khối u.",
+        "dung": false,
+        "giaiThich": "Hoại tử có thể gặp ở nhiều loại ung thư phát triển nhanh, không phải là dấu hiệu đặc hiệu cho ung thư biểu mô tủy."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự hình thành các cấu trúc nhú phức tạp.",
+        "dung": false,
+        "giaiThich": "Cấu trúc nhú không phải là đặc điểm điển hình của ung thư biểu mô tủy, vốn có xu hướng phát triển thành các dải, đám đặc."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự vắng mặt hoàn toàn của các tế bào viêm.",
+        "dung": false,
+        "giaiThich": "Điều này trái ngược với đặc điểm mô học điển hình của ung thư biểu mô tủy, vốn có sự xâm nhập viêm nổi bật."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "tinhHuong": "Hãy tìm mô tả về một thể làm hẹp lòng trực tràng nhưng không có vết loét trên bề mặt.",
+    "cauHoi": "Đặc điểm nào mô tả đúng nhất 'Thể thâm nhiễm cứng' ở dạng đại thể?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Đoạn trực tràng dày, cứng, gây hẹp nhưng không bị loét bề mặt.",
+        "dung": true,
+        "giaiThich": "Mô tả này khớp chính xác với những gì văn bản nói về thể thâm nhiễm cứng."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Khối u sùi vào lòng trực tràng và thường bị loét ở giữa.",
+        "dung": false,
+        "giaiThich": "Đây là mô tả của 'Thể u sùi', không phải thể thâm nhiễm cứng."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Loét có bờ cao, đáy gồ ghề và dễ chảy máu.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của 'Thể loét sùi'."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tổn thương loét nổi lên và thâm nhiễm ra xung quanh.",
+        "dung": false,
+        "giaiThich": "Mô tả này thuộc về 'Thể loét thâm nhiễm cứng'."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "tinhHuong": "Loại ung thư này tương tự như ở phổi, có nguồn gốc thần kinh và diễn tiến rất nhanh.",
+    "cauHoi": "Ung thư biểu mô tế bào nhỏ (Small cell Carcinoma) ở trực tràng có nguồn gốc từ loại tế bào nào và thường có tiên lượng ra sao?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Nguồn gốc từ tế bào thần kinh nội tiết và có tiên lượng rất xấu.",
+        "dung": true,
+        "giaiThich": "Đây là một loại ung thư thần kinh nội tiết độ ác tính cao, phát triển nhanh và di căn sớm, do đó tiên lượng thường rất xấu."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Nguồn gốc từ tế bào biểu mô vảy và có tiên lượng trung bình.",
+        "dung": false,
+        "giaiThich": "Ung thư biểu mô tế bào nhỏ không có nguồn gốc từ tế bào vảy và tiên lượng của nó thường rất xấu chứ không phải trung bình."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Nguồn gốc từ tế bào biểu mô tuyến và có tiên lượng tốt.",
+        "dung": false,
+        "giaiThich": "Mặc dù ở trong lòng ruột, nó không xuất phát từ tế bào tuyến điển hình và tiên lượng của nó là một trong những loại xấu nhất."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Nguồn gốc từ tế bào lympho và có tiên lượng thay đổi.",
+        "dung": false,
+        "giaiThich": "Đây là một loại carcinoma (ung thư biểu mô), không phải lymphoma (ung thư mô lympho)."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "tinhHuong": "Vùng trung tâm của một khối u phát triển nhanh thường bị thiếu nguồn cung cấp.",
+    "cauHoi": "Về mặt mô học, vùng trung tâm bị loét của ung thư trực tràng 'Thể loét sùi' thường có đặc điểm gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Hoại tử, mảnh vụn tế bào và sự xâm nhập của tế bào viêm.",
+        "dung": true,
+        "giaiThich": "Sự phát triển nhanh của khối u vượt quá nguồn cung cấp máu, dẫn đến chết tế bào (hoại tử) và phản ứng viêm ở vùng trung tâm bị loét."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Các cấu trúc tuyến ung thư được biệt hóa rất cao.",
+        "dung": false,
+        "giaiThich": "Vùng loét là nơi các tế bào đã chết và phân rã, không phải là nơi có các cấu trúc được bảo tồn tốt."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Sự tăng sinh dày đặc của các mạch máu tân tạo.",
+        "dung": false,
+        "giaiThich": "Mặc dù khối u có tăng sinh mạch, vùng trung tâm loét thường là do thiếu máu nuôi, không phải tăng sinh mạch."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự lắng đọng của chất nhầy ngoại bào tinh khiết.",
+        "dung": false,
+        "giaiThich": "Lắng đọng chất nhầy là đặc điểm của ung thư tuyến nhầy, không phải là đặc trưng của vùng loét ở thể loét sùi."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "tinhHuong": "Từ 'không biệt hóa' cho thấy các tế bào đã mất đi đặc tính gì.",
+    "cauHoi": "Ung thư biểu mô không biệt hóa (Undifferentiated Carcinoma) có tiên lượng rất xấu vì lý do mô học chính nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Các tế bào ung thư hoàn toàn không tạo ra cấu trúc tuyến hoặc đặc điểm nhận dạng nào.",
+        "dung": true,
+        "giaiThich": "Sự mất biệt hóa hoàn toàn cho thấy các tế bào đã mất kiểm soát, có khả năng phát triển và xâm lấn rất mạnh mẽ."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Các tế bào phát triển rất chậm nhưng kháng lại hóa trị.",
+        "dung": false,
+        "giaiThich": "Tế bào không biệt hóa thường phát triển rất nhanh, không phải chậm."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Khối u luôn được bao bọc bởi một lớp vỏ xơ dày.",
+        "dung": false,
+        "giaiThich": "Ung thư không biệt hóa có xu hướng xâm lấn mạnh ra xung quanh thay vì được bao bọc."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Khối u gây ra phản ứng miễn dịch rất mạnh từ cơ thể.",
+        "dung": false,
+        "giaiThich": "Mặc dù có thể có phản ứng viêm, nhưng lý do chính cho tiên lượng xấu là bản chất hung hăng của chính các tế bào ung thư."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "tinhHuong": "Một khối u phát triển lồi vào trong lòng ống có thể ít xâm lấn sâu hơn lúc đầu so với một khối u lan rộng trong thành ống.",
+    "cauHoi": "So với các thể thâm nhiễm, đặc điểm mô học của 'Thể u sùi' thường cho thấy điều gì về mức độ biệt hóa và xu hướng phát triển ban đầu?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Thường có độ biệt hóa cao hơn và xu hướng phát triển lồi vào lòng trực tràng.",
+        "dung": true,
+        "giaiThich": "Thể u sùi thường có cấu trúc tuyến rõ hơn (biệt hóa cao hơn) và phát triển chủ yếu vào trong lòng ruột trước khi xâm lấn sâu, đôi khi mang lại tiên lượng tốt hơn."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Luôn kém biệt hóa và có xu hướng xâm lấn mạch máu sớm.",
+        "dung": false,
+        "giaiThich": "Thể u sùi thường có độ biệt hóa cao hơn, không phải luôn kém biệt hóa."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Không có tiềm năng xâm lấn vào lớp cơ của thành ruột.",
+        "dung": false,
+        "giaiThich": "Mọi loại ung thư xâm lấn đều có tiềm năng này, dù xu hướng ban đầu có thể khác nhau."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Có độ biệt hóa thấp và luôn chứa các tế bào nhẫn.",
+        "dung": false,
+        "giaiThich": "Thể u sùi thường có độ biệt hóa cao hơn và không nhất thiết phải chứa tế bào nhẫn."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "tinhHuong": "Câu đầu tiên trong phần 'Đại thể' có nêu rõ con số này.",
+    "cauHoi": "Theo phân loại của Borrmann, ung thư đại tràng có bao nhiêu thể giải phẫu bệnh đại thể?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Bốn thể",
+        "dung": true,
+        "giaiThich": "Văn bản nêu rõ 'ung thư đại tràng có bốn thể giải phẫu bệnh theo phân loại của Borrmann'."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ba thể",
+        "dung": false,
+        "giaiThich": "Con số này không chính xác; văn bản liệt kê bốn thể đại thể."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Năm thể",
+        "dung": false,
+        "giaiThich": "Văn bản chỉ liệt kê bốn thể, không phải năm."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Hai thể",
+        "dung": false,
+        "giaiThich": "Có nhiều hơn hai thể được mô tả trong phần đại thể."
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "tinhHuong": "Sự sắp xếp của tế bào ung thư so với cấu trúc bình thường của thành ruột cho thấy điều gì?",
+    "cauHoi": "Văn bản nói rằng hệ thống phân độ Dukes dựa vào 'sự sắp xếp tế bào'. Điều này ngụ ý việc đánh giá yếu tố nào là trọng tâm?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Mức độ xâm lấn của khối u qua các lớp của thành ruột.",
+        "dung": true,
+        "giaiThich": "Sự 'sắp xếp tế bào' trong bối cảnh này phản ánh mức độ khối u còn khu trú hay đã phá vỡ các cấu trúc bình thường để xâm lấn sâu hơn, đây là cốt lõi của hệ thống phân giai đoạn Dukes."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Hình dạng riêng lẻ của từng tế bào ung thư.",
+        "dung": false,
+        "giaiThich": "Việc đánh giá hình dạng tế bào riêng lẻ (nhân to hay nhỏ, đa hình thái) thuộc về phân độ mô học (grading), trong khi Dukes là hệ thống phân giai đoạn (staging)."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Tốc độ phân chia của các tế bào ung thư.",
+        "dung": false,
+        "giaiThich": "Tốc độ phân chia (chỉ số mitos) là một yếu tố của phân độ mô học (grading), không phải là trọng tâm chính của hệ thống Dukes."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Phản ứng của hệ miễn dịch đối với các tế bào ung thư.",
+        "dung": false,
+        "giaiThich": "Phản ứng miễn dịch không phải là tiêu chí chính trong hệ thống phân giai đoạn Dukes cổ điển."
+    ]
+  },
+  {
+    "id": 113,
+    "tinhHuong": "Hãy nghĩ về yếu tố quyết định liệu ung thư còn ở giai đoạn đầu hay đã phát triển sâu hơn vào các lớp của thành thực quản.",
+    "cauHoi": "Tiêu chí phân loại chính về mặt đại thể để chia ung thư thực quản thành 'ung thư sớm' và 'thể tiến triển' là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Mức độ xâm lấn của tổn thương vào thành thực quản",
+        "dung": true,
+        "giaiThich": "Đây là yếu tố cốt lõi; ung thư sớm được định nghĩa là chưa vượt qua lớp dưới niêm mạc, trong khi thể tiến triển đã xâm lấn sâu hơn."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Hình dạng của khối u (sùi, loét, phẳng)",
+        "dung": false,
+        "giaiThich": "Hình dạng mô tả các loại phụ trong mỗi nhóm (sớm hoặc tiến triển), chứ không phải là tiêu chí để phân chia hai nhóm chính này."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Kích thước của khối u",
+        "dung": false,
+        "giaiThich": "Mặc dù kích thước có thể liên quan, văn bản nhấn mạnh độ sâu xâm lấn là tiêu chí định nghĩa, không phải kích thước bề mặt."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sự hiện diện của hoại tử trung tâm",
+        "dung": false,
+        "giaiThich": "Hoại tử trung tâm là một đặc điểm thường thấy ở các khối u lớn (như dạng sùi), nhưng không phải là tiêu chí phân loại cơ bản giữa ung thư sớm và tiến triển."
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "tinhHuong": "Hãy hình dung một khối u phát triển lồi vào bên trong lòng ống thực quản.",
+    "cauHoi": "Đặc điểm đại thể nào sau đây mô tả chính xác nhất cho ung thư thực quản dạng sùi?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Khối u lồi vào lòng thực quản, bề mặt không đều và có loét ở trung tâm.",
+        "dung": true,
+        "giaiThich": "Văn bản mô tả dạng sùi là khối u phát triển vào lòng thực quản, với bề mặt gồ ghề và thường có hoại tử ở trung tâm."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Tổ chức ung thư lan toả làm dày đều thành thực quản.",
+        "dung": false,
+        "giaiThich": "Mô tả này tương ứng với dạng thâm nhiễm, nơi ung thư phát triển lan toả trong thành thực quản."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ổ loét sâu có đáy hoại tử và xâm lấn sâu vào thành.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm điển hình của ung thư dạng loét."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tổn thương phẳng hoặc chỉ nhô lên hay lõm xuống một chút so với niêm mạc.",
+        "dung": false,
+        "giaiThich": "Mô tả này phù hợp với ung thư sớm loại II (thể phẳng)."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "tinhHuong": "Hãy tìm mô tả về cách các tế bào ung thư biểu mô vảy sắp xếp với nhau trong mục 3.2.",
+    "cauHoi": "Về mặt vi thể, cấu trúc điển hình của ung thư biểu mô vảy được mô tả như thế nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Khối u có cấu trúc thuỳ, đôi khi các tế bào xếp thành bè.",
+        "dung": true,
+        "giaiThich": "Văn bản mô tả chính xác cấu trúc vi thể của ung thư biểu mô vảy là dạng thuỳ hoặc bè."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Các tế bào hình thành các cấu trúc dạng tuyến nhú hoặc nang tuyến.",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm vi thể của ung thư biểu mô tuyến, không phải biểu mô vảy."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Các tế bào ung thư chứa đầy chất nhầy đẩy lệch nhân tế bào (tế bào nhẫn).",
+        "dung": false,
+        "giaiThich": "Tế bào nhẫn là một đặc điểm của một loại ung thư biểu mô tuyến."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Các tế bào ung thư không biệt hoá, sắp xếp hỗn loạn.",
+        "dung": false,
+        "giaiThich": "'Không biệt hoá' là một mức độ của sự biệt hoá tế bào, không phải là cấu trúc điển hình được mô tả cho ung thư biểu mô vảy nói chung."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "tinhHuong": "Hãy xem xét hai loại chính của ung thư biểu mô được mô tả trong mục 3.2.",
+    "cauHoi": "Về mặt vi thể, loại ung thư biểu mô nào chiếm tỷ lệ cao nhất trong các ca ung thư thực quản (khoảng 90%)?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ung thư biểu mô vảy",
+        "dung": true,
+        "giaiThich": "Văn bản nêu rõ rằng ung thư biểu mô vảy là loại phổ biến nhất, chiếm khoảng 90% các trường hợp."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ung thư biểu mô tuyến",
+        "dung": false,
+        "giaiThich": "Ung thư biểu mô tuyến chỉ chiếm khoảng 9%, ít phổ biến hơn đáng kể so với ung thư biểu mô vảy."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ung thư tế bào nhẫn",
+        "dung": false,
+        "giaiThich": "Ung thư tế bào nhẫn là một loại phụ của ung thư biểu mô tuyến, không phải là loại chính chiếm 90%."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ung thư không biệt hoá",
+        "dung": false,
+        "giaiThich": "'Không biệt hoá' là một mức độ biệt hoá của tế bào, không phải là một loại ung thư biểu mô riêng biệt chiếm đa số."
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "tinhHuong": "Hãy tập trung vào cách loại ung thư này phát triển và ảnh hưởng đến cấu trúc của thành thực quản.",
+    "cauHoi": "Đặc điểm mô tả đúng nhất về ung thư thực quản thể thâm nhiễm là gì?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Tổ chức ung thư lan toả, làm dày đều thành và gây hẹp lòng thực quản",
+        "dung": true,
+        "giaiThich": "Đây là mô tả chính xác về thể thâm nhiễm, nơi ung thư xâm lấn lan toả thay vì tạo thành một khối u rõ rệt."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Khối u sùi vào lòng thực quản với bề mặt không đều",
+        "dung": false,
+        "giaiThich": "Mô tả này phù hợp với dạng sùi, không phải dạng thâm nhiễm."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ổ loét sâu, đáy thường có hoại tử",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của dạng loét, một hình thái khác của ung thư tiến triển."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Tổn thương dạng polyp lồi vào trong lòng thực quản",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm của ung thư sớm loại I, không phải thể thâm nhiễm tiến triển."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "tinhHuong": "Hãy tìm mô tả tương ứng với 'Loại I' trong phần 'Ung thư sớm'.",
+    "cauHoi": "Trong phân loại đại thể của ung thư thực quản sớm, 'Loại I' được mô tả là có hình thái nào?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Dạng polyp",
+        "dung": true,
+        "giaiThich": "Văn bản xác định rõ ràng Loại I của ung thư sớm là dạng lồi, hay dạng polyp."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Dạng phẳng",
+        "dung": false,
+        "giaiThich": "Dạng phẳng thuộc về Loại II, không phải Loại I."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Dạng loét",
+        "dung": false,
+        "giaiThich": "Dạng loét được phân loại là Loại III."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Dạng lõm nông",
+        "dung": false,
+        "giaiThich": "Dạng lõm nông (IIc) là một phân loại phụ của Loại II (dạng phẳng)."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "tinhHuong": "Hãy tìm nhóm ung thư được mô tả là 'rất ít gặp' và chiếm khoảng 1% các trường hợp.",
+    "cauHoi": "Các loại ung thư như Sarcom Kaposi và ung thư cơ trơn thuộc nhóm nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ung thư không thuộc biểu mô",
+        "dung": true,
+        "giaiThich": "Đây là nhóm bao gồm các loại sarcom và ung thư hắc tố, được phân biệt với các loại ung thư biểu mô phổ biến hơn."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ung thư biểu mô vảy",
+        "dung": false,
+        "giaiThich": "Ung thư biểu mô vảy là loại ung thư biểu mô phổ biến nhất, không bao gồm các loại sarcom."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ung thư biểu mô tuyến",
+        "dung": false,
+        "giaiThich": "Ung thư biểu mô tuyến là một loại ung thư biểu mô, khác với các loại sarcom được đề cập."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Ung thư thể tiến triển",
+        "dung": false,
+        "giaiThich": "'Thể tiến triển' là một giai đoạn của bệnh, không phải là một nhóm phân loại vi thể."
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "tinhHuong": "Xem lại mô tả của dạng sùi và tìm đặc điểm không được liệt kê.",
+    "cauHoi": "Đặc điểm nào sau đây KHÔNG phải là của ung thư thực quản dạng sùi?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Xâm lấn lan toả, làm dày đều thành thực quản",
+        "dung": true,
+        "giaiThich": "Đặc điểm này thuộc về dạng thâm nhiễm, không phải dạng sùi vốn tạo thành khối u lồi vào lòng thực quản."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Khối u sùi vào lòng thực quản",
+        "dung": false,
+        "giaiThich": "Đây là đặc điểm chính của dạng sùi."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Bề mặt không đều, dễ chảy máu",
+        "dung": false,
+        "giaiThich": "Văn bản mô tả dạng sùi có bề mặt không đều và dễ chảy máu."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Thường có loét hoại tử ở trung tâm",
+        "dung": false,
+        "giaiThich": "Loét hoại tử ở trung tâm là một đặc điểm phổ biến của khối u dạng sùi."
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "tinhHuong": "Tìm các ví dụ được liệt kê trong ngoặc đơn ngay sau khi đề cập đến ung thư biểu mô tuyến.",
+    "cauHoi": "Theo phân loại vi thể, ung thư biểu mô tuyến có thể bao gồm loại nào sau đây?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ung thư dạng tế bào nhẫn",
+        "dung": true,
+        "giaiThich": "Ung thư tế bào nhẫn được liệt kê là một trong các loại vi thể của ung thư biểu mô tuyến."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Ung thư biểu mô vảy biệt hoá vừa",
+        "dung": false,
+        "giaiThich": "Đây là một mức độ biệt hoá của ung thư biểu mô vảy, không phải là một loại của ung thư biểu mô tuyến."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Ung thư của tổ chức xơ",
+        "dung": false,
+        "giaiThich": "Đây là một loại ung thư không thuộc biểu mô, rất hiếm gặp."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Sarcom Kaposi",
+        "dung": false,
+        "giaiThich": "Sarcom Kaposi là một loại ung thư không thuộc biểu mô."
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "tinhHuong": "Hãy đọc kỹ phần mô tả của Loại II trong mục 'Ung thư sớm' để tìm câu trả lời.",
+    "cauHoi": "Ung thư thực quản sớm loại II (thể phẳng) được chia thành mấy loại phụ?",
+    "dapAn": [
+      {
+        "luaChon": "A",
+        "noiDung": "Ba loại (IIa, IIb, IIc)",
+        "dung": true,
+        "giaiThich": "Văn bản nêu rõ thể phẳng (Loại II) được chia thành ba loại phụ: nhô nông (IIa), phẳng (IIb), và lõm nông (IIc)."
+      },
+      {
+        "luaChon": "B",
+        "noiDung": "Hai loại (lồi và lõm)",
+        "dung": false,
+        "giaiThich": "Đây là một cách mô tả đơn giản hóa, văn bản cung cấp phân loại cụ thể hơn với ba loại phụ."
+      },
+      {
+        "luaChon": "C",
+        "noiDung": "Bốn loại (theo mức độ biệt hoá)",
+        "dung": false,
+        "giaiThich": "Phân loại theo mức độ biệt hoá được áp dụng cho ung thư biểu mô vảy ở cấp độ vi thể, không phải cho phân loại đại thể của ung thư sớm."
+      },
+      {
+        "luaChon": "D",
+        "noiDung": "Không được chia thành loại phụ",
+        "dung": false,
+        "giaiThich": "Văn bản đã chỉ rõ rằng Loại II được chia thành các loại phụ."
+      }
+    ]
   }
-
 ]
